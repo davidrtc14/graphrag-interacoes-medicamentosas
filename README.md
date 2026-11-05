@@ -25,62 +25,115 @@ O modelo do grafo e as decisões estão em [docs/ESPECIFICACAO_E_PLANO.md](docs/
 
 ## Requisitos
 
-- Python 3.11 ou superior
-- Docker Desktop
-- Chave gratuita do [Google AI Studio](https://aistudio.google.com) e, como reserva, do [Groq](https://console.groq.com)
+- [Git](https://git-scm.com)
+- [Python](https://www.python.org/downloads/) 3.11 ou superior
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) aberto e em execução
+- Chave gratuita do [Google AI Studio](https://aistudio.google.com) e, como reserva, do [Groq](https://console.groq.com); basta uma delas para o sistema funcionar
 
-## Instalação
+## Como inicializar
+
+O caminho mais rápido usa o grafo pronto do repositório e não gasta cota com a extração. Na primeira execução, o modelo de embeddings e a imagem do Neo4j são baixados automaticamente.
+
+### 1. Baixar o projeto
 
 ```bash
+git clone https://github.com/davidrtc14/graphrag-interacoes-medicamentosas.git
+```
+
+```bash
+cd graphrag-interacoes-medicamentosas
+```
+
+### 2. Criar o ambiente e instalar as dependências
+
+No Windows (PowerShell):
+
+```powershell
 python -m venv .venv
-.venv/Scripts/python.exe -m pip install -r requirements.txt
-.venv/Scripts/python.exe -m pip install -e .
+.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+python -m pip install -e .
+Copy-Item .env.example .env
+```
+
+No Linux ou macOS:
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements.txt
+python -m pip install -e .
 cp .env.example .env
 ```
 
-No Linux ou macOS, troque `.venv/Scripts/` por `.venv/bin/`. Depois, edite o `.env`: defina `NEO4J_PASSWORD` e preencha as chaves.
+Se o PowerShell bloquear a ativação, execute `Set-ExecutionPolicy -Scope Process RemoteSigned` e tente de novo.
+
+### 3. Configurar o `.env`
+
+Abra o arquivo `.env` e preencha:
+
+- `NEO4J_PASSWORD`: uma senha sua, com pelo menos 8 caracteres
+- `GEMINI_API_KEY` e `GROQ_API_KEY`: suas chaves
+
+O `.env` fica fora do Git. Nunca envie esse arquivo nem suas chaves para o repositório.
+
+### 4. Iniciar o Neo4j
 
 ```bash
 docker compose up -d --wait
 ```
 
-Os comandos abaixo usam o ambiente virtual ativado, ou `.venv/Scripts/graphrag.exe` no lugar de `graphrag`.
+O painel do Neo4j fica em <http://localhost:7474>, com o usuário `neo4j` e a senha do `.env`.
 
-## Construir o grafo
-
-### Com o grafo pronto, sem gastar cota
+### 5. Carregar o grafo pronto
 
 ```bash
 graphrag importar
 ```
 
-Este comando exige o arquivo `data/grafo/grafo.json.gz`, gerado por `graphrag exportar`.
+### 6. Abrir a interface
 
-### Do zero
+```bash
+streamlit run app/streamlit_app.py
+```
+
+A interface abre em <http://localhost:8501>. Para testar pelo terminal:
+
+```bash
+graphrag perguntar "A claritromicina pode alterar o efeito da sinvastatina?"
+```
+
+### Nas próximas vezes
+
+Abra o Docker Desktop, entre na pasta do projeto, ative o ambiente (passo 2) e execute os passos 4 e 6. O grafo continua salvo no Docker.
+
+Para desligar o Neo4j, use `docker compose down`. Esse comando mantém os dados.
+
+### Problemas comuns
+
+| Problema | O que fazer |
+|---|---|
+| `graphrag` ou `streamlit` não é reconhecido | Ative o ambiente virtual (passo 2) |
+| Erro ao conectar ao Neo4j | Abra o Docker Desktop e repita o passo 4 |
+| Falha de autenticação no Neo4j após trocar a senha | A senha fica gravada no primeiro início. Volte à senha anterior ou apague os dados com `docker compose down -v` e repita os passos 4 e 5 |
+| "Nenhum provedor configurado" | Preencha ao menos uma chave no `.env` |
+| "Todos os provedores falharam" | Os planos gratuitos têm limites. Aguarde e tente de novo |
+
+## Reconstruir o grafo do zero
+
+Este caminho é opcional e consome a cota gratuita do LLM.
 
 ```bash
 graphrag baixar
 graphrag schema
 graphrag extrair --limite 5
 graphrag extrair
-graphrag carregar
+graphrag carregar --limpar
 graphrag algoritmos
 graphrag exportar
 ```
 
-O comando `extrair` salva cada bula em `data/extracoes`. Se a cota acabar, basta executá-lo de novo: ele continua de onde parou. Comece com `--limite 5` e revise o resultado antes de processar o restante.
-
-## Usar
-
-```bash
-streamlit run app/streamlit_app.py
-```
-
-Ou no terminal:
-
-```bash
-graphrag perguntar "A claritromicina pode alterar o efeito da sinvastatina?"
-```
+O comando `extrair` salva cada bula em `data/extracoes` e não refaz o que já existe. Se a cota acabar, basta executá-lo de novo: ele continua de onde parou. O repositório já traz as extrações das 60 bulas, então, para refazê-las, apague antes os arquivos dessa pasta. A opção `--limpar` apaga a base do Neo4j antes de recarregá-la.
 
 ## Avaliar
 
