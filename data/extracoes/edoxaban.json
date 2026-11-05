@@ -1,0 +1,131 @@
+{
+ "generico": "edoxaban",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "edoxaban:drug_interactions:0",
+   "medicamento": "edoxaban",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Anticoagulants, Antiplatelets, Thrombolytics, and Selective Serotonin Reuptake Inhibitors (SSRIs)/Serotonin Norepinephrine Reuptake Inhibitors (SNRIs): Avoid concomitant use due to increased risk of bleeding. ( 7.1 ) Rifampin: Avoid concomitant use ( 7.2 ) 7.1 Anticoagulants, Antiplatelets, Thrombolytics, and SSRIs/SNRIs Co-administration of anticoagulants, antiplatelet drugs, thrombolytics and SSRIs or SNRIs may increase the risk of bleeding. Promptly evaluate any signs or symptoms of blood loss if patients are treated concomitantly with anticoagulants, aspirin, other platelet aggregation inhibitors, and/or NSAIDs [see Warnings and Precautions (5.3) ] . Long-term concomitant treatment with SAVAYSA and other anticoagulants is not recommended because of increased risk of bleeding [see Warnings and Precautions (5.3) ] . Short term co-administration may be needed for patients transitioning to or from SAVAYSA [see Dosage and Administration (2.4) ] . In clinical studies with SAVAYSA concomitant use of aspirin (low dose ≤ 100 mg/day) or thienopyridines, and NSAIDs was permitted and resulted in increased rates of Clinically Relevant Bleeding."
+  },
+  {
+   "id": "edoxaban:drug_interactions:1",
+   "medicamento": "edoxaban",
+   "secao": "drug_interactions",
+   "texto": "Carefully monitor for bleeding in patients who require chronic treatment with low dose aspirin and/or NSAIDs [see Warnings and Precautions (5.3) and Clinical Pharmacology (12.3) ] . As with other anticoagulants the possibility may exist that patients are at an increased risk of bleeding in case of concomitant use with SSRIs or SNRIs due to their reported effect on platelets [see Warnings and Precautions (5.3) ]. 7.2 P-gp Inducers Avoid the concomitant use of SAVAYSA with rifampin [see Clinical Pharmacology (12.3) ] . 7.3 P-gp Inhibitors Treatment of NVAF Based on clinical experience from the ENGAGE AF-TIMI 48 study, dose reduction in patients concomitantly receiving P-gp inhibitors resulted in edoxaban blood levels that were lower than in patients who were given the full dose. Consequently, no dose reduction is recommended for concomitant P-gp inhibitor use [see Dosage and Administration (2.1) , Clinical Pharmacology (12.3) , and Clinical Studies (14.1) ] . Treatment of Deep Vein Thrombosis and Pulmonary Embolism [see Clinical Studies (14.2) ]"
+  },
+  {
+   "id": "edoxaban:contraindications:0",
+   "medicamento": "edoxaban",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS SAVAYSA is contraindicated in patients with: Active pathological bleeding [see Warnings and Precautions (5.3) and Adverse Reactions (6.1) ] . Active pathological bleeding ( 4 )"
+  },
+  {
+   "id": "edoxaban:clinical_pharmacology:0",
+   "medicamento": "edoxaban",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Edoxaban is a selective inhibitor of FXa. Edoxaban inhibits free FXa, and prothrombinase activity and inhibits thrombin-induced platelet aggregation. Inhibition of FXa in the coagulation cascade reduces thrombin generation and reduces thrombus formation. 12.2 Pharmacodynamics As a result of FXa inhibition, edoxaban prolongs clotting time tests such as prothrombin time (PT), and activated partial thromboplastin time (aPTT). Metabolism Unchanged edoxaban is the predominant form in plasma. There is minimal metabolism via hydrolysis (mediated by carboxylesterase 1), conjugation, and oxidation by CYP3A4. Metabolism and biliary/intestinal excretion account for the remaining clearance. Drug Interactions In vitro Drug Interactions Studies In vitro studies indicate that edoxaban does not inhibit the major cytochrome P450 enzymes (CYP1A2, 2A6, 2B6, 2C8/9, 2C19, 2D6, 2E1, or 3A4) and does not induce CYP1A2, CYP3A4 or the P-gp transporter (MDR1)."
+  },
+  {
+   "id": "edoxaban:clinical_pharmacology:1",
+   "medicamento": "edoxaban",
+   "secao": "clinical_pharmacology",
+   "texto": "In vitro data also indicate that edoxaban does not inhibit the following transporters at clinically relevant concentrations: P-gp, the organic anion transporters OAT1 or OAT3; the organic cation transporters OCT1 or OCT2; or the organic ion transporting polypeptides OATP1B1 or OATP1B3. Edoxaban is a substrate of P-gp transporter."
+  },
+  {
+   "id": "edoxaban:pharmacokinetics:0",
+   "medicamento": "edoxaban",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism Unchanged edoxaban is the predominant form in plasma. There is minimal metabolism via hydrolysis (mediated by carboxylesterase 1), conjugation, and oxidation by CYP3A4. Metabolism and biliary/intestinal excretion account for the remaining clearance. Drug Interactions In vitro Drug Interactions Studies In vitro studies indicate that edoxaban does not inhibit the major cytochrome P450 enzymes (CYP1A2, 2A6, 2B6, 2C8/9, 2C19, 2D6, 2E1, or 3A4) and does not induce CYP1A2, CYP3A4 or the P-gp transporter (MDR1). In vitro data also indicate that edoxaban does not inhibit the following transporters at clinically relevant concentrations: P-gp, the organic anion transporters OAT1 or OAT3; the organic cation transporters OCT1 or OCT2; or the organic ion transporting polypeptides OATP1B1 or OATP1B3. Edoxaban is a substrate of P-gp transporter."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "edoxaban:drug_interactions:0",
+   "origem": "edoxaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "aspirin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "In clinical studies with SAVAYSA concomitant use of aspirin (low dose ≤ 100 mg/day) or thienopyridines, and NSAIDs was permitted and resulted in increased rates of Clinically Relevant Bleeding.",
+   "efeito": "increased rates of clinically relevant bleeding",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "edoxaban:drug_interactions:1",
+   "origem": "edoxaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Avoid the concomitant use of SAVAYSA with rifampin",
+   "efeito": "",
+   "confianca": 0.5,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "edoxaban:drug_interactions:1",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "7.2 P-gp Inducers Avoid the concomitant use of SAVAYSA with rifampin",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "edoxaban:contraindications:0",
+   "origem": "edoxaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "active pathological bleeding",
+   "tipo_destino": "Condicao",
+   "evidencia": "SAVAYSA is contraindicated in patients with: Active pathological bleeding",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "edoxaban:clinical_pharmacology:0",
+   "origem": "edoxaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "There is minimal metabolism via hydrolysis (mediated by carboxylesterase 1), conjugation, and oxidation by CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "edoxaban:clinical_pharmacology:0",
+   "origem": "edoxaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "carboxylesterase 1",
+   "tipo_destino": "Enzima",
+   "evidencia": "There is minimal metabolism via hydrolysis (mediated by carboxylesterase 1)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "edoxaban:clinical_pharmacology:1",
+   "origem": "edoxaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Edoxaban is a substrate of P-gp transporter.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

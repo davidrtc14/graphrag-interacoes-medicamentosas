@@ -1,0 +1,131 @@
+{
+ "generico": "chlorthalidone",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "chlorthalidone:drug_interactions:0",
+   "medicamento": "chlorthalidone",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions Chlorthalidone may add to or potentiate the action of other antihypertensive drugs. Potentiation occurs with ganglionic peripheral adrenergic blocking drugs. Medication such as digitalis may also influence serum electrolytes. Warning signs, irrespective of cause, are: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension, oliguria, tachycardia, and gastrointestinal disturbances such as nausea and vomiting. Insulin requirements in diabetic patients may be increased, decreased, or unchanged. Higher dosage of oral hypoglycemic agents may be required. Latent diabetes mellitus may become manifest during chlorthalidone administration. Chlorthalidone and related drugs may increase the responsiveness to tubocurarine. Chlorthalidone and related drugs may decrease arterial responsiveness to norepinephrine. This diminution is not sufficient to preclude effectiveness of the pressor agent for therapeutic use."
+  },
+  {
+   "id": "chlorthalidone:contraindications:0",
+   "medicamento": "chlorthalidone",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Anuria. Known hypersensitivity to chlorthalidone or other sulfonamide-derived drugs."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "chlorthalidone:drug_interactions:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digitalis",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Medication such as digitalis may also influence serum electrolytes.",
+   "efeito": "may influence serum electrolytes",
+   "confianca": 0.8,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:drug_interactions:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "insulin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Insulin requirements in diabetic patients may be increased, decreased, or unchanged.",
+   "efeito": "may increase or decrease insulin requirements",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:drug_interactions:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tubocurarine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Chlorthalidone and related drugs may increase the responsiveness to tubocurarine.",
+   "efeito": "increase the responsiveness to tubocurarine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:drug_interactions:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "norepinephrine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Chlorthalidone and related drugs may decrease arterial responsiveness to norepinephrine.",
+   "efeito": "decrease arterial responsiveness to norepinephrine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:drug_interactions:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "diabetes mellitus",
+   "tipo_destino": "Efeito",
+   "evidencia": "Latent diabetes mellitus may become manifest during chlorthalidone administration.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:drug_interactions:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "hypotension",
+   "tipo_destino": "Efeito",
+   "evidencia": "Warning signs, irrespective of cause, are: dryness of mouth, thirst, weakness, lethargy, drowsiness, restlessness, muscle pains or cramps, muscular fatigue, hypotension",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:drug_interactions:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "nausea",
+   "tipo_destino": "Efeito",
+   "evidencia": "gastrointestinal disturbances such as nausea and vomiting.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:contraindications:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "anuria",
+   "tipo_destino": "Condicao",
+   "evidencia": "CONTRAINDICATIONS Anuria.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "chlorthalidone:contraindications:0",
+   "origem": "chlorthalidone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Known hypersensitivity to chlorthalidone or other sulfonamide-derived drugs.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": []
+}

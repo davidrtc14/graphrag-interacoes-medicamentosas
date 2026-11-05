@@ -1,0 +1,908 @@
+{
+ "generico": "ritonavir",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "ritonavir:drug_interactions:0",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS When co-administering ritonavir with other protease inhibitors (atazanavir, darunavir, fosamprenavir, saquinavir, and tipranavir), see the full prescribing information for that protease inhibitor including important information for drug interactions. Co-administration of ritonavir can alter the concentrations of other drugs. The potential for drug-drug interactions must be considered prior to and during therapy. (4, 5.1, 7, 12.3) 7.1 Potential for Ritonavir to Affect Other Drugs Ritonavir is an inhibitor of cytochrome P450 3A (CYP3A) and may increase plasma concentrations of agents that are primarily metabolized by CYP3A. Agents that are extensively metabolized by CYP3A and have high first pass metabolism appear to be the most susceptible to large increases in AUC (greater than 3-fold) when co-administered with ritonavir. Thus, co-administration of ritonavir with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening events is contraindicated. Co-administration with other CYP3A substrates may require a dose adjustment or additional monitoring as shown in Table 3."
+  },
+  {
+   "id": "ritonavir:drug_interactions:1",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Ritonavir also inhibits CYP2D6 to a lesser extent. Co-administration of substrates of CYP2D6 with ritonavir could result in increases (up to 2-fold) in the AUC of the other agent, possibly requiring a proportional dosage reduction. Ritonavir also appears to induce CYP3A, CYP1A2, CYP2C9, CYP2C19, and CYP2B6 as well as other enzymes, including glucuronosyl transferase. These examples are a guide and not considered a comprehensive list of all possible drugs that may interact with ritonavir. The healthcare provider should consult appropriate references for comprehensive information. 7.2 Established and Other Potentially Significant Drug Interactions Table 3 provides a list of established or potentially clinically significant drug interactions. Alteration in dose or regimen may be recommended based on drug interaction studies or predicted interaction [see Contraindications (4) , Warnings and Precautions (5.1) , and Clinical Pharmacology (12.3) ] for magnitude of interaction. Table 3."
+  },
+  {
+   "id": "ritonavir:drug_interactions:2",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Established and Other Potentially Significant Drug Interactions Concomitant Drug Class: Drug Name Effect on Concentration of Ritonavir or Concomitant Drug Clinical Comment HIV-Antiviral Agents HIV-1 Protease Inhibitor: atazanavir darunavir fosamprenavir ↑ amprenavir ↑ atazanavir ↑ darunavir See the complete prescribing information for fosamprenavir, atazanavir, darunavir for details on co-administration with ritonavir. HIV-1 Protease Inhibitor: indinavir ↑ indinavir Appropriate doses for this combination, with respect to efficacy and safety, have not been established. HIV-1 Protease Inhibitor: saquinavir ↑ saquinavir See the complete prescribing information for saquinavir for details on co-administration of saquinavir and ritonavir. Saquinavir/ritonavir in combination with rifampin is not recommended due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three drugs are given together. HIV-1 Protease Inhibitor: tipranavir ↑ tipranavir See the complete prescribing information for tipranavir for details on co-administration of tipranavir and ritonavir."
+  },
+  {
+   "id": "ritonavir:drug_interactions:3",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Non-Nucleoside Reverse Transcriptase Inhibitor: delavirdine ↑ ritonavir Appropriate doses of this combination with respect to safety and efficacy have not been established. HIV-1 CCR5 – antagonist: maraviroc ↑ maraviroc See the complete prescribing information for maraviroc for details on co-administration of maraviroc and ritonavir-containing protease inhibitors. Integrase Inhibitor: raltegravir ↓ raltegravir The effects of ritonavir on raltegravir with ritonavir dosage regimens greater than 100 mg twice daily have not been evaluated, however raltegravir concentrations may be decreased with ritonavir co-administration. Other Agents Alpha 1-Adrenoreceptor Antagonist: alfuzosin ↑ alfuzosin Contraindicated due to potential hypotension [see Contraindications (4) ] . Antianginal: ranolazine ↑ ranolazine Contraindicated due to potential for serious and/or life-threatening reactions [see Contraindications (4) ] . Analgesics, Opioid: tramadol, propoxyphene, methadone, fentanyl ↑ analgesics ↓ methadone ↑ fentanyl A dose decrease may be needed for these drugs when co-administered with ritonavir. Dosage increase of methadone may be considered."
+  },
+  {
+   "id": "ritonavir:drug_interactions:4",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Careful monitoring of therapeutic and adverse effects (including potentially fatal respiratory depression) is recommended when fentanyl is concomitantly administered with ritonavir. Analgesics, Non-opioid (selective blocker of Na v 1.8 sodium channels) suzetrigine ↑ suzetrigine and active metabolite M6-SUZ Co-administration contraindicated due to potential for serious and/or life-threatening suzetrigine adverse reactions [see Contraindications (4) ] . Anesthetic: meperidine ↓ meperidine/ ↑ normeperidine (metabolite) Dosage increase and long-term use of meperidine with ritonavir are not recommended due to the increased concentrations of the metabolite normeperidine which has both analgesic activity and CNS stimulant activity (e.g., seizures). Antiarrhythmics: amiodarone, dronedarone, flecainide, propafenone, quinidine ↑ antiarrhythmics Contraindicated due to potential for cardiac arrhythmias [see Contraindications (4) ] . Antiarrhythmics: disopyramide, lidocaine, mexiletine ↑ antiarrhythmics Caution is warranted and therapeutic concentration monitoring is recommended for antiarrhythmics when co-administered with ritonavir, if available."
+  },
+  {
+   "id": "ritonavir:drug_interactions:5",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Anticancer Agents: abemaciclib, apalutamide, dasatinib, encorafenib, ibrutinib, ivosidenib, neratinib, nilotinib, venetoclax, vinblastine, vincristine ↑ anticancer agents ↓ ritonavir # Apalutamide is contraindicated due to potential for loss of virologic response and possible resistance to ritonavir or to the class of protease inhibitors [see Contraindications (4) ] . Avoid co-administration of encorafenib or ivosidenib with ritonavir due to potential risk of serious adverse events such as QT interval prolongation. If co-administration of encorafenib with ritonavir cannot be avoided, modify dose as recommended in encorafenib USPI. If co-administration of ivosidenib with ritonavir cannot be avoided, reduce ivosidenib dose to 250 mg once daily. Avoid use of neratinib, venetoclax or ibrutinib with ritonavir. For vincristine and vinblastine, consideration should be given to temporarily withholding the ritonavir containing antiretroviral regimen in patients who develop significant hematologic or gastrointestinal side effects when ritonavir is administered concurrently with vincristine or vinblastine."
+  },
+  {
+   "id": "ritonavir:drug_interactions:6",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Clinicians should be aware that if the ritonavir containing regimen is withheld for a prolonged period, consideration should be given to altering the regimen to not include a CYP3A or P-gp inhibitor in order to control HIV-1 viral load. A decrease in the dosage or an adjustment of the dosing interval of nilotinib and dasatinib may be necessary for patients requiring co-administration with strong CYP3A inhibitors such as ritonavir. Please refer to the nilotinib and dasatinib prescribing information for dosing instructions. Anticoagulant: warfarin ↑↓ warfarin Initial frequent monitoring of the INR during ritonavir and warfarin co-administration is recommended. Anticoagulant: rivaroxaban ↑ rivaroxaban Avoid concomitant use of rivaroxaban and ritonavir. Co-administration of ritonavir and rivaroxaban may lead to risk of increased bleeding. Anticonvulsants: carbamazepine, clonazepam, ethosuximide ↑ anticonvulsants A dose decrease may be needed for these drugs when co-administered with ritonavir and therapeutic concentration monitoring is recommended for these anticonvulsants, if available."
+  },
+  {
+   "id": "ritonavir:drug_interactions:7",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Anticonvulsants: divalproex, lamotrigine, phenytoin ↓ anticonvulsants A dose increase may be needed for these drugs when co-administered with ritonavir and therapeutic concentration monitoring is recommended for these anticonvulsants, if available. Antidepressants: nefazodone, selective serotonin reuptake inhibitors (SSRIs): e.g., fluoxetine, paroxetine, tricyclics: e.g., amitriptyline, nortriptyline ↑ antidepressants A dose decrease may be needed for these drugs when co-administered with ritonavir. Antidepressant: bupropion ↓ bupropion ↓ active metabolite, hydroxybupropion Patients receiving ritonavir and bupropion concurrently should be monitored for an adequate clinical response to bupropion. Antidepressant: desipramine ↑ desipramine Dosage reduction and concentration monitoring of desipramine is recommended. Antidepressant: trazodone ↑ trazodone Adverse events of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and ritonavir. A lower dose of trazodone should be considered. Antiemetic: dronabinol ↑ dronabinol A dose decrease of dronabinol may be needed when co-administered with ritonavir."
+  },
+  {
+   "id": "ritonavir:drug_interactions:8",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Antifungals: ketoconazole itraconazole voriconazole ↑ ketoconazole ↑ itraconazole ↓ voriconazole High doses of ketoconazole or itraconazole (greater than 200 mg per day) are not recommended. Co-administration of voriconazole and ritonavir doses of 400 mg every 12 hours or greater is contraindicated due to the potential for loss of antifungal response [see Contraindications (4) ] . Co-administration of voriconazole and ritonavir 100 mg should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. Anti-gout: colchicine ↑ colchicine Contraindicated due to potential for serious and/or life-threatening reactions in patients with renal and/or hepatic impairment [see Contraindications (4) ] . For patients with normal renal or hepatic function: Treatment of gout flares-co-administration of colchicine in patients on ritonavir: 0.6 mg (one tablet) for one dose, followed by 0.3 mg (half tablet) one hour later. Dose to be repeated no earlier than three days."
+  },
+  {
+   "id": "ritonavir:drug_interactions:9",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Prophylaxis of gout flares-co-administration of colchicine in patients on ritonavir: If the original colchicine regimen was 0.6 mg twice a day, the regimen should be adjusted to 0.3 mg once a day. If the original colchicine regimen was 0.6 mg once a day, the regimen should be adjusted to 0.3 mg once every other day. Treatment of familial Mediterranean fever (FMF)-co-administration of colchicine in patients on ritonavir: Maximum daily dose of 0.6 mg (may be given as 0.3 mg twice a day). Anti-infective: clarithromycin ↑ clarithromycin For patients with renal impairment, adjust clarithromycin dose as follows: For patients with CL CR 30 to 60 mL per min the dose of clarithromycin should be reduced by 50%. For patients with CL CR less than 30 mL per min the dose of clarithromycin should be decreased by 75%. No dose adjustment for patients with normal renal function is necessary. Antimycobacterial: bedaquiline ↑ bedaquiline Bedaquiline should only be used with ritonavir if the benefit of co-administration outweighs the risk."
+  },
+  {
+   "id": "ritonavir:drug_interactions:10",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Antimycobacterial: rifabutin ↑ rifabutin and rifabutin metabolite Dosage reduction of rifabutin by at least three-quarters of the usual dose of 300 mg per day is recommended (e.g., 150 mg every other day or three times a week). Further dosage reduction may be necessary. Antimycobacterial: rifampin ↓ ritonavir May lead to loss of virologic response. Alternate antimycobacterial agents such as rifabutin should be considered. Antiparasitic: atovaquone ↓ atovaquone Clinical significance is unknown; however, increase in atovaquone dose may be needed. Antiparasitic: quinine ↑ quinine A dose decrease of quinine may be needed when co-administered with ritonavir. Antipsychotics: lurasidone pimozide ↑ lurasidone ↑ pimozide Contraindicated due to potential for serious and/or life-threatening reactions [see Contraindications (4) ] . Contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias [see Contraindications (4) ] . Antipsychotics: perphenazine, risperidone, thioridazine ↑ antipsychotics A dose decrease may be needed for these drugs when co-administered with ritonavir."
+  },
+  {
+   "id": "ritonavir:drug_interactions:11",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Antipsychotics: quetiapine ↑ quetiapine Initiation of ritonavir in patients taking quetiapine: Consider alternative antiretroviral therapy to avoid increases in quetiapine exposures. If co-administration is necessary, reduce the quetiapine dose to 1/6 of the current dose and monitor for quetiapine-associated adverse reactions. Refer to the quetiapine prescribing information for recommendations on adverse reaction monitoring. Initiation of quetiapine in patients taking ritonavir: Refer to the quetiapine prescribing information for initial dosing and titration of quetiapine. β-Blockers: metoprolol, timolol ↑ beta-blockers Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir. Bronchodilator: theophylline ↓ theophylline Increased dosage of theophylline may be required; therapeutic monitoring should be considered. Calcium channel blockers: diltiazem, nifedipine, verapamil ↑ calcium channel blockers Caution is warranted and clinical monitoring of patients is recommended. A dose decrease may be needed for these drugs when co-administered with ritonavir."
+  },
+  {
+   "id": "ritonavir:drug_interactions:12",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Digoxin ↑ digoxin Concomitant administration of ritonavir with digoxin may increase digoxin levels. Caution should be exercised when co-administering ritonavir with digoxin, with appropriate monitoring of serum digoxin levels. Endothelin receptor antagonists: bosentan ↑ bosentan Co-administration of bosentan in patients on ritonavir: In patients who have been receiving ritonavir for at least 10 days, start bosentan at 62.5 mg once daily or every other day based upon individual tolerability. Co-administration of ritonavir in patients on bosentan: Discontinue use of bosentan at least 36 hours prior to initiation of ritonavir. After at least 10 days following the initiation of ritonavir, resume bosentan at 62.5 mg once daily or every other day based upon individual tolerability. GnRH Receptor Antagonists: elagolix ↑ elagolix ↓ ritonavir Concomitant use of elagolix 200 mg twice daily and ritonavir for more than 1 month is not recommended due to potential risk of adverse events such as bone loss and hepatic transaminase elevations. Limit concomitant use of elagolix 150 mg once daily and ritonavir to 6 months."
+  },
+  {
+   "id": "ritonavir:drug_interactions:13",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine ↑ ergot derivatives Contraindicated due to potential for acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system [see Contraindications (4) ] . GI Motility Agent: cisapride ↑ cisapride Contraindicated due to potential for cardiac arrhythmias [see Contraindications (4) ] . Hepatitis C direct acting antiviral: glecaprevir/pibrentasvir simeprevir ↑ glecaprevir ↑ pibrentasvir ↑simeprevir It is not recommended to co-administer ritonavir with glecaprevir/pibrentasvir, or simeprevir. Herbal Products: St. John's Wort (hypericum perforatum) ↓ ritonavir Contraindicated due to potential for loss of virologic response and possible resistance to ritonavir or to the class of protease inhibitors [see Contraindications (4) ] . Lipid-modifying agents HMG-CoA Reductase Inhibitor: lovastatin simvastatin atorvastatin rosuvastatin ↑ lovastatin ↑ simvastatin ↑ atorvastatin ↑ rosuvastatin Contraindicated due to potential for myopathy including rhabdomyolysis [see Contraindications (4) ]."
+  },
+  {
+   "id": "ritonavir:drug_interactions:14",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Titrate atorvastatin and rosuvastatin dose carefully and use the lowest necessary dose. If ritonavir is used with another protease inhibitor, see the complete prescribing information for the concomitant protease inhibitor for details on co-administration with atorvastatin and rosuvastatin. Microsomal triglyceride transfer protein (MTTP) Inhibitor: lomitapide ↑ lomitapide Lomitapide is a sensitive substrate for CYP3A4 metabolism. CYP3A4 inhibitors increase the exposure of lomitapide, with strong inhibitors increasing exposure approximately 27-fold. Concomitant use of moderate or strong CYP3A4 inhibitors with lomitapide is contraindicated due to potential for hepatotoxicity [see Contraindications (4) ] . Immunosuppressants: cyclosporine, tacrolimus, sirolimus (rapamycin) ↑ immunosuppressants Therapeutic concentration monitoring is recommended for immunosuppressant agents when co-administered with ritonavir. Kinase Inhibitors: fostamatinib (also see anticancer agents above) ↑ fostamatinib metabolite R406 Monitor for toxicities of R406 exposure resulting in dose-related adverse events such as hepatotoxicity and neutropenia. Fostamatinib dose reduction may be required."
+  },
+  {
+   "id": "ritonavir:drug_interactions:15",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Long-acting beta- adrenoceptor agonist: salmeterol ↑ salmeterol Concurrent administration of salmeterol and ritonavir is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol, including QT prolongation, palpitations and sinus tachycardia. Oral Contraceptives or Patch Contraceptives: ethinyl estradiol ↓ ethinyl estradiol Alternate methods of contraception should be considered. PDE5 Inhibitors: avanafil sildenafil, tadalafil, vardenafil ↑ avanafil ↑ sildenafil ↑ tadalafil ↑ vardenafil Sildenafil when used for the treatment of pulmonary arterial hypertension (Revatio ® ) is contraindicated due to the potential for sildenafil associated adverse events, including visual abnormalities, hypotension, prolonged erection, and syncope [see Contraindications (4) ] . Do not use ritonavir with avanafil because a safe and effective avanafil dosage regimen has not been established. Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil in patients receiving ritonavir."
+  },
+  {
+   "id": "ritonavir:drug_interactions:16",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Co-administration of ritonavir with these drugs may result in an increase in PDE5 inhibitor associated adverse events, including hypotension, syncope, visual changes, and prolonged erection. Use of PDE5 inhibitors for pulmonary arterial hypertension (PAH): Sildenafil (Revatio ® ) is contraindicated [see Contraindications (4) ] . The following dose adjustments are recommended for use of tadalafil (Adcirca ® ) with ritonavir: Co-administration of ADCIRCA in patients on ritonavir: In patients receiving ritonavir for at least one week, start ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability. Co-administration of ritonavir in patients on ADCIRCA: Avoid use of ADCIRCA during the initiation of ritonavir. Stop ADCIRCA at least 24 hours prior to starting ritonavir. After at least one week following the initiation of ritonavir, resume ADCIRCA at 20 mg once daily. Increase to 40 mg once daily based upon individual tolerability."
+  },
+  {
+   "id": "ritonavir:drug_interactions:17",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Use of PDE5 inhibitors for the treatment of erectile dysfunction: It is recommended not to exceed the following doses: Sildenafil: 25 mg every 48 hours Tadalafil: 10 mg every 72 hours Vardenafil: 2.5 mg every 72 hours Use with increased monitoring for adverse events. Sedative/Hypnotics: buspirone, clorazepate, diazepam, estazolam, flurazepam, zolpidem ↑ sedative/hypnotics A dose decrease may be needed for these drugs when co-administered with ritonavir. Sedative/Hypnotics: triazolam, orally administered midazolam ↑ triazolam ↑ midazolam Contraindicated due to potential for prolonged or increased sedation or respiratory depression [see Contraindications (4) ] . Sedative/Hypnotics: Parenteral midazolam ↑ midazolam Co-administration should be done in a setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage reduction for midazolam should be considered, especially if more than a single dose of midazolam is administered. Stimulant: methamphetamine ↑ methamphetamine Use with caution. A dose decrease of methamphetamine may be needed when co-administered with ritonavir."
+  },
+  {
+   "id": "ritonavir:drug_interactions:18",
+   "medicamento": "ritonavir",
+   "secao": "drug_interactions",
+   "texto": "Systemic/Inhaled/Nasal/Ophthalmic Corticosteroids: e.g., betamethasone budesonide ciclesonide dexamethasone fluticasone methylprednisolone mometasone prednisone triamcinolone ↑ glucocorticoids Co-administration with corticosteroids whose exposures are significantly increased by strong CYP3A inhibitors can increase the risk for Cushing’s syndrome and adrenal suppression. Alternative corticosteroids including beclomethasone and prednisolone (whose PK and/or PD are less affected by strong CYP3A inhibitors relative to other studied steroids) should be considered, particularly for long-term use. # refers to interaction with apalutamide."
+  },
+  {
+   "id": "ritonavir:contraindications:0",
+   "medicamento": "ritonavir",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Consult the prescribing information of the co-administered protease inhibitor for contraindication information for that product. Ritonavir tablets are contraindicated in patients with known hypersensitivity (e.g., toxic epidermal necrolysis (TEN) or Stevens-Johnson syndrome) to ritonavir or any of its ingredients. Ritonavir is contraindicated with drugs that are highly dependent on CYP3A for clearance and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions [see Drug Interactions (7.1) and Clinical Pharmacology (12.3) ] ."
+  },
+  {
+   "id": "ritonavir:contraindications:1",
+   "medicamento": "ritonavir",
+   "secao": "contraindications",
+   "texto": "Alpha 1- Adrenoreceptor Antagonist: alfuzosin Antianginal: ranolazine Antiarrhythmics: amiodarone, dronedarone, flecainide, propafenone, quinidine Antifungal: voriconazole Anti-gout: colchicine Antipsychotics: lurasidone, pimozide Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine GI Motility Agent: cisapride HMG-CoA Reductase Inhibitors: lovastatin, simvastatin Microsomal triglyceride transfer protein (MTTP) Inhibitor: lomitapide o Non-opioid Analgesic (selective blocker of Na v 1.8 sodium channels): suzetrigine PDE5 Inhibitor: sildenafil (Revatio ® ) when used for the treatment of pulmonary arterial hypertension Sedative/Hypnotics: triazolam, orally administered midazolam Ritonavir is contraindicated with drugs that are potent CYP3A inducers where significantly reduced ritonavir plasma concentrations may be associated with the potential for loss of virologic response and possible resistance and cross-resistance [see Drug Interactions (7.2) and Clinical Pharmacology (12.3) ] . Anticancer Agents: apalutamide Herbal Products: St."
+  },
+  {
+   "id": "ritonavir:contraindications:2",
+   "medicamento": "ritonavir",
+   "secao": "contraindications",
+   "texto": "John's Wort (hypericum perforatum) Ritonavir tablets are contraindicated in patients with known hypersensitivity to ritonavir (e.g., toxic epidermal necrolysis, Stevens-Johnson syndrome) or any of its ingredients. (4) Co-administration with drugs highly dependent on CYP3A for clearance and for which elevated plasma concentrations may be associated with serious and/or life-threatening events. (4) Co-administration with drugs that significantly reduce ritonavir. (4)"
+  },
+  {
+   "id": "ritonavir:clinical_pharmacology:0",
+   "medicamento": "ritonavir",
+   "secao": "clinical_pharmacology",
+   "texto": "Metabolism Nearly all of the plasma radioactivity after a single oral 600 mg dose of 14 C-ritonavir oral solution (n = 5) was attributed to unchanged ritonavir. In vitro studies utilizing human liver microsomes have demonstrated that cytochrome P450 3A (CYP3A) is the major isoform involved in ritonavir metabolism, although CYP2D6 also contributes to the formation of M–2."
+  },
+  {
+   "id": "ritonavir:clinical_pharmacology:1",
+   "medicamento": "ritonavir",
+   "secao": "clinical_pharmacology",
+   "texto": "Effects were assessed relative to an indinavir 800 mg q8h regimen under fasting conditions. 2 Effects were assessed on a dose-normalized comparison to a methadone 20 mg single dose. 3 Sulfamethoxazole and trimethoprim taken as single combination tablet. 4 90% CI presented for R- and S-warfarin AUC and C max ratios. 5 This significant increase in plasma fluticasone propionate exposure resulted in a significant decrease (86%) in plasma cortisol AUC. 6 For the reference arm: N=14 for C max and AUC (0-inf) , and for the test arm: N=13 for C max and N=4 for AUC (0-inf) . 7 90% CI presented for rivaroxaban 8 90% CI presented for simeprevir (change in exposure presented as percentage increase) ↑ Indicates increase, ↓ indicates decrease, ↔ indicates no change. * Parallel group design; entries are subjects receiving combination and control regimens, respectively. 12.4 Microbiology Mechanism of Action Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease. Inhibition of HIV protease renders the enzyme incapable of processing the Gag-Pol polyprotein precursor which leads to production of non-infectious immature HIV particles."
+  },
+  {
+   "id": "ritonavir:clinical_pharmacology:2",
+   "medicamento": "ritonavir",
+   "secao": "clinical_pharmacology",
+   "texto": "The concentration of drug that inhibits 50% (EC 50 ) value of viral replication ranged from 3.8 to 153 nM depending upon the HIV-1 isolate and the cells employed. Studies which measured cytotoxicity of ritonavir on several cell lines showed that greater than 20 microM was required to inhibit cellular growth by 50% resulting in a cell culture therapeutic index of at least 1000. Cross-Resistance to Other Antiretrovirals Among protease inhibitors variable cross-resistance has been recognized. Cross-resistance between ritonavir and reverse transcriptase inhibitors is unlikely because of the different enzyme targets involved."
+  },
+  {
+   "id": "ritonavir:pharmacokinetics:0",
+   "medicamento": "ritonavir",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism Nearly all of the plasma radioactivity after a single oral 600 mg dose of 14 C-ritonavir oral solution (n = 5) was attributed to unchanged ritonavir. In vitro studies utilizing human liver microsomes have demonstrated that cytochrome P450 3A (CYP3A) is the major isoform involved in ritonavir metabolism, although CYP2D6 also contributes to the formation of M–2."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "ritonavir:drug_interactions:7",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "trazodone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Adverse events of nausea, dizziness, hypotension and syncope have been observed following co-administration of trazodone and ritonavir.",
+   "efeito": "increased concentration and adverse events",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:14",
+   "origem": "lomitapide",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Lomitapide is a sensitive substrate for CYP3A4 metabolism.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:14",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "lomitapide",
+   "tipo_destino": "Condicao",
+   "evidencia": "Concomitant use of moderate or strong CYP3A4 inhibitors with lomitapide is contraindicated due to potential for hepatotoxicity",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:15",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "salmeterol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concurrent administration of salmeterol and ritonavir is not recommended. The combination may result in increased risk of cardiovascular adverse events associated with salmeterol",
+   "efeito": "increased risk of cardiovascular adverse events",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:15",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sildenafil",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sildenafil when used for the treatment of pulmonary arterial hypertension (Revatio ® ) is contraindicated due to the potential for sildenafil associated adverse events",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:17",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "triazolam",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sedative/Hypnotics: triazolam, orally administered midazolam ↑ triazolam ↑ midazolam Contraindicated due to potential for prolonged or increased sedation or respiratory depression",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:17",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "midazolam",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sedative/Hypnotics: triazolam, orally administered midazolam ↑ triazolam ↑ midazolam Contraindicated due to potential for prolonged or increased sedation or respiratory depression",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:contraindications:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "alfuzosin",
+   "tipo_destino": "Condicao",
+   "evidencia": "Alpha 1- Adrenoreceptor Antagonist: alfuzosin Antianginal: ranolazine Antiarrhythmics: amiodarone, dronedarone, flecainide, propafenone, quinidine Antifungal: voriconazole Anti-gout: colchicine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:clinical_pharmacology:0",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "cytochrome P450 3A (CYP3A) is the major isoform involved in ritonavir metabolism",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:clinical_pharmacology:0",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "although CYP2D6 also contributes to the formation of M–2.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:clinical_pharmacology:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "HIV-1 protease",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir is a peptidomimetic inhibitor of the HIV-1 protease.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:pharmacokinetics:0",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "In vitro studies utilizing human liver microsomes have demonstrated that cytochrome P450 3A (CYP3A) is the major isoform involved in ritonavir metabolism",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:pharmacokinetics:0",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "although CYP2D6 also contributes to the formation of M–2.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:0",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir is an inhibitor of cytochrome P450 3A (CYP3A)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir also inhibits CYP2D6 to a lesser extent.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir also appears to induce CYP3A, CYP1A2, CYP2C9, CYP2C19, and CYP2B6",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir also appears to induce CYP3A, CYP1A2, CYP2C9, CYP2C19, and CYP2B6",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir also appears to induce CYP3A, CYP1A2, CYP2C9, CYP2C19, and CYP2B6",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir also appears to induce CYP3A, CYP1A2, CYP2C9, CYP2C19, and CYP2B6",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2B6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ritonavir also appears to induce CYP3A, CYP1A2, CYP2C9, CYP2C19, and CYP2B6",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:2",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "atazanavir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "HIV-1 Protease Inhibitor: atazanavir ... ↑ atazanavir",
+   "efeito": "increased atazanavir concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:2",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "indinavir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "HIV-1 Protease Inhibitor: indinavir ↑ indinavir",
+   "efeito": "increased indinavir concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:2",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "saquinavir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "HIV-1 Protease Inhibitor: saquinavir ↑ saquinavir",
+   "efeito": "increased saquinavir concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:2",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tipranavir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "HIV-1 Protease Inhibitor: tipranavir ↑ tipranavir",
+   "efeito": "increased tipranavir concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "delavirdine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Non-Nucleoside Reverse Transcriptase Inhibitor: delavirdine ↑ ritonavir",
+   "efeito": "increased ritonavir concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "maraviroc",
+   "tipo_destino": "Medicamento",
+   "evidencia": "HIV-1 CCR5 – antagonist: maraviroc ↑ maraviroc",
+   "efeito": "increased maraviroc concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "raltegravir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Integrase Inhibitor: raltegravir ↓ raltegravir",
+   "efeito": "decreased raltegravir concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "alfuzosin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Alpha 1-Adrenoreceptor Antagonist: alfuzosin ↑ alfuzosin Contraindicated",
+   "efeito": "increased alfuzosin concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ranolazine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antianginal: ranolazine ↑ ranolazine Contraindicated",
+   "efeito": "increased ranolazine concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tramadol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Analgesics, Opioid: tramadol ... ↑ analgesics",
+   "efeito": "increased tramadol concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "suzetrigine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Analgesics, Non-opioid ... suzetrigine ↑ suzetrigine",
+   "efeito": "increased suzetrigine concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "meperidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Anesthetic: meperidine ↓ meperidine/ ↑ normeperidine",
+   "efeito": "decreased meperidine concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "amiodarone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: amiodarone ... ↑ antiarrhythmics",
+   "efeito": "increased amiodarone concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dronedarone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: ... dronedarone ... ↑ antiarrhythmics",
+   "efeito": "increased dronedarone concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "flecainide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: ... flecainide ... ↑ antiarrhythmics",
+   "efeito": "increased flecainide concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propafenone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: ... propafenone ... ↑ antiarrhythmics",
+   "efeito": "increased propafenone concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: ... quinidine ↑ antiarrhythmics",
+   "efeito": "increased quinidine concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: disopyramide ... ↑ antiarrhythmics",
+   "efeito": "increased disopyramide concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lidocaine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: ... lidocaine ... ↑ antiarrhythmics",
+   "efeito": "increased lidocaine concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:4",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "mexiletine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antiarrhythmics: ... mexiletine ↑ antiarrhythmics",
+   "efeito": "increased mexiletine concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:5",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "apalutamide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Anticancer Agents: ... apalutamide ... ↓ ritonavir",
+   "efeito": "decreased ritonavir concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:6",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Anticoagulant: warfarin ↑↓ warfarin",
+   "efeito": "altered warfarin concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:6",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rivaroxaban",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Anticoagulant: rivaroxaban ↑ rivaroxaban",
+   "efeito": "increased rivaroxaban concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:6",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carbamazepine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Anticonvulsants: carbamazepine ... ↑ anticonvulsants",
+   "efeito": "increased carbamazepine concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:6",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clonazepam",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Anticonvulsants: ... clonazepam ... ↑ anticonvulsants",
+   "efeito": "increased clonazepam concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:6",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ethosuximide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Anticonvulsants: ... ethosuximide ↑ anticonvulsants",
+   "efeito": "increased ethosuximide concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "ritonavir:drug_interactions:2",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "darunavir",
+   "evidencia": "HIV-1 Protease Inhibitor: darunavir ... ↑ darunavir",
+   "efeito": "increased darunavir concentration",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:2",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "fosamprenavir",
+   "evidencia": "HIV-1 Protease Inhibitor: fosamprenavir ... ↑ amprenavir",
+   "efeito": "increased amprenavir concentration",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "fentanyl",
+   "evidencia": "Analgesics, Opioid: ... fentanyl ↑ fentanyl",
+   "efeito": "increased fentanyl concentration",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:3",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "methadone",
+   "evidencia": "Analgesics, Opioid: ... methadone ↓ methadone",
+   "efeito": "decreased methadone concentration",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:7",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "divalproex",
+   "tipo_destino": "Medicamento",
+   "evidencia": "doses of divalproex, lamotrigine, phenytoin ↓ anticonvulsants A dose increase may be needed for these drugs when co-administered with ritonavir",
+   "efeito": "decreased concentration",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:7",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lamotrigine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "doses of divalproex, lamotrigine, phenytoin ↓ anticonvulsants A dose increase may be needed for these drugs when co-administered with ritonavir",
+   "efeito": "decreased concentration",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:7",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "doses of divalproex, lamotrigine, phenytoin ↓ anticonvulsants A dose increase may be needed for these drugs when co-administered with ritonavir",
+   "efeito": "decreased concentration",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:8",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "colchicine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "colchicine ↑ colchicine Contraindicated due to potential for serious and/or life-threatening reactions in patients with renal and/or hepatic impairment",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:10",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "lurasidone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Antipsychotics: lurasidone pimozide ↑ lurasidone ↑ pimozide Contraindicated due to potential for serious and/or life-threatening reactions",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:10",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "pimozide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Contraindicated due to potential for serious and/or life-threatening reactions such as cardiac arrhythmias",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:13",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "dihydroergotamine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine ↑ ergot derivatives Contraindicated due to potential for acute ergot toxicity",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:13",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "ergotamine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine ↑ ergot derivatives Contraindicated due to potential for acute ergot toxicity",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:13",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "methylergonovine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Ergot Derivatives: dihydroergotamine, ergotamine, methylergonovine ↑ ergot derivatives Contraindicated due to potential for acute ergot toxicity",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:13",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cisapride",
+   "tipo_destino": "Medicamento",
+   "evidencia": "GI Motility Agent: cisapride ↑ cisapride Contraindicated due to potential for cardiac arrhythmias",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:13",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Lipid-modifying agents HMG-CoA Reductase Inhibitor: lovastatin simvastatin atorvastatin rosuvastatin ↑ lovastatin ↑ simvastatin ↑ atorvastatin ↑ rosuvastatin Contraindicated due to potential for myopathy",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "ritonavir:drug_interactions:13",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Lipid-modifying agents HMG-CoA Reductase Inhibitor: lovastatin simvastatin atorvastatin rosuvastatin ↑ lovastatin ↑ simvastatin ↑ atorvastatin ↑ rosuvastatin Contraindicated due to potential for myopathy",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  }
+ ]
+}

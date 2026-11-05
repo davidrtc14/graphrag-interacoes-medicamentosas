@@ -1,0 +1,515 @@
+{
+ "generico": "rifampin",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "rifampin:drug_interactions:0",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions Pharmacodynamic Interactions Healthy subjects who received rifampin 600 mg once daily concomitantly with saquinavir 1000 mg/ritonavir 100 mg twice daily (ritonavir-boosted saquinavir) developed severe hepatocellular toxicity. Therefore, concomitant use of these medications is contraindicated. (See CONTRAINDICATIONS .) When rifampin is given concomitantly with other hepatotoxic medications such as halothane or isoniazid, the potential for hepatotoxicity is increased. The concomitant use of rifampin and halothane should be avoided. Patients receiving both rifampin and isoniazid should be monitored closely for hepatotoxicity. Effect of Rifampin on Other Drugs Induction of Drug Metabolizing Enzymes and Transporters Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4, UDP-glucuronyltransferases (UGT), sulfotransferases, carboxylesterases, and transporters including P-glycoprotein (P-gp) and multidrug resistance-associated protein 2 (MRP2). Most drugs are substrates for one or more of these enzyme or transporter pathways and these pathways may be induced by rifampin simultaneously."
+  },
+  {
+   "id": "rifampin:drug_interactions:1",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Therefore, rifampin may increase the metabolism and decrease the activity of certain coadministered drugs or increase the activity of a coadministered pro-drug (where metabolic activation is required), and has the potential to perpetuate clinically important drug-drug interactions against many drugs and across many drug classes (Table 1). Table 1 summarizes the effect of rifampin on other drugs or drug classes. Adjust dosages of concomitant drugs based on approved drug labeling and if applicable, therapeutic drug monitoring, unless otherwise specified. Table 1: Drug Interactions with Rifampin that Affect Concomitant Drug Concentrations Administered with rifampin 600 mg daily, unless otherwise specified AUC = area under the time-concentration curve Drug or Drug Class and Prevention or Management Clinical Effect Antiretrovirals Prevention or Management: Concomitant use is contraindicated (see CONTRAINDICATIONS ) Atazanavir Decrease AUC by 72% Darunavir Rifampin dosage used concomitantly with the drug(s) is not specified in the proposed package insert. Substantial decrease in exposure, which may result in loss of therapeutic effect and development of resistance."
+  },
+  {
+   "id": "rifampin:drug_interactions:2",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Tipranavir Fosamprenavir Administered with rifampin 300 mg daily Decrease AUC by 82% Saquinavir Decrease AUC by 70% Coadministration may result in severe hepatocellular toxicity. Cabotegravir Decrease AUC by 59% Fostemsavir Decrease AUC by 82% Lenacapavir (SUNLENCA) Indicated for the treatment of human immunodeficiency virus-1 (HIV-1) infection Decrease AUC by 84% Antiretrovirals Prevention or Management: Avoid concomitant use Zidovudine Decrease AUC by 47% Indinavir Decrease AUC by 92% Efavirenz Decrease AUC by 26% Antiretrovirals Prevention or Management: Dose adjustment is indicated Lenacapavir (YEZTUGO ® ) Indicated for HIV-1 pre-exposure prophylaxis (PrEP) Refer to the YEZTUGO prescribing information for YEZTUGO dose adjustment. Decrease AUC by 84% Cortisol Receptor Blocker Mifepristone Prevention or Management: Avoid concomitant use Decrease exposure Hepatitis C Antiviral Prevention or Management: Avoid concomitant use Daclatasvir Decrease AUC by 79% Simeprevir Decrease AUC by 48% Sofosbuvir Decrease AUC by 72% Coadministration of sofosbuvir with rifampin may decrease sofosbuvir plasma concentrations, leading to reduced therapeutic effect of sofosbuvir."
+  },
+  {
+   "id": "rifampin:drug_interactions:3",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Telaprevir Decrease AUC by 92% Systemic Hormonal Contraceptives Prevention or Management: Advise patients to change to non-hormonal methods of birth control during rifampin therapy Estrogens Decrease exposure Progestins Anticonvulsants Phenytoin Administered with rifampin 450 mg daily Decrease exposure Antiarrhythmics Disopyramide Decrease exposure Mexiletine Decrease exposure Quinidine Decrease exposure Propafenone Decrease AUC by 50%-67% Tocainide Decrease exposure Antiestrogens Tamoxifen Decrease AUC by 86% Toremifene Decrease steady state concentrations of toremifene in serum Antithrombotic Agents Clopidogrel Prevention or Management: Concomitant use of clopidogrel and rifampin should be discouraged Increase active metabolite exposure and risk of bleeding Ticagrelor Prevention or Management: Avoid use Decrease exposure Antipsychotics Haloperidol Decrease plasma concentrations by 70% Lurasidone Prevention or Management: Concomitant use is contraindicated (See CONTRAINDICATIONS ) Decrease exposure Oral Anticoagulants Prevention or Management: Perform prothrombin time daily or as frequently as necessary to establish and maintain the required dose of anticoagulant Warfarin Decrease exposure Antifungals Fluconazole Decrease AUC by 23% Itraconazole Prevention or Management: Not recommended 2 weeks before and during itraconazole treatment Decrease exposure Ketoconazole Decrease exposure Caspofungin Prevention or Management: Refer to the caspofungin prescribing information for caspofungin dose adjustment."
+  },
+  {
+   "id": "rifampin:drug_interactions:4",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Decrease exposure Beta-blockers Metoprolol Decrease exposure Propranolol Decrease exposure Benzodiazepines Diazepam , Administered with rifampin 1200 mg daily Decrease exposure Benzodiazepine-related drugs Zopiclone Decrease AUC by 82% Zolpidem Decrease AUC by 73% Calcium Channel Blockers Diltiazem Decrease exposure Nifedipine Rifampin 1200 mg administered as a single oral dose 8 hours before administering a single oral dose of nifedipine 10 mg Decrease exposure Verapamil Decrease exposure Corticosteroids Numerous cases in the literature describe a decrease in glucocorticoid effect when used concomitantly with rifampin. The literature contains reports of acute adrenal crisis or adrenal insufficiency induced by the combination of rifampin-isoniazid-ethambutol or rifampin-isoniazid in patients with Addison’s disease. Prednisolone Decrease exposure Cardiac Glycosides Digoxin Prevention or Management: Measure serum digoxin concentrations before initiating rifampin. Continue monitoring and increase digoxin dose by approximately 20%-40% as necessary."
+  },
+  {
+   "id": "rifampin:drug_interactions:5",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Decrease exposure Digitoxin Decrease exposure Fluoroquinolones Pefloxacin Administered with rifampin 900 mg daily Decrease exposure Moxifloxacin , Decrease exposure Oral Hypoglycemic Agents (e.g., sulfonylureas) Glyburide Decrease exposure Rifampin may worsen glucose control of glyburide. Glipizide Decrease exposure Immunosuppressive Agents Cyclosporine Decrease exposure Tacrolimus Prevention or Management: Monitoring of whole blood concentrations and appropriate dosage adjustments of tacrolimus are recommended when rifampin and tacrolimus are used concomitantly. Decrease AUC by 56% Narcotic Analgesics Oxycodone Decrease AUC by 86% Morphine Decrease exposure Progestin Antagonist Mifepristone Prevention or Management: Refer to the posttreatment assessment in the mifepristone prescribing information to verify that treatment has been successful."
+  },
+  {
+   "id": "rifampin:drug_interactions:6",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Decrease exposure Selective 5-HT 3 Receptor Antagonists Ondansetron Decrease exposure Statins Metabolized by CYP3A4 Simvastatin Decrease exposure Thiazolidinediones Rosiglitazone Decrease AUC by 66% Tricyclic Antidepressants Nortriptyline A tuberculosis treatment regimen including rifampin (600 mg/day), isoniazid (300 mg/day), pyrazinamide (500 mg 3× per day), and pyridoxine (25 mg) was associated with higher than expected doses of nortriptyline were required to obtain a therapeutic drug level. Following the discontinuation of rifampin, the patient became drowsy and the serum nortriptyline levels rose precipitously (3-fold) into the toxic range. Decrease exposure Other Drugs Enalapril Decrease active metabolite exposure Chloramphenicol Concomitant use with rifampin in 2 children Decrease exposure Clarithromycin Decrease exposure Dapsone Rifampin has been shown to increase the clearance of dapsone and, accordingly, decrease dapsone exposure. Rifampin has also been shown to increase the production of the hydroxylamine metabolite of dapsone which could increase the risk of methemoglobinemia."
+  },
+  {
+   "id": "rifampin:drug_interactions:7",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Doxycycline Administered with rifampin (10 mg/kg daily) Decrease exposure Irinotecan Administered with an antibiotic regimen including rifampin (450 mg/day), isoniazid (300 mg/day), and streptomycin (0.5 g/day) IM Prevention or Management: Avoid the use of rifampin, a strong CYP3A4 inducer, if possible. Substitute non-enzyme inducing therapies at least 2 weeks prior to initiation of irinotecan therapy Decrease irinotecan and active metabolite exposure Levothyroxine Decrease exposure Losartan Parent Decrease AUC by 30% Active metabolite (E3174) Decrease AUC by 40% Methadone In patients well-stabilized on methadone, concomitant administration of rifampin resulted in a marked reduction in serum methadone levels and a concurrent appearance of withdrawal symptoms. Praziquantel Prevention or Management: Concomitant use is contraindicated (see CONTRAINDICATIONS ) Decrease plasma praziquantel concentrations to undetectable levels."
+  },
+  {
+   "id": "rifampin:drug_interactions:8",
+   "medicamento": "rifampin",
+   "secao": "drug_interactions",
+   "texto": "Quinine Prevention or Management : Avoid concomitant use Decrease AUC by 75%-85% Telithromycin Decrease AUC by 86% Theophylline Decrease exposure by 20%-40% Effect of Other Drugs on Rifampin Concomitant antacid administration may reduce the absorption of rifampin. Daily doses of rifampin should be given at least 1 hour before the ingestion of antacids. Concomitant use with probenecid and cotrimoxazole increases the concentration of rifampin which may increase the risk of rifampin toxicities. Monitor for adverse reactions associated with rifampin during coadministration. Other Interactions Atovaquone: Concomitant use of rifampin with atovaquone decrease concentrations of atovaquone and increase concentrations of rifampin which may increase the risk of rifampin toxicities. Coadministration of rifampin with atovaquone is not recommended."
+  },
+  {
+   "id": "rifampin:contraindications:0",
+   "medicamento": "rifampin",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Rifampin is contraindicated in patients with a history of hypersensitivity to rifampin or any of the components, or to any of the rifamycins. (See WARNINGS .) Rifampin is contraindicated in patients who are also receiving ritonavir-boosted saquinavir due to an increased risk of severe hepatocellular toxicity. (See PRECAUTIONS, Drug Interactions .) Rifampin is contraindicated in patients who are also receiving atazanavir, darunavir, fosamprenavir, saquinavir, tipranavir, cabotegravir, fostemsavir and lenacapavir (see prescribing information for SUNLENCA ® ) due to the potential of rifampin to substantially decrease plasma concentrations of these antiviral drugs, which may result in decreased antiviral efficacy and/or development of viral resistance. (See PRECAUTIONS, Drug Interactions .) Rifampin is contraindicated in patients receiving praziquantel since therapeutically effective blood levels of praziquantel may not be achieved. In patients receiving rifampin who need immediate treatment with praziquantel alternative agents should be considered."
+  },
+  {
+   "id": "rifampin:contraindications:1",
+   "medicamento": "rifampin",
+   "secao": "contraindications",
+   "texto": "However, if treatment with praziquantel is necessary, rifampin should be discontinued 4 weeks before administration of praziquantel. Treatment with rifampin can then be restarted one day after completion of praziquantel treatment. Rifampin is contraindicated in patients receiving lurasidone. Concomitant use of lurasidone with strong CYP3A4 inducers (e.g., rifampin) decreased the exposure of lurasidone compared to the use of lurasidone alone. (See PRECAUTIONS, Drug Interactions )."
+  },
+  {
+   "id": "rifampin:clinical_pharmacology:0",
+   "medicamento": "rifampin",
+   "secao": "clinical_pharmacology",
+   "texto": "Microbiology Mechanism of Action Rifampin inhibits DNA-dependent RNA polymerase activity in susceptible Mycobacterium tuberculosis organisms. Specifically, it interacts with bacterial RNA polymerase but does not inhibit the mammalian enzyme. At least 90% of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for rifampin against isolates of similar genus or organism group."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hepatocellular toxicity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Healthy subjects who received rifampin 600 mg once daily concomitantly with saquinavir 1000 mg/ritonavir 100 mg twice daily (ritonavir-boosted saquinavir) developed severe hepatocellular toxicity.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2B6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drug metabolizing enzymes and transporters affected by rifampin include cytochromes P450 (CYP) 1A2, 2B6, 2C8, 2C9, 2C19, and 3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "transporters including P-glycoprotein (P-gp) and multidrug resistance-associated protein 2 (MRP2)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "MRP2",
+   "tipo_destino": "Enzima",
+   "evidencia": "transporters including P-glycoprotein (P-gp) and multidrug resistance-associated protein 2 (MRP2)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "saquinavir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Healthy subjects who received rifampin 600 mg once daily concomitantly with saquinavir 1000 mg/ritonavir 100 mg twice daily (ritonavir-boosted saquinavir) developed severe hepatocellular toxicity.",
+   "efeito": "severe hepatocellular toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ritonavir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Healthy subjects who received rifampin 600 mg once daily concomitantly with saquinavir 1000 mg/ritonavir 100 mg twice daily (ritonavir-boosted saquinavir) developed severe hepatocellular toxicity.",
+   "efeito": "severe hepatocellular toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "halothane",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The concomitant use of rifampin and halothane should be avoided.",
+   "efeito": "increased hepatotoxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "isoniazid",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Patients receiving both rifampin and isoniazid should be monitored closely for hepatotoxicity.",
+   "efeito": "increased hepatotoxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ondansetron",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease exposure Selective 5-HT 3 Receptor Antagonists Ondansetron",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease exposure Statins Metabolized by CYP3A4 Simvastatin",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rosiglitazone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease exposure Thiazolidinediones Rosiglitazone",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "nortriptyline",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease AUC by 66% Tricyclic Antidepressants Nortriptyline",
+   "efeito": "decrease AUC",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "enalapril",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease exposure Other Drugs Enalapril",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "chloramphenicol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease active metabolite exposure Chloramphenicol Concomitant use with rifampin in 2 children",
+   "efeito": "decrease active metabolite exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clarithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease exposure Clarithromycin",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:6",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dapsone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Rifampin has been shown to increase the clearance of dapsone and, accordingly, decrease dapsone exposure.",
+   "efeito": "increase clearance and decrease exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:7",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Avoid the use of rifampin, a strong CYP3A4 inducer",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:7",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "doxycycline",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Doxycycline Administered with rifampin (10 mg/kg daily) Decrease exposure",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:7",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "irinotecan",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Decrease irinotecan and active metabolite exposure",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:7",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "levothyroxine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Levothyroxine Decrease exposure",
+   "efeito": "decrease exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:7",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "losartan",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Losartan Parent Decrease AUC by 30% Active metabolite (E3174) Decrease AUC by 40%",
+   "efeito": "decrease AUC",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:7",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "methadone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "concomitant administration of rifampin resulted in a marked reduction in serum methadone levels",
+   "efeito": "reduction in serum levels",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:7",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "praziquantel",
+   "tipo_destino": "Condicao",
+   "evidencia": "Concomitant use is contraindicated (see CONTRAINDICATIONS ) Decrease plasma praziquantel concentrations to undetectable levels.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:8",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Quinine Prevention or Management : Avoid concomitant use Decrease AUC by 75%-85%",
+   "efeito": "decrease AUC",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:8",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "telithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Telithromycin Decrease AUC by 86%",
+   "efeito": "decrease AUC",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:8",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "theophylline",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Theophylline Decrease exposure by 20%-40%",
+   "efeito": "decrease exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:8",
+   "origem": "probenecid",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rifampin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use with probenecid and cotrimoxazole increases the concentration of rifampin",
+   "efeito": "increase concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:8",
+   "origem": "cotrimoxazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rifampin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use with probenecid and cotrimoxazole increases the concentration of rifampin",
+   "efeito": "increase concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:drug_interactions:8",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "atovaquone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of rifampin with atovaquone decrease concentrations of atovaquone and increase concentrations of rifampin",
+   "efeito": "decrease atovaquone concentration and increase rifampin concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:contraindications:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "saquinavir",
+   "tipo_destino": "Condicao",
+   "evidencia": "Rifampin is contraindicated in patients who are also receiving ritonavir-boosted saquinavir",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "rifampin:contraindications:1",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "lurasidone",
+   "tipo_destino": "Condicao",
+   "evidencia": "Rifampin is contraindicated in patients receiving lurasidone.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

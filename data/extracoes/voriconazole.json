@@ -1,0 +1,1183 @@
+{
+ "generico": "voriconazole",
+ "modelos": [
+  "gemini-3.5-flash",
+  "openai/gpt-oss-120b"
+ ],
+ "trechos": [
+  {
+   "id": "voriconazole:drug_interactions:0",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Voriconazole is metabolized by cytochrome P450 isoenzymes, CYP2C19, CYP2C9, and CYP3A4. Therefore, inhibitors or inducers of these isoenzymes may increase or decrease voriconazole plasma concentrations, respectively. Voriconazole is a strong inhibitor of CYP3A4, and also inhibits CYP2C19 and CYP2C9. Therefore, voriconazole may increase the plasma concentrations of substances metabolized by these CYP450 isoenzymes. Tables 10 and 11 provide the clinically significant interactions between voriconazole and other medical products."
+  },
+  {
+   "id": "voriconazole:drug_interactions:1",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Table 10: Effect of Other Drugs on Voriconazole Pharmacokinetics [see Clinical Pharmacology (12.3)] Drug/Drug Class (Mechanism of Interaction by the Drug) Voriconazole Plasma Exposure (C max and AUC τ after 200 mg every 12 hours) Recommendations for Voriconazole Dosage Adjustment/Comments Rifampin* and Rifabutin* (CYP450 Induction) Significantly Reduced Contraindicated Efavirenz (400 mg every 24 hours)** (CYP450 Induction) Efavirenz (300 mg every 24 hours)** (CYP450 Induction) Significantly Reduced Slight Decrease in AUCτ Contraindicated When voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg every 12 hours and efavirenz should be decreased to 300 mg every 24 hours. High-dose Ritonavir (400 mg every 12 hours)** (CYP450 Induction) Low-dose Ritonavir (100 mg every 12 hours)** (CYP450 Induction) Significantly Reduced Reduced Contraindicated Coadministration of voriconazole and low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole."
+  },
+  {
+   "id": "voriconazole:drug_interactions:2",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Carbamazepine (CYP450 Induction) Not Studied In Vivo or In Vitro , but Likely to Result in Significant Reduction Contraindicated Long Acting Barbiturates (e.g., phenobarbital, mephobarbital) (CYP450 Induction) Not Studied In Vivo or In Vitro , but Likely to Result in Significant Reduction Contraindicated Phenytoin* (CYP450 Induction) Significantly Reduced Increase voriconazole maintenance dose from 4 mg/kg to 5 mg/kg IV every 12 hours or from 200 mg to 400 mg orally every 12 hours (100 mg to 200 mg orally every 12 hours in patients weighing less than 40 kg). Letermovir (CYP2C9/2C19 Induction) Reduced If concomitant administration of voriconazole with letermovir cannot be avoided, monitor for reduced effectiveness of voriconazole. St. John’s Wort (CYP450 inducer; P-gp inducer) Significantly Reduced Contraindicated Oral Contraceptives** containing ethinyl estradiol and norethindrone (CYP2C19 Inhibition) Increased Monitoring for adverse reactions and toxicity related to voriconazole is recommended when coadministered with oral contraceptives. Fluconazole** (CYP2C9, CYP2C19 and CYP3A4 Inhibition) Significantly Increased Avoid concomitant administration of voriconazole and fluconazole."
+  },
+  {
+   "id": "voriconazole:drug_interactions:3",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Monitoring for adverse reactions and toxicity related to voriconazole is started within 24 hours after the last dose of fluconazole. Other HIV Protease Inhibitors (CYP3A4 Inhibition) In Vivo Studies Showed No Significant Effects of Indinavir on Voriconazole Exposure In Vitro Studies Demonstrated Potential for Inhibition of Voriconazole Metabolism (Increased Plasma Exposure) No dosage adjustment in the voriconazole dosage needed when coadministered with indinavir. Frequent monitoring for adverse reactions and toxicity related to voriconazole when coadministered with other HIV protease inhibitors. Other NNRTIs *** (CYP3A4 Inhibition or CYP450 Induction) In Vitro Studies Demonstrated Potential for Inhibition of Voriconazole Metabolism by Delavirdine and Other NNRTIs (Increased Plasma Exposure) A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for the Metabolism of Voriconazole to be Induced by Efavirenz and Other NNRTIs (Decreased Plasma Exposure) Frequent monitoring for adverse reactions and toxicity related to voriconazole."
+  },
+  {
+   "id": "voriconazole:drug_interactions:4",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Careful assessment of voriconazole effectiveness. *Results based on in vivo/clinical studies generally following repeat oral dosing with 200 mg every 12 hours voriconazole to healthy subjects **Results based on in vivo/clinical study following repeat oral dosing with 400 mg every 12 hours for 1 day, then 200 mg every 12 hours for at least 2 days voriconazole to healthy subjects ***Non-Nucleoside Reverse Transcriptase Inhibitors Table 11: Effect of Voriconazole on Pharmacokinetics of Other Drugs [see Clinical Pharmacology (12.3)] Drug/Drug Class (Mechanism of Interaction by Voriconazole) Drug Plasma Exposure (C max and AUC τ ) Recommendations for Drug Dosage Adjustment/Comments Sirolimus* (CYP3A4 Inhibition) Significantly Increased Contraindicated Rifabutin* (CYP3A4 Inhibition) Significantly Increased Contraindicated Efavirenz (400 mg every 24 hours)** (CYP3A4 Inhibition) Efavirenz (300 mg every 24 hours)** (CYP3A4 Inhibition) Significantly Increased Slight Increase in AUC τ Contraindicated When voriconazole is coadministered with efavirenz, voriconazole oral maintenance dose should be increased to 400 mg every 12 hours and efavirenz should be decreased to 300 mg every 24 hours."
+  },
+  {
+   "id": "voriconazole:drug_interactions:5",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "High-dose Ritonavir (400 mg every 12 hours)** (CYP3A4 Inhibition) Low-dose Ritonavir (100 mg every 12 hours)** No Significant Effect of Voriconazole on Ritonavir C max or AUC τ Slight Decrease in Ritonavir C max and AUC τ Contraindicated because of significant reduction of voriconazole C max and AUC τ . Coadministration of voriconazole and low-dose ritonavir (100 mg every 12 hours) should be avoided (due to the reduction in voriconazole C max and AUC τ ) unless an assessment of the benefit/risk to the patient justifies the use of voriconazole. Pimozide, Quinidine, Ivabradine (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Contraindicated because of potential for QT prolongation and rare occurrence of torsade de pointes."
+  },
+  {
+   "id": "voriconazole:drug_interactions:6",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Ergot Alkaloids (CYP450 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Contraindicated Naloxegol (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased which may Increase the Risk of Adverse Reactions Contraindicated Tolvaptan (CYP3A4 Inhibition) Although Not Studied Clinically, Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Tolvaptan Contraindicated Lurasidone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Lurasidone Contraindicated Finerenone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Finerenone Contraindicated Eplerenone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Eplerenone Contraindicated Voclosporin (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Voclosporin Contraindicated Venetoclax (CYP3A4 Inhibition) Not studied In Vivo or In Vitro , but Venetoclax Plasma Exposure Likely to be Significantly Increased Coadministration of voriconazole is contraindicated at initiation and during the ramp-up phase in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL)."
+  },
+  {
+   "id": "voriconazole:drug_interactions:7",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Refer to the venetoclax labeling for safety monitoring and dose reduction in the steady daily dosing phase in CLL/SLL patients. For patients with acute myeloid leukemia (AML), dose reduction and safety monitoring are recommended across all dosing phases when coadministering voriconazole with venetoclax. Refer to the venetoclax prescribing information for dosing instructions. Lemborexant (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Avoid concomitant use of voriconazole with lemborexant. Glasdegib (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Consider alternative therapies. If concomitant use cannot be avoided, monitor patients for increased risk of adverse reactions including QTc interval prolongation. Tyrosine kinase inhibitors (including but not limited to axitinib, bosutinib, cabozantinib, ceritinib, cobimetinib, dabrafenib, dasatinib, nilotinib, sunitinib, ibrutinib, ribociclib) (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Avoid concomitant use of voriconazole."
+  },
+  {
+   "id": "voriconazole:drug_interactions:8",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "If concomitant use cannot be avoided, dose reduction of the tyrosine kinase inhibitor is recommended. Refer to the prescribing information for the relevant product. Lurasidone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Lurasidone Contraindicated Cyclosporine* (CYP3A4 Inhibition) AUC τ Significantly Increased; No Significant Effect on C max When initiating therapy with voriconazole in patients already receiving cyclosporine, reduce the cyclosporine dose to one-half of the starting dose and follow with frequent monitoring of cyclosporine blood levels. Increased cyclosporine levels have been associated with nephrotoxicity. When voriconazole is discontinued, cyclosporine concentrations must be frequently monitored and the dose increased as necessary. Methadone*** (CYP3A4 Inhibition) Increased Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation. Frequent monitoring for adverse reactions and toxicity related to methadone is recommended during coadministration. Dose reduction of methadone may be needed."
+  },
+  {
+   "id": "voriconazole:drug_interactions:9",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Fentanyl (CYP3A4 Inhibition) Increased Reduction in the dose of fentanyl and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with voriconazole. Extended and frequent monitoring for opiate-associated adverse reactions may be necessary. Alfentanil (CYP3A4 Inhibition) Significantly Increased An increase in the incidence of delayed and persistent alfentanil-associated nausea and vomiting were observed when coadministered with voriconazole. Reduction in the dose of alfentanil and other opiates metabolized by CYP3A4 (e.g., sufentanil) should be considered when coadministered with voriconazole. A longer period for monitoring respiratory and other opiate-associated adverse reactions may be necessary. Oxycodone (CYP3A4 Inhibition) Significantly Increased Increased visual effects (heterophoria and miosis) of oxycodone were observed when coadministered with voriconazole. Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 should be considered when coadministered with voriconazole. Extended and frequent monitoring for opiate-associated adverse reactions may be necessary."
+  },
+  {
+   "id": "voriconazole:drug_interactions:10",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "NSAIDs**** including. ibuprofen and diclofenac (CYP2C9 Inhibition) Increased Frequent monitoring for adverse reactions and toxicity related to NSAIDs. Dose reduction of NSAIDs may be needed. Tacrolimus* (CYP3A4 Inhibition) Significantly Increased When initiating therapy with voriconazole in patients already receiving tacrolimus, reduce the tacrolimus dose to one-third of the starting dose and follow with frequent monitoring of tacrolimus blood levels. Increased tacrolimus levels have been associated with nephrotoxicity. When voriconazole is discontinued, tacrolimus concentrations must be frequently monitored and the dose increased as necessary. Phenytoin* (CYP2C9 Inhibition) Significantly Increased Frequent monitoring of phenytoin plasma concentrations and frequent monitoring of adverse effects related to phenytoin. Oral Contraceptives containing ethinyl estradiol and norethindrone (CYP3A4 Inhibition)** Increased Monitoring for adverse reactions related to oral contraceptives is recommended during coadministration."
+  },
+  {
+   "id": "voriconazole:drug_interactions:11",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Prednisolone and other corticosteroids (CYP3A4 Inhibition) In Vivo Studies Showed No Significant Effects of voriconazole on Prednisolone Exposure Not Studied In vitro or In vivo for Other Corticosteroids, but Drug Exposure Likely to be Increased No dosage adjustment for prednisolone when coadministered with voriconazole [see Clinical Pharmacology (12.3) ]. Monitor for potential adrenal dysfunction when voriconazole is administered with other corticosteroids [see Warnings and Precautions (5.8) ]. Warfarin* (CYP2C9 Inhibition) Other Oral Coumarin Anticoagulants (CYP2C9/3A4 Inhibition) Prothrombin Time Significantly Increased Not Studied In Vivo or In Vitro for other Oral Coumarin Anticoagulants, but Drug Plasma Exposure Likely to be Increased If patients receiving coumarin preparations are treated simultaneously with voriconazole, the prothrombin time or other suitable anticoagulation tests should be monitored at close intervals and the dosage of anticoagulants adjusted accordingly. Ivacaftor (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased which may Increase the Risk of Adverse Reactions Dose reduction of ivacaftor is recommended."
+  },
+  {
+   "id": "voriconazole:drug_interactions:12",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Refer to the prescribing information for ivacaftor Eszopiclone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased which may Increase the Sedative Effect of Eszopiclone Dose reduction of eszopiclone is recommended. Refer to the prescribing information for eszopiclone. Omeprazole* (CYP2C19/3A4 Inhibition) Significantly Increased When initiating therapy with voriconazole in patients already receiving omeprazole doses of 40 mg or greater, reduce the omeprazole dose by one-half. The metabolism of other proton pump inhibitors that are CYP2C19 substrates may also be inhibited by voriconazole and may result in increased plasma concentrations of other proton pump inhibitors. Other HIV Protease Inhibitors (CYP3A4 Inhibition) In Vivo Studies Showed No Significant Effects on Indinavir Exposure In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) No dosage adjustment for indinavir when coadministered with voriconazole. Frequent monitoring for adverse reactions and toxicity related to other HIV protease inhibitors."
+  },
+  {
+   "id": "voriconazole:drug_interactions:13",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Other NNRTIs ***** (CYP3A4 Inhibition) A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for Voriconazole to Inhibit Metabolism of Other NNRTIs (Increased Plasma Exposure) Frequent monitoring for adverse reactions and toxicity related to NNRTI. Tretinoin (CYP3A4 Inhibition) Although Not Studied, Voriconazole may Increase Tretinoin Concentrations and Increase the Risk of Adverse Reactions Frequent monitoring for signs and symptoms of pseudotumor cerebri or hypercalcemia. Midazolam (CYP3A4 Inhibition) Other benzodiazepines including triazolam and alprazolam (CYP3A4 Inhibition) Significantly Increased In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) Increased plasma exposures may increase the risk of adverse reactions and toxicities related to benzodiazepines. Refer to drug-specific labeling for details. HMG-CoA Reductase Inhibitors (Statins) (CYP3A4 Inhibition) In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) Frequent monitoring for adverse reactions and toxicity related to statins."
+  },
+  {
+   "id": "voriconazole:drug_interactions:14",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Increased statin concentrations in plasma have been associated with rhabdomyolysis. Adjustment of the statin dosage may be needed. Dihydropyridine Calcium Channel Blockers (CYP3A4 Inhibition) In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure) Frequent monitoring for adverse reactions and toxicity related to calcium channel blockers. Adjustment of calcium channel blocker dosage may be needed. Sulfonylurea Oral Hypoglycemics (CYP2C9 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Frequent monitoring of blood glucose and for signs and symptoms of hypoglycemia. Adjustment of oral hypoglycemic drug dosage may be needed. Vinca Alkaloids (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Frequent monitoring for adverse reactions and toxicity (i.e., neurotoxicity) related to vinca alkaloids. Reserve azole antifungals, including voriconazole, for patients receiving a vinca alkaloid who have no alternative antifungal treatment options."
+  },
+  {
+   "id": "voriconazole:drug_interactions:15",
+   "medicamento": "voriconazole",
+   "secao": "drug_interactions",
+   "texto": "Everolimus (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Concomitant administration of voriconazole and everolimus is not recommended. *Results based on in vivo CYP3A4, CYP2C9, and CYP2C19 inhibitors and inducers: Adjust voriconazole dosage and monitor for adverse reactions or lack of efficacy ( 4 , 7 ) Voriconazole may increase the concentrations and activity of drugs that are CYP3A4, CYP2C9 and CYP2C19 substrates. Reduce dosage of these other drugs and monitor for adverse reactions ( 4 , 7 ) Phenytoin or Efavirenz: With co-administration, increase maintenance oral dosage of Voriconazole ( 2.3 , 2.7 , 7 )"
+  },
+  {
+   "id": "voriconazole:contraindications:0",
+   "medicamento": "voriconazole",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Voriconazole tablets are contraindicated in patients with known hypersensitivity to voriconazole or its excipients. There is no information regarding cross-sensitivity between voriconazole and other azole antifungal agents. Refer to the prescribing information for other azole antifungal agents. Concomitant use of voriconazole tablets with the interacting drugs described and listed below in this section are a guide and not considered a comprehensive list of all possible drugs that may be contraindicated with voriconazole tablets. 1."
+  },
+  {
+   "id": "voriconazole:contraindications:1",
+   "medicamento": "voriconazole",
+   "secao": "contraindications",
+   "texto": "Concomitant use of voriconazole tablets are contraindicated with drugs that are highly dependent on CYP3A4 for metabolism, and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions [see Drug Interactions (7) ]: Eplerenone Ergot alkaloids (e.g., ergotamine, dihydroergotamine) Finerenone Ivabradine Lurasidone Naloxegol Pimozide Quinidine Rifabutin [see Clinical Pharmacology (12.3) ] Sirolimus [see Clinical Pharmacology (12.3) ] Tolvaptan Venetoclax: Coadministration at initiation and during the ramp-up phase is contraindicated in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL) due to the potential for increased risk of tumor lysis syndrome [see Drug Interactions (7) ]. Voclosporin 2."
+  },
+  {
+   "id": "voriconazole:contraindications:2",
+   "medicamento": "voriconazole",
+   "secao": "contraindications",
+   "texto": "Concomitant use of voriconazole tablets are contraindicated with drugs and herbal products that induce CYP2C19, CYP2C9, and/or CYP3A4 and for which significantly reduced voriconazole plasma concentrations may be associated with loss of efficacy [see Drug Interactions (7) ]: Carbamazepine Efavirenz Concomitant use with efavirenz dosages of 400 mg every 24 hours or higher is contraindicated [see Clinical Pharmacology (12.3) ]. Long-acting barbiturates Rifabutin Rifampin Ritonavir Concomitant use with high-dose ritonavir (400 mg every 12 hours) is contraindicated. Concomitant use with low-dose ritonavir (100 mg every 12 hours) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole tablets [see Clinical Pharmacology (12.3) ] . St."
+  },
+  {
+   "id": "voriconazole:contraindications:3",
+   "medicamento": "voriconazole",
+   "secao": "contraindications",
+   "texto": "John’s Wort [see Clinical Pharmacology (12.3) ] Known hypersensitivity to voriconazole or its excipients (4) Concomitant use with drugs that are highly dependent on CYP3A4 for metabolism, and for which elevated plasma concentrations are associated with serious and/or life-threatening reactions (4 , 7) Concomitant use with drugs and herbal products that induce CYP2C19, CYP2C9, and/or CYP3A4 and for which significantly reduced voriconazole plasma concentrations may be associated with loss of efficacy (4 , 7)"
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:0",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "The pharmacokinetics of voriconazole are non-linear due to saturation of its metabolism. Elimination Metabolism In vitro studies showed that voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4 [see Drug Interactions (7) ] . In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole. Excretion Voriconazole is eliminated via hepatic metabolism with less than 2% of the dose excreted unchanged in the urine. Drug Interaction Studies Effects of Other Drugs on Voriconazole Voriconazole is metabolized by the human hepatic cytochrome P450 enzymes CYP2C19, CYP2C9, and CYP3A4. Results of in vitro metabolism studies indicate that the affinity of voriconazole is highest for CYP2C19, followed by CYP2C9, and is appreciably lower for CYP3A4. Inhibitors or inducers of these three enzymes may increase or decrease voriconazole systemic exposure (plasma concentrations), respectively. Rifampin (potent CYP450 inducer)- Rifampin (600 mg once daily) decreased the steady state C max and AUC τ of voriconazole (200 mg every 12 hours x 7 days) by an average of 93% and 96%, respectively, in healthy subjects."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:1",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate)- The effect of the coadministration of voriconazole and ritonavir (400 mg and 100 mg) was investigated in two separate studies. John’s Wort (CYP450 inducer; P-gp inducer)- In an independent published study in healthy volunteers who were given multiple oral doses of St. Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity: Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 6 healthy male subjects resulted in an increase in C max and AUC τ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively. Letermovir (CYP2C9/2C19 inducer) –Coadministration of oral letermovir with oral voriconazole decreased the steady state C max and AUC 0-12 of voriconazole by an average of 39% and 44%, respectively [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:2",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "Minor or no significant pharmacokinetic interactions that do not require dosage adjustment: Cimetidine (non-specific CYP450 inhibitor and increases gastric pH)- Cimetidine (400 mg every 12 hours x 8 days) increased voriconazole steady state C max and AUC τ by an average of 18% (90% CI: 6%, 32%) and 23% (90% CI: 13%, 33%), respectively, following oral doses of 200 mg every 12 hours x 7 days to healthy subjects. Macrolide antibiotics- Coadministration of erythromycin (CYP3A4 inhibitor; 1 gram every 12 hours for 7 days) or azithromycin (500 mg every 24 hours for 3 days) with voriconazole 200 mg every 12 hours for 14 days had no significant effect on voriconazole steady state C max and AUC τ in healthy subjects. Effects of Voriconazole on Other Drugs In vitro studies with human hepatic microsomes show that voriconazole inhibits the metabolic activity of the cytochrome P450 enzymes CYP2C19, CYP2C9, and CYP3A4. In these studies, the inhibition potency of voriconazole for CYP3A4 metabolic activity was significantly less than that of two other azoles, ketoconazole and itraconazole."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:3",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "In vitro studies also show that the major metabolite of voriconazole, voriconazole N-oxide, inhibits the metabolic activity of CYP2C9 and CYP3A4 to a greater extent than that of CYP2C19. Therefore, there is potential for voriconazole and its major metabolite to increase the systemic exposure (plasma concentrations) of other drugs metabolized by these CYP450 enzymes. The systemic exposure of the following drug is significantly increased by coadministration of voriconazole and their use is contraindicated: Sirolimus (CYP3A4 substrate)- Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) increased the C max and AUC of sirolimus (2 mg single dose) an average of 7-fold (90% CI: 5.7, 7.5) and 11-fold (90% CI: 9.9, 12.6), respectively, in healthy male subjects [see Contraindications (4) ] ."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:4",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "Therefore, careful monitoring and/or dosage adjustment of these drugs is needed: Alfentanil (CYP3A4 substrate) - Coadministration of multiple doses of oral voriconazole (400 mg every 12 hours on day 1, 200 mg every 12 hours on day 2) with a single 20 mcg/kg intravenous dose of alfentanil with concomitant naloxone resulted in a 6-fold increase in mean alfentanil AUC 0-∞ and a 4-fold prolongation of mean alfentanil elimination half-life, compared to when alfentanil was given alone [see Drug Interactions (7) ] . Fentanyl (CYP3A4 substrate): In an independent published study, concomitant use of voriconazole (400 mg every 12 hours on Day 1, then 200 mg every 12 hours on Day 2) with a single intravenous dose of fentanyl (5 mcg/kg) resulted in an increase in the mean AUC 0-∞ of fentanyl by 1.4-fold (range 0.81- to 2.04-fold) [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:5",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "Oxycodone (CYP3A4 substrate): In an independent published study, coadministration of multiple doses of oral voriconazole (400 mg every 12 hours, on Day 1 followed by five doses of 200 mg every 12 hours on Days 2 to 4) with a single 10 mg oral dose of oxycodone on Day 3 resulted in an increase in the mean C max and AUC 0–∞ of oxycodone by 1.7-fold (range 1.4- to 2.2-fold) and 3.6-fold (range 2.7- to 5.6-fold), respectively. Cyclosporine (CYP3A4 substrate)- In stable renal transplant recipients receiving chronic cyclosporine therapy, concomitant administration of oral voriconazole (200 mg every 12 hours for 8 days) increased cyclosporine C max and AUC τ an average of 1.1 times (90% CI: 0.9, 1.41) and 1.7 times (90% CI: 1.5, 2), respectively, as compared to when cyclosporine was administered without voriconazole [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:6",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "Methadone (CYP3A4, CYP2C19, CYP2C9 substrate) - Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the C max and AUC τ of pharmacologically active Rmethadone by 31% (90% CI: 22%, 40%) and 47% (90% CI: 38%, 57%), respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours). Tacrolimus (CYP3A4 substrate)- Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) C max and AUC τ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7) ] . Warfarin (CYP2C9 substrate)- Coadministration of voriconazole (300 mg every 12 hours x 12 days) with warfarin (30 mg single dose) significantly increased maximum prothrombin time by approximately 2 times that of placebo in healthy subjects [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:7",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "CYP2C9 substrates): In two independent published studies, single doses of ibuprofen (400 mg) and diclofenac (50 mg) were coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2). Therefore, no dosage adjustment for these agents is recommended: Prednisolone (CYP3A4 substrate)- Voriconazole (200 mg every 12 hours x 30 days) increased C max and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects [see Warnings and Precautions (5.8) ] . Digoxin (P-glycoprotein mediated transport)- Voriconazole (200 mg every 12 hours x 12 days) had no significant effect on steady state C max and AUC τ of digoxin (0.25 mg once daily for 10 days) in healthy subjects. Mycophenolic acid (UDP-glucuronyl transferase substrate)- Voriconazole (200 mg every 12 hours x 5 days) had no significant effect on the C max and AUC τ of mycophenolic acid and its major metabolite, mycophenolic acid glucuronide after administration of a 1 gram single oral dose of mycophenolate mofetil."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:8",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "Two-Way Interactions Concomitant use of the following agents with voriconazole is contraindicated: Rifabutin (potent CYP450 inducer)- Rifabutin (300 mg once daily) decreased the C max and AUC τ of voriconazole at 200 mg twice daily by an average of 67% (90% CI: 58%, 73%) and 79% (90% CI: 71%, 84%), respectively, in healthy subjects. Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse reactions/toxicity: Efavirenz, a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate)- Standard doses of voriconazole and efavirenz (400 mg every 24 hours or higher) must not be coadministered [see Drug Interactions (7) ] . Phenytoin (CYP2C9 substrate and potent CYP450 inducer)- Repeat dose administration of phenytoin (300 mg once daily) decreased the steady state C max and AUC τ of orally administered voriconazole (200 mg every 12 hours x 14 days) by an average of 50% and 70%, respectively, in healthy subjects. Omeprazole (CYP2C19 inhibitor;"
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:9",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "CYP2C19 and CYP3A4 substrate)- Coadministration of omeprazole (40 mg once daily x 10 days) with oral voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 9 days) increased the steady state C max and AUC τ of voriconazole by an average of 15% (90% CI: 5%, 25%) and 40% (90% CI: 29%, 55%), respectively, in healthy subjects. Oral Contraceptives (CYP3A4 substrate; CYP2C19 inhibitor)- Coadministration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 3 days) and oral contraceptive (Ortho-Novum1/35 ® consisting of 35 mcg ethinyl estradiol and 1 mg norethindrone, every 24 hours) to healthy female subjects at steady state increased the C max and AUC τ of ethinyl estradiol by an average of 36% (90% CI: 28%, 45%) and 61% (90% CI: 50%, 72%), respectively, and that of norethindrone by 15% (90% CI: 3%, 28%) and 53% (90% CI: 44%, 63%), respectively in healthy subjects."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:10",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "No significant pharmacokinetic interaction was seen and no dosage adjustment of these drugs is recommended: Indinavir (CYP3A4 inhibitor and substrate)- Repeat dose administration of indinavir (800 mg TID for 10 days) had no significant effect on voriconazole C max and AUC following repeat dose administration (200 mg every 12 hours for 17 days) in healthy subjects. The primary mode of action of voriconazole is the inhibition of fungal cytochrome P-450-mediated 14 alpha-lanosterol demethylation, an essential step in fungal ergosterol biosynthesis. At least 90 percent of the following fungi exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for voriconazole against isolates of similar genus or organism group."
+  },
+  {
+   "id": "voriconazole:clinical_pharmacology:11",
+   "medicamento": "voriconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "However, the effectiveness of voriconazole in treating clinical infections due to these fungi has not been established in adequate and well-controlled clinical trials: Candida lusitaniae Candida guilliermondii Susceptibility Testing For specific information regarding susceptibility test interpretive criteria and associated test methods and quality control standards recognized by FDA for this drug, please see: https://www.fda.gov/STIC . 12.5 Pharmacogenomics CYP2C19, significantly involved in the metabolism of voriconazole, exhibits genetic polymorphism. Approximately 15 to 20% of Asian populations may be expected to be poor metabolizers. For Caucasians and Blacks, the prevalence of poor metabolizers is 3 to 5%. Studies conducted in Caucasian and Japanese healthy subjects have shown that poor metabolizers have, on average, 4-fold higher voriconazole exposure (AUC τ ) than their homozygous extensive metabolizer counterparts. Subjects who are heterozygous extensive metabolizers have, on average, 2-fold higher voriconazole exposure than their homozygous extensive metabolizer counterparts [see Clinical Pharmacology (12.3) ] ."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:0",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "The pharmacokinetics of voriconazole are non-linear due to saturation of its metabolism. Elimination Metabolism In vitro studies showed that voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4 [see Drug Interactions (7) ] . In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole. Excretion Voriconazole is eliminated via hepatic metabolism with less than 2% of the dose excreted unchanged in the urine. Drug Interaction Studies Effects of Other Drugs on Voriconazole Voriconazole is metabolized by the human hepatic cytochrome P450 enzymes CYP2C19, CYP2C9, and CYP3A4. Results of in vitro metabolism studies indicate that the affinity of voriconazole is highest for CYP2C19, followed by CYP2C9, and is appreciably lower for CYP3A4. Inhibitors or inducers of these three enzymes may increase or decrease voriconazole systemic exposure (plasma concentrations), respectively. Rifampin (potent CYP450 inducer)- Rifampin (600 mg once daily) decreased the steady state C max and AUC τ of voriconazole (200 mg every 12 hours x 7 days) by an average of 93% and 96%, respectively, in healthy subjects."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:1",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate)- The effect of the coadministration of voriconazole and ritonavir (400 mg and 100 mg) was investigated in two separate studies. John’s Wort (CYP450 inducer; P-gp inducer)- In an independent published study in healthy volunteers who were given multiple oral doses of St. Significant drug interactions that may require voriconazole dosage adjustment, or frequent monitoring of voriconazole-related adverse reactions/toxicity: Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Concurrent administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 6 healthy male subjects resulted in an increase in C max and AUC τ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively. Letermovir (CYP2C9/2C19 inducer) –Coadministration of oral letermovir with oral voriconazole decreased the steady state C max and AUC 0-12 of voriconazole by an average of 39% and 44%, respectively [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:2",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "Minor or no significant pharmacokinetic interactions that do not require dosage adjustment: Cimetidine (non-specific CYP450 inhibitor and increases gastric pH)- Cimetidine (400 mg every 12 hours x 8 days) increased voriconazole steady state C max and AUC τ by an average of 18% (90% CI: 6%, 32%) and 23% (90% CI: 13%, 33%), respectively, following oral doses of 200 mg every 12 hours x 7 days to healthy subjects. Macrolide antibiotics- Coadministration of erythromycin (CYP3A4 inhibitor; 1 gram every 12 hours for 7 days) or azithromycin (500 mg every 24 hours for 3 days) with voriconazole 200 mg every 12 hours for 14 days had no significant effect on voriconazole steady state C max and AUC τ in healthy subjects. Effects of Voriconazole on Other Drugs In vitro studies with human hepatic microsomes show that voriconazole inhibits the metabolic activity of the cytochrome P450 enzymes CYP2C19, CYP2C9, and CYP3A4. In these studies, the inhibition potency of voriconazole for CYP3A4 metabolic activity was significantly less than that of two other azoles, ketoconazole and itraconazole."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:3",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "In vitro studies also show that the major metabolite of voriconazole, voriconazole N-oxide, inhibits the metabolic activity of CYP2C9 and CYP3A4 to a greater extent than that of CYP2C19. Therefore, there is potential for voriconazole and its major metabolite to increase the systemic exposure (plasma concentrations) of other drugs metabolized by these CYP450 enzymes. The systemic exposure of the following drug is significantly increased by coadministration of voriconazole and their use is contraindicated: Sirolimus (CYP3A4 substrate)- Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 8 days) increased the C max and AUC of sirolimus (2 mg single dose) an average of 7-fold (90% CI: 5.7, 7.5) and 11-fold (90% CI: 9.9, 12.6), respectively, in healthy male subjects [see Contraindications (4) ] ."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:4",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "Therefore, careful monitoring and/or dosage adjustment of these drugs is needed: Alfentanil (CYP3A4 substrate) - Coadministration of multiple doses of oral voriconazole (400 mg every 12 hours on day 1, 200 mg every 12 hours on day 2) with a single 20 mcg/kg intravenous dose of alfentanil with concomitant naloxone resulted in a 6-fold increase in mean alfentanil AUC 0-∞ and a 4-fold prolongation of mean alfentanil elimination half-life, compared to when alfentanil was given alone [see Drug Interactions (7) ] . Fentanyl (CYP3A4 substrate): In an independent published study, concomitant use of voriconazole (400 mg every 12 hours on Day 1, then 200 mg every 12 hours on Day 2) with a single intravenous dose of fentanyl (5 mcg/kg) resulted in an increase in the mean AUC 0-∞ of fentanyl by 1.4-fold (range 0.81- to 2.04-fold) [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:5",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "Oxycodone (CYP3A4 substrate): In an independent published study, coadministration of multiple doses of oral voriconazole (400 mg every 12 hours, on Day 1 followed by five doses of 200 mg every 12 hours on Days 2 to 4) with a single 10 mg oral dose of oxycodone on Day 3 resulted in an increase in the mean C max and AUC 0–∞ of oxycodone by 1.7-fold (range 1.4- to 2.2-fold) and 3.6-fold (range 2.7- to 5.6-fold), respectively. Cyclosporine (CYP3A4 substrate)- In stable renal transplant recipients receiving chronic cyclosporine therapy, concomitant administration of oral voriconazole (200 mg every 12 hours for 8 days) increased cyclosporine C max and AUC τ an average of 1.1 times (90% CI: 0.9, 1.41) and 1.7 times (90% CI: 1.5, 2), respectively, as compared to when cyclosporine was administered without voriconazole [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:6",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "Methadone (CYP3A4, CYP2C19, CYP2C9 substrate) - Repeat dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 4 days) increased the C max and AUC τ of pharmacologically active Rmethadone by 31% (90% CI: 22%, 40%) and 47% (90% CI: 38%, 57%), respectively, in subjects receiving a methadone maintenance dose (30 to 100 mg every 24 hours). Tacrolimus (CYP3A4 substrate)- Repeat oral dose administration of voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 6 days) increased tacrolimus (0.1 mg/kg single dose) C max and AUC τ in healthy subjects by an average of 2-fold (90% CI: 1.9, 2.5) and 3-fold (90% CI: 2.7, 3.8), respectively [see Drug Interactions (7) ] . Warfarin (CYP2C9 substrate)- Coadministration of voriconazole (300 mg every 12 hours x 12 days) with warfarin (30 mg single dose) significantly increased maximum prothrombin time by approximately 2 times that of placebo in healthy subjects [see Drug Interactions (7) ] ."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:7",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "CYP2C9 substrates): In two independent published studies, single doses of ibuprofen (400 mg) and diclofenac (50 mg) were coadministered with the last dose of voriconazole (400 mg every 12 hours on Day 1, followed by 200 mg every 12 hours on Day 2). Therefore, no dosage adjustment for these agents is recommended: Prednisolone (CYP3A4 substrate)- Voriconazole (200 mg every 12 hours x 30 days) increased C max and AUC of prednisolone (60 mg single dose) by an average of 11% and 34%, respectively, in healthy subjects [see Warnings and Precautions (5.8) ] . Digoxin (P-glycoprotein mediated transport)- Voriconazole (200 mg every 12 hours x 12 days) had no significant effect on steady state C max and AUC τ of digoxin (0.25 mg once daily for 10 days) in healthy subjects. Mycophenolic acid (UDP-glucuronyl transferase substrate)- Voriconazole (200 mg every 12 hours x 5 days) had no significant effect on the C max and AUC τ of mycophenolic acid and its major metabolite, mycophenolic acid glucuronide after administration of a 1 gram single oral dose of mycophenolate mofetil."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:8",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "Two-Way Interactions Concomitant use of the following agents with voriconazole is contraindicated: Rifabutin (potent CYP450 inducer)- Rifabutin (300 mg once daily) decreased the C max and AUC τ of voriconazole at 200 mg twice daily by an average of 67% (90% CI: 58%, 73%) and 79% (90% CI: 71%, 84%), respectively, in healthy subjects. Significant drug interactions that may require dosage adjustment, frequent monitoring of drug levels and/or frequent monitoring of drug-related adverse reactions/toxicity: Efavirenz, a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate)- Standard doses of voriconazole and efavirenz (400 mg every 24 hours or higher) must not be coadministered [see Drug Interactions (7) ] . Phenytoin (CYP2C9 substrate and potent CYP450 inducer)- Repeat dose administration of phenytoin (300 mg once daily) decreased the steady state C max and AUC τ of orally administered voriconazole (200 mg every 12 hours x 14 days) by an average of 50% and 70%, respectively, in healthy subjects. Omeprazole (CYP2C19 inhibitor;"
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:9",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "CYP2C19 and CYP3A4 substrate)- Coadministration of omeprazole (40 mg once daily x 10 days) with oral voriconazole (400 mg every 12 hours x 1 day, then 200 mg every 12 hours x 9 days) increased the steady state C max and AUC τ of voriconazole by an average of 15% (90% CI: 5%, 25%) and 40% (90% CI: 29%, 55%), respectively, in healthy subjects. Oral Contraceptives (CYP3A4 substrate; CYP2C19 inhibitor)- Coadministration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 3 days) and oral contraceptive (Ortho-Novum1/35 ® consisting of 35 mcg ethinyl estradiol and 1 mg norethindrone, every 24 hours) to healthy female subjects at steady state increased the C max and AUC τ of ethinyl estradiol by an average of 36% (90% CI: 28%, 45%) and 61% (90% CI: 50%, 72%), respectively, and that of norethindrone by 15% (90% CI: 3%, 28%) and 53% (90% CI: 44%, 63%), respectively in healthy subjects."
+  },
+  {
+   "id": "voriconazole:pharmacokinetics:10",
+   "medicamento": "voriconazole",
+   "secao": "pharmacokinetics",
+   "texto": "No significant pharmacokinetic interaction was seen and no dosage adjustment of these drugs is recommended: Indinavir (CYP3A4 inhibitor and substrate)- Repeat dose administration of indinavir (800 mg TID for 10 days) had no significant effect on voriconazole C max and AUC following repeat dose administration (200 mg every 12 hours for 17 days) in healthy subjects."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "voriconazole:drug_interactions:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Voriconazole is metabolized by cytochrome P450 isoenzymes, CYP2C19, CYP2C9, and CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Voriconazole is metabolized by cytochrome P450 isoenzymes, CYP2C19, CYP2C9, and CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Voriconazole is metabolized by cytochrome P450 isoenzymes, CYP2C19, CYP2C9, and CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Voriconazole is a strong inhibitor of CYP3A4, and also inhibits CYP2C19 and CYP2C9.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Voriconazole is a strong inhibitor of CYP3A4, and also inhibits CYP2C19 and CYP2C9.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Voriconazole is a strong inhibitor of CYP3A4, and also inhibits CYP2C19 and CYP2C9.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:1",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Rifampin* and Rifabutin* (CYP450 Induction) Significantly Reduced Contraindicated",
+   "efeito": "significantly reduced voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:1",
+   "origem": "rifabutin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Rifampin* and Rifabutin* (CYP450 Induction) Significantly Reduced Contraindicated",
+   "efeito": "significantly reduced voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:1",
+   "origem": "efavirenz",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Efavirenz (400 mg every 24 hours)** (CYP450 Induction) Efavirenz (300 mg every 24 hours)** (CYP450 Induction) Significantly Reduced Slight Decrease in AUCτ Contraindicated",
+   "efeito": "significantly reduced voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "High-dose Ritonavir (400 mg every 12 hours)** (CYP450 Induction) Low-dose Ritonavir (100 mg every 12 hours)** (CYP450 Induction) Significantly Reduced Reduced Contraindicated",
+   "efeito": "reduced voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Carbamazepine (CYP450 Induction) Not Studied In Vivo or In Vitro , but Likely to Result in Significant Reduction Contraindicated",
+   "efeito": "likely to result in significant reduction of voriconazole plasma exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "phenobarbital",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Long Acting Barbiturates (e.g., phenobarbital, mephobarbital) (CYP450 Induction) Not Studied In Vivo or In Vitro , but Likely to Result in Significant Reduction Contraindicated",
+   "efeito": "likely to result in significant reduction of voriconazole plasma exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "mephobarbital",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Long Acting Barbiturates (e.g., phenobarbital, mephobarbital) (CYP450 Induction) Not Studied In Vivo or In Vitro , but Likely to Result in Significant Reduction Contraindicated",
+   "efeito": "likely to result in significant reduction of voriconazole plasma exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Phenytoin* (CYP450 Induction) Significantly Reduced",
+   "efeito": "significantly reduced voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "letermovir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Letermovir (CYP2C9/2C19 Induction) Reduced",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "letermovir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Letermovir (CYP2C9/2C19 Induction) Reduced",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "letermovir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Letermovir (CYP2C9/2C19 Induction) Reduced",
+   "efeito": "reduced voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "fluconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Fluconazole** (CYP2C9, CYP2C19 and CYP3A4 Inhibition) Significantly Increased",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "fluconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Fluconazole** (CYP2C9, CYP2C19 and CYP3A4 Inhibition) Significantly Increased",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "fluconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Fluconazole** (CYP2C9, CYP2C19 and CYP3A4 Inhibition) Significantly Increased",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:2",
+   "origem": "fluconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Fluconazole** (CYP2C9, CYP2C19 and CYP3A4 Inhibition) Significantly Increased Avoid concomitant administration of voriconazole and fluconazole.",
+   "efeito": "significantly increased voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:3",
+   "origem": "delavirdine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "In Vitro Studies Demonstrated Potential for Inhibition of Voriconazole Metabolism by Delavirdine and Other NNRTIs (Increased Plasma Exposure)",
+   "efeito": "increased voriconazole plasma exposure",
+   "confianca": 0.8,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:3",
+   "origem": "efavirenz",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "A Voriconazole-Efavirenz Drug Interaction Study Demonstrated the Potential for the Metabolism of Voriconazole to be Induced by Efavirenz and Other NNRTIs (Decreased Plasma Exposure)",
+   "efeito": "decreased voriconazole plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:4",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "sirolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Sirolimus* (CYP3A4 Inhibition) Significantly Increased Contraindicated",
+   "efeito": "significantly increased sirolimus plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:4",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rifabutin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Rifabutin* (CYP3A4 Inhibition) Significantly Increased Contraindicated",
+   "efeito": "significantly increased rifabutin plasma exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:5",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pimozide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Pimozide, Quinidine, Ivabradine (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Contraindicated because of potential for QT prolongation",
+   "efeito": "likely to increase drug plasma exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:5",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Pimozide, Quinidine, Ivabradine (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Contraindicated because of potential for QT prolongation",
+   "efeito": "likely to increase drug plasma exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:5",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ivabradine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Pimozide, Quinidine, Ivabradine (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased Contraindicated because of potential for QT prolongation",
+   "efeito": "likely to increase drug plasma exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "naloxegol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Naloxegol (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Drug Plasma Exposure Likely to be Increased which may Increase the Risk of Adverse Reactions Contraindicated",
+   "efeito": "likely to increase drug plasma exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tolvaptan",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Tolvaptan (CYP3A4 Inhibition) Although Not Studied Clinically, Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Tolvaptan Contraindicated",
+   "efeito": "likely to significantly increase plasma concentrations of tolvaptan",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lurasidone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Lurasidone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Lurasidone Contraindicated",
+   "efeito": "likely to significantly increase plasma concentrations of lurasidone",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "finerenone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Finerenone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Finerenone Contraindicated",
+   "efeito": "likely to significantly increase plasma concentrations of finerenone",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "eplerenone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Eplerenone (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Eplerenone Contraindicated",
+   "efeito": "likely to significantly increase plasma concentrations of eplerenone",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voclosporin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Voclosporin (CYP3A4 Inhibition) Not Studied In Vivo or In Vitro , but Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Voclosporin Contraindicated",
+   "efeito": "likely to significantly increase plasma concentrations of voclosporin",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "venetoclax",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Venetoclax (CYP3A4 Inhibition) Not studied In Vivo or In Vitro , but Venetoclax Plasma Exposure Likely to be Significantly Increased",
+   "efeito": "venetoclax plasma exposure likely to be significantly increased",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "chronic lymphocytic leukemia",
+   "tipo_destino": "Condicao",
+   "evidencia": "Coadministration of voriconazole is contraindicated at initiation and during the ramp-up phase in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "small lymphocytic lymphoma",
+   "tipo_destino": "Condicao",
+   "evidencia": "Coadministration of voriconazole is contraindicated at initiation and during the ramp-up phase in patients with chronic lymphocytic leukemia (CLL) or small lymphocytic lymphoma (SLL).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:7",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lemborexant",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Avoid concomitant use of voriconazole with lemborexant",
+   "efeito": "avoid concomitant use due to increased exposure",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:7",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "glasdegib",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Consider alternative therapies",
+   "efeito": "alternative therapies recommended",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:7",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tyrosine kinase inhibitor",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Avoid concomitant use of voriconazole",
+   "efeito": "avoid concomitant use",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:7",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A4 Inhibition",
+   "efeito": "",
+   "confianca": 0.98,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:8",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lurasidone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Voriconazole is Likely to Significantly Increase the Plasma Concentrations of Lurasidone Contraindicated",
+   "efeito": "avoid concomitant use; contraindicated",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:8",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "reduce the cyclosporine dose to one-half of the starting dose",
+   "efeito": "dose reduction of cyclosporine recommended",
+   "confianca": 0.95,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:8",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "nephrotoxicity",
+   "tipo_destino": "Efeito",
+   "evidencia": "Increased cyclosporine levels have been associated with nephrotoxicity",
+   "efeito": "",
+   "confianca": 0.92,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:8",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "methadone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Increased plasma concentrations of methadone have been associated with toxicity including QT prolongation",
+   "efeito": "dose reduction of methadone recommended; monitor QT",
+   "confianca": 0.94,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:8",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A4 Inhibition",
+   "efeito": "",
+   "confianca": 0.98,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:14",
+   "origem": "Voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "In Vitro Studies Demonstrated Potential for Voriconazole to Inhibit Metabolism (Increased Plasma Exposure)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:15",
+   "origem": "Voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Everolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of voriconazole and everolimus is not recommended.",
+   "efeito": "co‑administration not recommended due to increased exposure",
+   "confianca": 0.95,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:3",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "voriconazole N-oxide, inhibits the metabolic activity of CYP2C9 ...",
+   "efeito": "",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:8",
+   "origem": "omeprazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Omeprazole (CYP2C19 inhibitor) ...",
+   "efeito": "",
+   "confianca": 0.94,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:11",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2C19, significantly involved in the metabolism of voriconazole",
+   "efeito": "",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4",
+   "efeito": "",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "voriconazole is metabolized by the human hepatic cytochrome P450 enzymes, CYP2C19, CYP2C9 and CYP3A4",
+   "efeito": "",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:8",
+   "origem": "efavirenz",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP450",
+   "tipo_destino": "Enzima",
+   "evidencia": "Efavirenz, a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:7",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "venetoclax",
+   "tipo_destino": "Medicamento",
+   "evidencia": "dose reduction ... when coadministering voriconazole with venetoclax",
+   "efeito": "dose reduction of venetoclax recommended",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:9",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "fentanyl",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Reduction in the dose of fentanyl ... should be considered when coadministered with voriconazole",
+   "efeito": "dose reduction of fentanyl recommended",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:14",
+   "origem": "Voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Sulfonylurea Oral Hypoglycemics (CYP2C9 Inhibition) ... Drug Plasma Exposure Likely to be Increased",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:15",
+   "origem": "Voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Phenytoin ... increase maintenance oral dosage of Voriconazole",
+   "efeito": "phenytoin requires increased voriconazole dosage",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:drug_interactions:15",
+   "origem": "Voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Efavirenz",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Efavirenz ... increase maintenance oral dosage of Voriconazole",
+   "efeito": "efavirenz requires increased voriconazole dosage",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:3",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "voriconazole N-oxide, inhibits the metabolic activity of ... CYP3A4 ...",
+   "efeito": "",
+   "confianca": 0.96,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:3",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "sirolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "voriconazole ... increased the C max and AUC of sirolimus ... 7-fold ...",
+   "efeito": "increased plasma concentrations of sirolimus",
+   "confianca": 0.94,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "methadone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Repeat dose administration of oral voriconazole ... increased the C max and AUC τ of pharmacologically active Rmethadone by 31% ... and 47% ...",
+   "efeito": "increased Cmax and AUC of methadone",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tacrolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "increased tacrolimus (0.1 mg/kg single dose) C max and AUC τ ... by an average of 2-fold ... and 3-fold ...",
+   "efeito": "increased Cmax and AUC of tacrolimus",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of voriconazole ... with warfarin ... significantly increased maximum prothrombin time by approximately 2 times ...",
+   "efeito": "increased prothrombin time",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:7",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "prednisolone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Voriconazole ... increased C max and AUC of prednisolone (60 mg single dose) by an average of 11% and 34% ...",
+   "efeito": "increased Cmax and AUC of prednisolone",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "voriconazole:pharmacokinetics:8",
+   "origem": "rifabutin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP450",
+   "tipo_destino": "Enzima",
+   "evidencia": "Rifabutin (300 mg once daily) decreased the C max and AUC τ of voriconazole ... by an average of 67% ... and 79% ...",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:4",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "alfentanil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration ... with voriconazole ... resulted in a 6-fold increase in mean alfentanil AUC ... and a 4-fold prolongation of elimination half-life",
+   "efeito": "increased AUC and prolonged half‑life of alfentanil",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:4",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "fentanyl",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration ... with voriconazole ... resulted in an increase in the mean AUC of fentanyl by 1.4‑fold",
+   "efeito": "increased exposure of fentanyl",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:5",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "oxycodone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration ... with voriconazole ... increased the mean C max and AUC of oxycodone by 1.7‑fold and 3.6‑fold",
+   "efeito": "increased exposure of oxycodone",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:5",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration ... with voriconazole ... increased cyclosporine C max and AUC ... 1.1‑fold and 1.7‑fold",
+   "efeito": "increased exposure of cyclosporine",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "methadone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "voriconazole increased the C max and AUC of pharmacologically active R‑methadone by 31% and 47%",
+   "efeito": "increased exposure of methadone (R‑methadone)",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tacrolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "voriconazole increased tacrolimus C max and AUC τ ... 2‑fold and 3‑fold",
+   "efeito": "increased exposure of tacrolimus",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:6",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration of voriconazole with warfarin significantly increased maximum prothrombin time by approximately 2 times",
+   "efeito": "increased prothrombin time (anticoagulant effect)",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:8",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "rifabutin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of the following agents with voriconazole is contraindicated: Rifabutin ...",
+   "efeito": "",
+   "confianca": 0.94,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:8",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "efavirenz",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Standard doses of voriconazole and efavirenz ... must not be coadministered",
+   "efeito": "",
+   "confianca": 0.94,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "voriconazole:clinical_pharmacology:9",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "oral_contraceptive",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration ... with oral contraceptive ... increased the C max and AUC of ethinyl estradiol by 36% and 61% ... norethindrone ... 15% and 53%",
+   "efeito": "increased exposure of ethinyl estradiol and norethindrone",
+   "confianca": 0.94,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

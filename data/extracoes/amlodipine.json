@@ -1,0 +1,245 @@
+{
+ "generico": "amlodipine",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "amlodipine:drug_interactions:0",
+   "medicamento": "amlodipine",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS • Do not exceed doses greater than 20 mg daily of simvastatin. ( 7.2 ) 7.1. Impact of Other Drugs on Amlodipine CYP3A Inhibitors Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine and may require dose reduction. Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors to determine the need for dose adjustment [ see Clinical Pharmacology (12.3) ]. CYP3A Inducers No information is available on the quantitative effects of CYP3A inducers on amlodipine. Blood pressure should be closely monitored when amlodipine is co-administered with CYP3A inducers. Sildenafil Monitor for hypotension when sildenafil is co-administered with amlodipine [ see Clinical Pharmacology (12.2) ]. 7.2. Impact of Amlodipine on Other Drugs Simvastatin Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin. Limit the dose of simvastatin in patients on amlodipine to 20 mg daily [ see Clinical Pharmacology (12.3) ]. Immunosuppressants Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered."
+  },
+  {
+   "id": "amlodipine:drug_interactions:1",
+   "medicamento": "amlodipine",
+   "secao": "drug_interactions",
+   "texto": "Frequent monitoring of trough blood levels of cyclosporine and tacrolimus is recommended and adjust the dose when appropriate [ see Clinical Pharmacology (12.3) ]."
+  },
+  {
+   "id": "amlodipine:contraindications:0",
+   "medicamento": "amlodipine",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Known sensitivity to amlodipine ( 4 ) Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine. Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine."
+  },
+  {
+   "id": "amlodipine:clinical_pharmacology:0",
+   "medicamento": "amlodipine",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Amlodipine is a dihydropyridine calcium antagonist (calcium ion antagonist or slow-channel blocker) that inhibits the transmembrane influx of calcium ions into vascular smooth muscle and cardiac muscle. Amlodipine inhibits calcium ion influx across cell membranes selectively, with a greater effect on vascular smooth muscle cells than on cardiac muscle cells. This inhibition of coronary spasm is responsible for the effectiveness of amlodipine besylate tablets in vasospastic (Prinzmetal's or variant) angina. 12.2 Pharmacodynamics Hemodynamics: Following administration of therapeutic doses to patients with hypertension, amlodipine besylate tablets produce vasodilation resulting in a reduction of supine and standing blood pressures. Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine. CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure."
+  },
+  {
+   "id": "amlodipine:clinical_pharmacology:1",
+   "medicamento": "amlodipine",
+   "secao": "clinical_pharmacology",
+   "texto": "However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [ see Drug Interactions (7.1) ]. Impact of amlodipine on other dru g s Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates. Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5‑to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone. This finding was not observed in CYP3A5 non-expressers (N= 6). However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported. Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [ see Drug Interactions (7.2) ]. 12.4 Pediatric Patients Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine besylate tablets between 1.25 mg and 20 mg."
+  },
+  {
+   "id": "amlodipine:clinical_pharmacology:2",
+   "medicamento": "amlodipine",
+   "secao": "clinical_pharmacology",
+   "texto": "Amlodipine is extensively (about 90%) converted to inactive metabolites via hepatic metabolism with 10% of the parent compound and 60% of the metabolites excreted in the urine. CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure. However, strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine to a greater extent [ see Drug Interactions (7.1) ]. Impact of amlodipine on other dru g s Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates. Tacrolimus: A prospective study in healthy Chinese volunteers (N=9) with CYP3A5 expressers showed a 2.5‑to 4-fold increase in tacrolimus exposure when concomitantly administered with amlodipine compared to tacrolimus alone. This finding was not observed in CYP3A5 non-expressers (N= 6)."
+  },
+  {
+   "id": "amlodipine:clinical_pharmacology:3",
+   "medicamento": "amlodipine",
+   "secao": "clinical_pharmacology",
+   "texto": "However, a 3-fold increase in plasma exposure to tacrolimus in a renal transplant patient (CYP3A5 non-expresser) upon initiation of amlodipine for the treatment of post-transplant hypertension resulting in reduction of tacrolimus dose has been reported. Irrespective of the CYP3A5 genotype status, the possibility of an interaction cannot be excluded with these drugs [ see Drug Interactions (7.2) ]. 12.4 Pediatric Patients Sixty-two hypertensive patients aged 6 to 17 years received doses of amlodipine besylate tablets between 1.25 mg and 20 mg."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "amlodipine:drug_interactions:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Co-administration of simvastatin with amlodipine increases the systemic exposure of simvastatin.",
+   "efeito": "increased systemic exposure of simvastatin",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:drug_interactions:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "sildenafil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Monitor for hypotension when sildenafil is co-administered with amlodipine",
+   "efeito": "hypotension",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:drug_interactions:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.",
+   "efeito": "increase the systemic exposure of cyclosporine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:drug_interactions:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tacrolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amlodipine may increase the systemic exposure of cyclosporine or tacrolimus when co-administered.",
+   "efeito": "increase the systemic exposure of tacrolimus",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:drug_interactions:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "hypotension",
+   "tipo_destino": "Efeito",
+   "evidencia": "Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:drug_interactions:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "edema",
+   "tipo_destino": "Efeito",
+   "evidencia": "Monitor for symptoms of hypotension and edema when amlodipine is co-administered with CYP3A inhibitors",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:contraindications:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sensitivity to amlodipine",
+   "tipo_destino": "Condicao",
+   "evidencia": "Amlodipine besylate tablets are contraindicated in patients with known sensitivity to amlodipine.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "diltiazem",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Co-administration of a 180 mg daily dose of diltiazem with 5 mg amlodipine in elderly hypertensive patients resulted in a 60% increase in amlodipine systemic exposure.",
+   "efeito": "increase in amlodipine systemic exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:0",
+   "origem": "diltiazem",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors: Co-administration of a 180 mg daily dose of diltiazem",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:1",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "itraconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine",
+   "efeito": "increase the plasma concentrations of amlodipine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:1",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clarithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin) may increase the plasma concentrations of amlodipine",
+   "efeito": "increase the plasma concentrations of amlodipine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:1",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amlodipine is a weak inhibitor of CYP3A",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:1",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "strong inhibitors of CYP3A (e.g., itraconazole, clarithromycin)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:clinical_pharmacology:1",
+   "origem": "tacrolimus",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amlodipine is a weak inhibitor of CYP3A and may increase exposure to CYP3A substrates. Tacrolimus: ... showed a 2.5‑to 4-fold increase in tacrolimus exposure",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "amlodipine:drug_interactions:0",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Co-administration with CYP3A inhibitors (moderate and strong) results in increased systemic exposure to amlodipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": []
+}

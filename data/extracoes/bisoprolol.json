@@ -1,0 +1,227 @@
+{
+ "generico": "bisoprolol",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "bisoprolol:drug_interactions:0",
+   "medicamento": "bisoprolol",
+   "secao": "drug_interactions",
+   "texto": "DRUG INTERACTIONS BISOPROLOL FUMARATE should not be combined with other beta-blocking agents. Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of BISOPROLOL FUMARATE may produce excessive reduction of sympathetic activity. In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that BISOPROLOL FUMARATE be discontinued for several days before the withdrawal of clonidine. BISOPROLOL FUMARATE should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide, are used concurrently. Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. Concurrent use of rifampin increases the metabolic clearance of BISOPROLOL FUMARATE, resulting in a shortened elimination half-life of BISOPROLOL FUMARATE."
+  },
+  {
+   "id": "bisoprolol:drug_interactions:1",
+   "medicamento": "bisoprolol",
+   "secao": "drug_interactions",
+   "texto": "However, initial dose modification is generally not necessary. Pharmacokinetic studies document no clinically relevant interactions with other agents given concomitantly, including thiazide diuretics and cimetidine. There was no effect of BISOPROLOL FUMARATE on prothrombin time in patients on stable doses of warfarin. Risk of Anaphylactic Reaction: While taking beta-blockers, patients with a history of severe anaphylactic reaction to a variety of allergens may be more reactive to repeated challenge, either accidental, diagnostic, or therapeutic. Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions."
+  },
+  {
+   "id": "bisoprolol:contraindications:0",
+   "medicamento": "bisoprolol",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS BISOPROLOL FUMARATE is contraindicated in patients with cardiogenic shock, overt cardiac failure, second or third degree AV block, and marked sinus bradycardia."
+  },
+  {
+   "id": "bisoprolol:clinical_pharmacology:0",
+   "medicamento": "bisoprolol",
+   "secao": "clinical_pharmacology",
+   "texto": "Cardioselectivity is not absolute, however, and at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors, chiefly located in the bronchial and vascular musculature; to retain selectivity it is therefore important to use the lowest effective dose. Pharmacokinetics and Metabolism The absolute bioavailability after a 10 mg oral dose of bisoprolol fumarate is about 80%. The first pass metabolism of bisoprolol fumarate is about 20%. Bisoprolol fumarate is not metabolized by cytochrome P450 II D6 (debrisoquin hydroxylase). Factors which may be involved include: Decreased cardiac output, Inhibition of renin release by the kidneys, Diminution of tonic sympathetic outflow from the vasomotor centers in the brain. In normal volunteers, BISOPROLOL FUMARATE therapy resulted in a reduction of exercise- and isoproterenol-induced tachycardia. The changes induced by beta-blockade with all agents were reversed by bronchodilator therapy."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Reserpine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of BISOPROLOL FUMARATE may produce",
+   "efeito": "may produce excessive reduction of sympathetic activity",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Guanethidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, should be closely monitored, because the added beta-adrenergic blocking action of BISOPROLOL FUMARATE may produce",
+   "efeito": "may produce excessive reduction of sympathetic activity",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Clonidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "In patients receiving concurrent therapy with clonidine, if therapy is to be discontinued, it is suggested that BISOPROLOL FUMARATE be discontinued for several days before the withdrawal of clonidine",
+   "efeito": "potential interaction during withdrawal of clonidine",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Verapamil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "BISOPROLOL FUMARATE should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil]",
+   "efeito": "myocardial depression or inhibition of AV conduction",
+   "confianca": 0.8,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Diltiazem",
+   "tipo_destino": "Medicamento",
+   "evidencia": "BISOPROLOL FUMARATE should be used with care when myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists... and benzothiazepine [diltiazem] classes",
+   "efeito": "myocardial depression or inhibition of AV conduction",
+   "confianca": 0.8,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "BISOPROLOL FUMARATE should be used with care when myocardial depressants or inhibitors of AV conduction, such as... antiarrhythmic agents, such as disopyramide, are used concurrently.",
+   "efeito": "myocardial depression or inhibition of AV conduction",
+   "confianca": 0.8,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Digitalis glycoside",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia.",
+   "efeito": "increase the risk of bradycardia",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:0",
+   "origem": "Rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Bisoprolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concurrent use of rifampin increases the metabolic clearance of BISOPROLOL FUMARATE, resulting in a shortened elimination half-life of BISOPROLOL FUMARATE.",
+   "efeito": "shortened elimination half-life of bisoprolol",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:drug_interactions:1",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Epinephrine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Such patients may be unresponsive to the usual doses of epinephrine used to treat allergic reactions.",
+   "efeito": "unresponsive to the usual doses of epinephrine",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:contraindications:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "BISOPROLOL FUMARATE is contraindicated in patients with cardiogenic shock",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:contraindications:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Overt cardiac failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "BISOPROLOL FUMARATE is contraindicated in patients with... overt cardiac failure",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:contraindications:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Second degree AV block",
+   "tipo_destino": "Condicao",
+   "evidencia": "BISOPROLOL FUMARATE is contraindicated in patients with... second or third degree AV block",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:contraindications:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Third degree AV block",
+   "tipo_destino": "Condicao",
+   "evidencia": "BISOPROLOL FUMARATE is contraindicated in patients with... second or third degree AV block",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:contraindications:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Marked sinus bradycardia",
+   "tipo_destino": "Condicao",
+   "evidencia": "BISOPROLOL FUMARATE is contraindicated in patients with... marked sinus bradycardia.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:clinical_pharmacology:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "Beta 2-adrenoceptor",
+   "tipo_destino": "Enzima",
+   "evidencia": "at higher doses (≥ 20 mg) bisoprolol fumarate also inhibits beta 2 -adrenoceptors",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "bisoprolol:clinical_pharmacology:0",
+   "origem": "Bisoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Isoproterenol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "BISOPROLOL FUMARATE therapy resulted in a reduction of exercise- and isoproterenol-induced tachycardia.",
+   "efeito": "reduction of isoproterenol-induced tachycardia",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": []
+}

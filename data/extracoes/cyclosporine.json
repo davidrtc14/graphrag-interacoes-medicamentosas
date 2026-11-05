@@ -1,0 +1,576 @@
+{
+ "generico": "cyclosporine",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "cyclosporine:drug_interactions:0",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions A. Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety All of the individual drugs cited below are well substantiated to interact with cyclosporine. In addition, concomitant use of NSAIDs with cyclosporine, particularly in the setting of dehydration, may potentiate renal dysfunction. Caution should be exercised when using other drugs which are known to impair renal function ( see WARNINGS , Nephrotoxicity ). Drugs That May Potentiate Renal Dysfunction Antibiotics Antineoplastic s Antifungals Anti- Inflammatory Drugs Gastrointestinal Agents Immunosuppressives Other Drugs ciprofloxacin gentamicin tobramycin vancomycin trimethoprim with sulfamethoxazole melphalan amphotericin B ketoconazole azapropazon colchicine diclofenac naproxen sulindac cimetidine ranitidine tacrolimus fibric acid derivatives (e.g., bezafibrate, fenofibrate) methotrexate During the concomitant use of a drug that may exhibit additive or synergistic renal impairment with cyclosporine, close monitoring of renal function (in particular serum creatinine) should be performed."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:1",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "If a significant impairment of renal function occurs, the dosage of the coadministered drug should be reduced or an alternative treatment considered. Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4, and is a substrate of the multidrug efflux transporter P-glycoprotein. Various agents are known to either increase or decrease plasma or whole blood concentrations of cyclosporine usually by inhibition or induction of CYP3A4 or P-glycoprotein transporter or both. Compounds that decrease cyclosporine absorption, such as orlistat, should be avoided. Appropriate cyclosporine capsules (modified) dosage adjustment to achieve the desired cyclosporine concentrations is essential when drugs that significantly alter cyclosporine concentrations are used concomitantly (s ee Blood Concentration Monitoring ). 1."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:2",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Drugs That Increase Cyclosporine Concentrations Calcium Channel Blockers Antifungals Antibiotics Glucocorticoids Other Drugs diltiazem fluconazole azithromycin methylprednisolone allopurinol nicardipine itraconazole clarithromycin amiodarone verapamil ketoconazole erythromycin bromocriptine voriconazole quinupristin/ colchicine dalfopristin danazol imatinib metoclopramide nefazodone oral contraceptives HIV Protease inhibitors The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A and thus could potentially increase the concentrations of cyclosporine, however no formal studies of the interaction are available. Care should be exercised when these drugs are administered concomitantly. Grapefruit juice Grapefruit and grapefruit juice affect metabolism, increasing blood concentrations of cyclosporine, thus should be avoided. 2. Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations Antibiotics Anticonvulsants Other Drugs/DietarySupplements nafcillin carbamazepine bosentan St."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:3",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "John’s Wort rifampin oxcarbazepine octreotide phenobarbital orlistat phenytoin sulfinpyrazone terbinafine ticlopidine Bosentan Coadministration of bosentan (250 to 1,000 mg every 12 hours based on tolerability) and cyclosporine (300 mg every 12 hours for 2 days then dosing to achieve a C min of 200 to 250 ng/mL) for 7 days in healthy subjects resulted in decreases in the cyclosporine mean dose-normalized AUC, C max , and trough concentration of approximately 50%, 30%, and 60%, respectively, compared to when cyclosporine was given alone ( see Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents ) . Coadministration of cyclosporine with bosentan should be avoided. Boceprevir Coadministration of boceprevir (800 mg three times daily for 7 days) and cyclosporine (100 mg single dose) in healthy subjects resulted in increases in the mean AUC and C max of cyclosporine approximately 2.7-fold and 2-fold, respectively, compared to when cyclosporine was given alone."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:4",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Telaprevir Coadministration of telaprevir (750 mg every 8 hours for 11 days) with cyclosporine (10 mg on day 8) in healthy subjects resulted in increases in the mean dose-normalized AUC and C max of cyclosporine approximately 4.5-fold and 1.3-fold, respectively, compared to when cyclosporine (100 mg single dose) was given alone. St. John’s Wort There have been reports of a serious drug interaction between cyclosporine and the herbal dietary supplement St. John’s Wort. This interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels, rejection of transplanted organs, and graft loss. Rifabutin Rifabutin is known to increase the metabolism of other drugs metabolized by the cytochrome P-450 system. The interaction between rifabutin and cyclosporine has not been studied. Care should be exercised when these two drugs are administered concomitantly. B."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:5",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Effect of Cyclosporine on the Pharmacokinetics and/or Safety of Other Drugs or Agents Cyclosporine is an inhibitor of CYP3A4 and of multiple drug efflux transporters (e.g., P-glycoprotein) and may increase plasma concentrations of comedications that are substrates of CYP3A4, P-glycoprotein or organic anion transporter proteins. Cyclosporine may reduce the clearance of digoxin, colchicine, prednisolone, HMG-CoA reductase inhibitors (statins), and, aliskiren, bosentan, dabigatran, repaglinide, NSAIDs, sirolimus, etoposide, and other drugs. See the full prescribing information of the other drug for further information and specific recommendations. The decision on coadministration of cyclosporine with other drugs or agents should be made by the healthcare provider following the careful assessment of benefits and risks. Digoxin Severe digitalis toxicity has been seen within days of starting cyclosporine in several patients taking digoxin. If digoxin is used concurrently with cyclosporine, serum digoxin concentrations should be monitored."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:6",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Colchicine There are reports on the potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy, especially in patients with renal dysfunction. Concomitant administration of cyclosporine and colchicine results in significant increases in colchicine plasma concentrations. If colchicine is used concurrently with cyclosporine, a reduction in the dosage of colchicine is recommended. HMG-CoA reductase inhibitors (statins) Literature and postmarketing cases of myotoxicity, including muscle pain and weakness, myositis, and rhabdomyolysis, have been reported with concomitant administration of cyclosporine with lovastatin, simvastatin, atorvastatin, pravastatin, and, rarely fluvastatin. When concurrently administered with cyclosporine, the dosage of these statins should be reduced according to label recommendations. Statin therapy needs to be temporarily withheld or discontinued in patients with signs and symptoms of myopathy or those with risk factors predisposing to severe renal injury, including renal failure, secondary to rhabdomyolysis."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:7",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Repaglinide Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia. In 12 healthy male subjects who received two doses of 100 mg cyclosporine capsule orally 12 hours apart with a single dose of 0.25 mg repaglinide tablet (one-half of a 0.5 mg tablet) orally 13 hours after the cyclosporine initial dose, the repaglinide mean C max and AUC were increased 1.8-fold (range: 0.6 to 3.7-fold) and 2.4-fold (range 1.2 to 5.3-fold), respectively. Close monitoring of blood glucose level is advisable for a patient taking cyclosporine and repaglinide concomitantly. Ambrisentan Coadministration of ambrisentan (5 mg daily) and cyclosporine (100 to 150 mg twice daily initially, then dosing to achieve C min 150 to 200 ng/mL) for 8 days in healthy subjects resulted in mean increases in ambrisentan AUC and C max of approximately 2-fold and 1.5-fold, respectively, compared to ambrisentan alone. When coadministering ambrisentan with cyclosporine, the ambrisentan dose should not be titrated to the recommended maximum daily dose."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:8",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Anthracycline antibiotics High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin) in cancer patients. Aliskiren Cyclosporine alters the pharmacokinetics of aliskiren, a substrate of P-glycoprotein and CYP3A4. In 14 healthy subjects who received concomitantly single doses of cyclosporine (200 mg) and reduced dose aliskiren (75 mg), the mean C max of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3-fold (90% CI: 3.52 to 5.21), compared to when these subjects received aliskiren alone. The concomitant administration of aliskiren with cyclosporine prolonged the median aliskiren elimination half-life (26 hours versus 43 to 45 hours) and the T max (0.5 hours versus 1.5 to 2 hours). The mean AUC and C max of cyclosporine were comparable to reported literature values. Coadministration of cyclosporine and aliskiren in these subjects also resulted in an increase in the number and/or intensity of adverse events, mainly headache, hot flush, nausea, vomiting, and somnolence."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:9",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "The coadministration of cyclosporine with aliskiren is not recommended. Bosentan In healthy subjects, coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations (i.e., approximately 21-fold on day 1 and 2- fold on day 8 (steady state)) compared to when bosentan was given alone as a single dose on day 1 ( see Effect of Drugs and Other Agents on Cyclosporine Pharmacokinetics and/or Safety ). Coadministration of cyclosporine with bosentan should be avoided. Dabigatran The effect of cyclosporine on dabigatran concentrations had not been formally studied. Concomitant administration of dabigatran and cyclosporine may result in increased plasma dabigatran concentrations due to the P-gp inhibitory activity of cyclosporine. Coadministration of cyclosporine with dabigatran should be avoided. Potassium-Sparing Diuretics Cyclosporine should not be used with potassium-sparing diuretics because hyperkalemia can occur."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:10",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Caution is also required when cyclosporine is co-administered with potassium sparing drugs (e.g., angiotensin converting enzyme inhibitors, angiotensin II receptor antagonists), potassium-containing drugs as well as in patients on a potassium rich diet. Control of potassium levels in these situations is advisable. Nonsteroidal Anti-inflammatory Drug (NSAID) Interactions Clinical status and serum creatinine should be closely monitored when cyclosporine is used with NSAIDs in rheumatoid arthritis patients ( see WARNINGS ). Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function, as determined by 99m Tc-diethylenetriaminepentaacetic acid (DTPA) and (p-aminohippuric acid) PAH clearances. Although concomitant administration of diclofenac does not affect blood concentrations of cyclosporine, it has been associated with approximate doubling of diclofenac blood concentrations and occasional reports of reversible decreases in renal function. Consequently, the dose of diclofenac should be in the lower end of the therapeutic range."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:11",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Methotrexate Interaction Preliminary data indicate that when methotrexate and cyclosporine were coadministered to rheumatoid arthritis patients (N=20), methotrexate concentrations (AUC s ) were increased approximately 30% and the concentrations (AUC s ) of its metabolite, 7-hydroxy methotrexate, were decreased by approximately 80%. The clinical significance of this interaction is not known. Cyclosporine concentrations do not appear to have been altered (N=6). Sirolimus Elevations in serum creatinine were observed in studies using sirolimus in combination with full-dose cyclosporine. This effect is often reversible with cyclosporine dose reduction. Simultaneous coadministration of cyclosporine significantly increases blood levels of sirolimus. To minimize increases in sirolimus concentrations, it is recommended that sirolimus be given 4 hours after cyclosporine administration. Nifedipine Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine has been reported. The concomitant use of nifedipine should be avoided in patients in whom gingival hyperplasia develops as a side effect of cyclosporine."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:12",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "Methylprednisolone Convulsions when high dose methylprednisolone is given concurrently with cyclosporine have been reported. Other Immunosuppressive Drugs and Agents Psoriasis patients receiving other immunosuppressive agents or radiation therapy (including PUVA and UVB) should not receive concurrent cyclosporine because of the possibility of excessive immunosuppression. Interactions resulting in decrease of other drug levels Cyclosporine inhibits the enterohepatic circulation of mycophenolic acid (MPA). Concomitant administration of cyclosporine and mycophenolate mofetil or mycophenolate sodium in transplant patients may decrease the mean exposure of MPA by 20 to 50% when compared with other immunosuppressants, which could reduce efficacy of mycophenolate mofetil or mycophenolate sodium. Monitor patients for alterations in efficacy of mycophenolate mofetil or mycophenolate sodium, when they are co-administered with cyclosporine. C. Effect of Cyclosporine on the Efficacy of Live Vaccines During treatment with cyclosporine, vaccination may be less effective. The use of live vaccines should be avoided."
+  },
+  {
+   "id": "cyclosporine:drug_interactions:13",
+   "medicamento": "cyclosporine",
+   "secao": "drug_interactions",
+   "texto": "For additional information on Cyclosporine Drug Interactions please contact Apotex Corp. at 1-800-706-5575."
+  },
+  {
+   "id": "cyclosporine:contraindications:0",
+   "medicamento": "cyclosporine",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS General Cyclosporine capsules (modified) is contraindicated in patients with a hypersensitivity to cyclosporine or to any of the ingredients of the formulation. Rheumatoid Arthritis Rheumatoid arthritis patients with abnormal renal function, uncontrolled hypertension, or malignancies should not receive cyclosporine capsules (modified). Psoriasis Psoriasis patients who are treated with cyclosporine capsules (modified) should not receive concomitant PUVA or UVB therapy, methotrexate or other immunosuppressive agents, coal tar or radiation therapy. Psoriasis patients with abnormal renal function, uncontrolled hypertension, or malignancies should not receive cyclosporine capsules (modified)."
+  },
+  {
+   "id": "cyclosporine:clinical_pharmacology:0",
+   "medicamento": "cyclosporine",
+   "secao": "clinical_pharmacology",
+   "texto": "The effectiveness of cyclosporine results from specific and reversible inhibition of immunocompetent lymphocytes in the G 0 - and G 1 -phase of the cell cycle. T-lymphocytes are preferentially inhibited. Cyclosporine also inhibits lymphokine production and release, including interleukin-2. Metabolism Cyclosporine is extensively metabolized by the cytochrome P-450 3A enzyme system in the liver, and to a lesser degree in the gastrointestinal tract, and the kidney. The metabolism of cyclosporine can be altered by the coadministration of a variety of agents ( see PRECAUTIONS , Drug Interactions ). Hepatic Impairment Cyclosporine is extensively metabolized by the liver."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "cyclosporine:drug_interactions:0",
+   "origem": "gentamicin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "individual drugs cited below are well substantiated to interact with cyclosporine. ... gentamicin",
+   "efeito": "Potentiate renal dysfunction",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:1",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cyclosporine is extensively metabolized by CYP 3A isoenzymes, in particular CYP3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:1",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "is a substrate of the multidrug efflux transporter P-glycoprotein",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:2",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs That Increase Cyclosporine Concentrations ... ketoconazole",
+   "efeito": "Increase cyclosporine blood concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:2",
+   "origem": "indinavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "The HIV protease inhibitors (e.g., indinavir, nelfinavir, ritonavir, and saquinavir) are known to inhibit cytochrome P-450 3A",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:3",
+   "origem": "boceprevir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of boceprevir ... and cyclosporine ... resulted in increases in the mean AUC and Cmax of cyclosporine",
+   "efeito": "Increase in the mean AUC and Cmax of cyclosporine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:4",
+   "origem": "telaprevir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of telaprevir ... with cyclosporine ... resulted in increases in the mean dose-normalized AUC and Cmax of cyclosporine",
+   "efeito": "Increase in the mean dose-normalized AUC and Cmax of cyclosporine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:4",
+   "origem": "St. John's Wort",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "interaction has been reported to produce a marked reduction in the blood concentrations of cyclosporine, resulting in subtherapeutic levels",
+   "efeito": "Marked reduction in the blood concentrations of cyclosporine",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:5",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cyclosporine is an inhibitor of CYP3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:5",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cyclosporine is an inhibitor of ... multiple drug efflux transporters (e.g., P-glycoprotein)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:5",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cyclosporine may reduce the clearance of digoxin ... If digoxin is used concurrently with cyclosporine, serum digoxin concentrations should be monitored.",
+   "efeito": "Reduced clearance and potential severe digitalis toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:6",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colchicine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "potential of cyclosporine to enhance the toxic effects of colchicine such as myopathy and neuropathy",
+   "efeito": "Increased colchicine concentrations and toxic effects like myopathy and neuropathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:6",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "cases of myotoxicity ... have been reported with concomitant administration of cyclosporine with lovastatin",
+   "efeito": "Increased risk of myotoxicity including muscle pain, myositis, and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:7",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Repaglinide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cyclosporine may increase the plasma concentrations of repaglinide and thereby increase the risk of hypoglycemia.",
+   "efeito": "Increase in plasma concentrations of repaglinide and increase in risk of hypoglycemia",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:7",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Ambrisentan",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of ambrisentan (5 mg daily) and cyclosporine... resulted in mean increases in ambrisentan AUC and C max of approximately 2-fold and 1.5-fold",
+   "efeito": "Mean increases in ambrisentan AUC and C max",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:8",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Doxorubicin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin)",
+   "efeito": "Increase in drug exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:8",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Mitoxantrone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin)",
+   "efeito": "Increase in drug exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:8",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Daunorubicin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "High doses of cyclosporine (e.g., at starting intravenous dose of 16 mg/kg/day) may increase the exposure to anthracycline antibiotics (e.g., doxorubicin, mitoxantrone, daunorubicin)",
+   "efeito": "Increase in drug exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:8",
+   "origem": "Aliskiren",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "aliskiren, a substrate of P-glycoprotein and CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:8",
+   "origem": "Aliskiren",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "aliskiren, a substrate of P-glycoprotein and CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:8",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Aliskiren",
+   "tipo_destino": "Medicamento",
+   "evidencia": "the mean C max of aliskiren was increased by approximately 2.5-fold (90% CI: 1.96 to 3.17) and the mean AUC by approximately 4.3-fold (90% CI: 3.52 to 5.21)",
+   "efeito": "Increase in aliskiren C max and AUC, and increased incidence of adverse events",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:9",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Bosentan",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration of bosentan and cyclosporine resulted in time-dependent mean increases in dose-normalized bosentan trough concentrations",
+   "efeito": "Increase in bosentan trough concentrations",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:9",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Dabigatran",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of dabigatran and cyclosporine may result in increased plasma dabigatran concentrations due to the P-gp inhibitory activity of cyclosporine.",
+   "efeito": "Increase in plasma dabigatran concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:9",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "the P-gp inhibitory activity of cyclosporine.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:10",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Naproxen",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function",
+   "efeito": "Additive decreases in renal function",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:10",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Sulindac",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Pharmacodynamic interactions have been reported to occur between cyclosporine and both naproxen and sulindac, in that concomitant use is associated with additive decreases in renal function",
+   "efeito": "Additive decreases in renal function",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:10",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Diclofenac",
+   "tipo_destino": "Medicamento",
+   "evidencia": "concomitant administration of diclofenac... has been associated with approximate doubling of diclofenac blood concentrations and occasional reports of reversible decreases in renal function.",
+   "efeito": "Doubling of diclofenac blood concentrations and reversible decrease in renal function",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:11",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Methotrexate",
+   "tipo_destino": "Medicamento",
+   "evidencia": "when methotrexate and cyclosporine were coadministered... methotrexate concentrations (AUC s ) were increased approximately 30%",
+   "efeito": "Increase in methotrexate concentrations (AUC)",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:11",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Sirolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Simultaneous coadministration of cyclosporine significantly increases blood levels of sirolimus.",
+   "efeito": "Significant increase in blood levels of sirolimus",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:11",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Nifedipine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Frequent gingival hyperplasia when nifedipine is given concurrently with cyclosporine has been reported.",
+   "efeito": "Increased frequency of gingival hyperplasia",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:12",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Methylprednisolone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Convulsions when high dose methylprednisolone is given concurrently with cyclosporine have been reported.",
+   "efeito": "Risk of convulsions",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:12",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Mycophenolate mofetil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of cyclosporine and mycophenolate mofetil... may decrease the mean exposure of MPA by 20 to 50%",
+   "efeito": "Decrease in mean exposure of mycophenolic acid (MPA)",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:drug_interactions:12",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Mycophenolate sodium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of cyclosporine and... mycophenolate sodium... may decrease the mean exposure of MPA by 20 to 50%",
+   "efeito": "Decrease in mean exposure of mycophenolic acid (MPA)",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:contraindications:0",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Cyclosporine capsules (modified) is contraindicated in patients with a hypersensitivity to cyclosporine or to any of the ingredients",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:contraindications:0",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Abnormal renal function",
+   "tipo_destino": "Condicao",
+   "evidencia": "Rheumatoid arthritis patients with abnormal renal function... should not receive cyclosporine capsules (modified).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:contraindications:0",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Uncontrolled hypertension",
+   "tipo_destino": "Condicao",
+   "evidencia": "Rheumatoid arthritis patients with... uncontrolled hypertension... should not receive cyclosporine capsules (modified).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:contraindications:0",
+   "origem": "Cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Malignancy",
+   "tipo_destino": "Condicao",
+   "evidencia": "Rheumatoid arthritis patients with... malignancies should not receive cyclosporine capsules (modified).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "cyclosporine:clinical_pharmacology:0",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cyclosporine is extensively metabolized by the cytochrome P-450 3A enzyme system in the liver",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "cyclosporine:drug_interactions:3",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs/Dietary Supplements That Decrease Cyclosporine Concentrations ... rifampin",
+   "efeito": "Decrease cyclosporine concentrations",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

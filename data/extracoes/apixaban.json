@@ -1,0 +1,559 @@
+{
+ "generico": "apixaban",
+ "modelos": [
+  "gemini-3.5-flash",
+  "openai/gpt-oss-120b"
+ ],
+ "trechos": [
+  {
+   "id": "apixaban:drug_interactions:0",
+   "medicamento": "apixaban",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS • Combined P-gp and strong CYP3A4 inhibitors increase blood levels of apixaban. Reduce ELIQUIS dose or avoid coadministration. ( 2.6 , 7.1 , 12.3) • Simultaneous use of combined P-gp and strong CYP3A4 inducers reduces blood levels of apixaban: Avoid concomitant use. (7.2 , 12.3) 7.1 Combined P-gp and Strong CYP3A4 Inhibitors For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir) [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3) ] . For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3) ] . Concomitant administration of combined P-gp and strong CYP3A4 inhibitors has not been studied in pediatric patients. Apixaban is a substrate of both CYP3A4 and P-gp."
+  },
+  {
+   "id": "apixaban:drug_interactions:1",
+   "medicamento": "apixaban",
+   "secao": "drug_interactions",
+   "texto": "Concomitant use with drugs that are combined P-gp and strong CYP3A4 inhibitors increases exposure to apixaban [see Clinical Pharmacology (12.3) ] which increases the risk for bleeding. Clarithromycin Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS [see Clinical Pharmacology (12.3) ] . 7.2 Combined P-gp and Strong CYP3A4 Inducers Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3) ] . Apixaban is a substrate of both CYP3A4 and P-gp. Concomitant use with drugs that are combined P-gp and strong CYP3A4 inducers decreases exposure to apixaban [see Clinical Pharmacology (12.3) ] which increases the risk for stroke and other thromboembolic events. 7.3 Anticoagulants and Antiplatelet Agents Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding."
+  },
+  {
+   "id": "apixaban:drug_interactions:2",
+   "medicamento": "apixaban",
+   "secao": "drug_interactions",
+   "texto": "APPRAISE-2, a placebo-controlled clinical trial of ELIQUIS in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with ELIQUIS compared to placebo. The rate of ISTH major bleeding was 2.8% per year with ELIQUIS versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with ELIQUIS versus 2.5% per year with placebo in those receiving dual antiplatelet therapy. In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year."
+  },
+  {
+   "id": "apixaban:drug_interactions:3",
+   "medicamento": "apixaban",
+   "secao": "drug_interactions",
+   "texto": "In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS. 7.1 Combined P-gp and Strong CYP3A4 Inhibitors For patients receiving ELIQUIS 5 mg or 10 mg twice daily, the dose of ELIQUIS should be decreased by 50% when coadministered with drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir) [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3) ] . For patients receiving ELIQUIS at a dose of 2.5 mg twice daily, avoid coadministration with combined P-gp and strong CYP3A4 inhibitors [see Dosage and Administration (2.6) and Clinical Pharmacology (12.3) ] . Concomitant administration of combined P-gp and strong CYP3A4 inhibitors has not been studied in pediatric patients. Apixaban is a substrate of both CYP3A4 and P-gp. Concomitant use with drugs that are combined P-gp and strong CYP3A4 inhibitors increases exposure to apixaban [see Clinical Pharmacology (12.3) ] which increases the risk for bleeding."
+  },
+  {
+   "id": "apixaban:drug_interactions:4",
+   "medicamento": "apixaban",
+   "secao": "drug_interactions",
+   "texto": "Clarithromycin Although clarithromycin is a combined P-gp and strong CYP3A4 inhibitor, pharmacokinetic data suggest that no dose adjustment is necessary with concomitant administration with ELIQUIS [see Clinical Pharmacology (12.3) ] . 7.2 Combined P-gp and Strong CYP3A4 Inducers Avoid concomitant use of ELIQUIS with combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort) because such drugs will decrease exposure to apixaban [see Clinical Pharmacology (12.3) ] . Apixaban is a substrate of both CYP3A4 and P-gp. Concomitant use with drugs that are combined P-gp and strong CYP3A4 inducers decreases exposure to apixaban [see Clinical Pharmacology (12.3) ] which increases the risk for stroke and other thromboembolic events. 7.3 Anticoagulants and Antiplatelet Agents Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding."
+  },
+  {
+   "id": "apixaban:drug_interactions:5",
+   "medicamento": "apixaban",
+   "secao": "drug_interactions",
+   "texto": "APPRAISE-2, a placebo-controlled clinical trial of ELIQUIS in high-risk, post-acute coronary syndrome patients treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with ELIQUIS compared to placebo. The rate of ISTH major bleeding was 2.8% per year with ELIQUIS versus 0.6% per year with placebo in patients receiving single antiplatelet therapy and was 5.9% per year with ELIQUIS versus 2.5% per year with placebo in those receiving dual antiplatelet therapy. In ARISTOTLE, concomitant use of aspirin increased the bleeding risk on ELIQUIS from 1.8% per year to 3.4% per year and concomitant use of aspirin and warfarin increased the bleeding risk from 2.7% per year to 4.6% per year. In this clinical trial, there was limited (2.3%) use of dual antiplatelet therapy with ELIQUIS."
+  },
+  {
+   "id": "apixaban:contraindications:0",
+   "medicamento": "apixaban",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS ELIQUIS is contraindicated in patients with the following conditions: • Active pathological bleeding [see Warnings and Precautions (5.2) and Adverse Reactions (6.1) ] • Severe hypersensitivity reaction to ELIQUIS (e.g., anaphylactic reactions) [see Adverse Reactions (6.1) ] • Active pathological bleeding (4) • Severe hypersensitivity to ELIQUIS (4)"
+  },
+  {
+   "id": "apixaban:clinical_pharmacology:0",
+   "medicamento": "apixaban",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Apixaban is a selective inhibitor of FXa. Apixaban inhibits free and clot-bound FXa, and prothrombinase activity. Apixaban has no direct effect on platelet aggregation, but indirectly inhibits platelet aggregation induced by thrombin. By inhibiting FXa, apixaban decreases thrombin generation and thrombus development. 12.2 Pharmacodynamics As a result of FXa inhibition, apixaban prolongs clotting tests such as prothrombin time (PT), INR, and activated partial thromboplastin time (aPTT). Metabolism Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites. Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein. Drug Interaction Studies In in vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed."
+  },
+  {
+   "id": "apixaban:clinical_pharmacology:1",
+   "medicamento": "apixaban",
+   "secao": "clinical_pharmacology",
+   "texto": "Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes. Apixaban is not a significant inhibitor of P-gp."
+  },
+  {
+   "id": "apixaban:pharmacokinetics:0",
+   "medicamento": "apixaban",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites. Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein. Drug Interaction Studies In in vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed. Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes. Apixaban is not a significant inhibitor of P-gp. Metabolism Approximately 25% of an orally administered apixaban dose is recovered in urine and feces as metabolites. Apixaban is metabolized mainly via CYP3A4 with minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2. Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein."
+  },
+  {
+   "id": "apixaban:pharmacokinetics:1",
+   "medicamento": "apixaban",
+   "secao": "pharmacokinetics",
+   "texto": "Drug Interaction Studies In in vitro apixaban studies at concentrations significantly greater than therapeutic exposures, no inhibitory effect on the activity of CYP1A2, CYP2A6, CYP2B6, CYP2C8, CYP2C9, CYP2D6, CYP3A4/5, or CYP2C19, nor induction effect on the activity of CYP1A2, CYP2B6, or CYP3A4/5 were observed. Therefore, apixaban is not expected to alter the metabolic clearance of coadministered drugs that are metabolized by these enzymes. Apixaban is not a significant inhibitor of P-gp."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "drugs that are combined P-gp and strong CYP3A4 inhibitors (e.g., ketoconazole, itraconazole, ritonavir)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is a substrate of both CYP3A4 and P-gp.",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is a substrate of both CYP3A4 and P-gp.",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "clarithromycin is a combined P-gp and strong CYP3A4 inhibitor",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "clarithromycin is a combined P-gp and strong CYP3A4 inhibitor",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "combined P-gp and strong CYP3A4 inducers (e.g., rifampin, carbamazepine, phenytoin, St. John’s wort)",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "heparin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.",
+   "efeito": "increases the risk of bleeding",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:1",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "aspirin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of antiplatelet agents, fibrinolytics, heparin, aspirin, and chronic NSAID use increases the risk of bleeding.",
+   "efeito": "increases the risk of bleeding",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:2",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "aspirin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "concomitant use of aspirin increased the bleeding risk on ELIQUIS",
+   "efeito": "increased bleeding risk",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:2",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clopidogrel",
+   "tipo_destino": "Medicamento",
+   "evidencia": "treated with aspirin or the combination of aspirin and clopidogrel, was terminated early due to a higher rate of bleeding with ELIQUIS",
+   "efeito": "higher rate of bleeding",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:drug_interactions:2",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "concomitant use of aspirin and warfarin increased the bleeding risk",
+   "efeito": "increased bleeding risk",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:contraindications:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "active pathological bleeding",
+   "tipo_destino": "Condicao",
+   "evidencia": "ELIQUIS is contraindicated in patients with the following conditions: • Active pathological bleeding",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "FXa",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is a selective inhibitor of FXa.",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is metabolized mainly via CYP3A4",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2J2",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP1A2, 2C8, 2C9, 2C19, and 2J2",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein.",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:clinical_pharmacology:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "breast cancer resistance protein",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein.",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is metabolized mainly via CYP3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP1A2",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "BCRP",
+   "tipo_destino": "Enzima",
+   "evidencia": "Apixaban is a substrate of transport proteins: P-gp and breast cancer resistance protein",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "apixaban:contraindications:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "severe hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "ELIQUIS is contraindicated in patients with the following conditions: ... • Severe hypersensitivity reaction to ELIQUIS",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP2C8",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP2C9",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP2C19",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "apixaban:pharmacokinetics:0",
+   "origem": "apixaban",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2J2",
+   "tipo_destino": "Enzima",
+   "evidencia": "minor contributions from CYP2J2",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

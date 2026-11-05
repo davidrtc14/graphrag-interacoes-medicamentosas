@@ -1,0 +1,209 @@
+{
+ "generico": "pravastatin",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "pravastatin:drug_interactions:0",
+   "medicamento": "pravastatin",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS See full prescribing information for details regarding concomitant use of pravastatin sodium tablets with other drugs that increase the risk of myopathy and rhabdomyolysis. ( 2.5 , 7.1 ) Bile Acid Sequestrants: in patients taking a bile acid sequestrant, administer pravastatin sodium tablets at least 1 hour before or at least 4 hours after the bile acid sequestrant ( 7.2 ) 7.1 Drug Interactions thatIncrease the Risk of Myopathy and Rhabdomyolysis with Pravastatin Pravastatin is a substrate of the transport protein OATP1B1. Pravastatin plasma levels can be significantly increased with concomitant administration of inhibitors of OATP1B1. Table 3 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with pravastatin and instructions for preventing or managing them [see Warnings and Precautions (5.1) and Clinical Pharmacology ( 12.3 ) ] ."
+  },
+  {
+   "id": "pravastatin:drug_interactions:1",
+   "medicamento": "pravastatin",
+   "secao": "drug_interactions",
+   "texto": "Table 3: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Pravastatin Gemfibrozil Clinical Impact: There is an increased risk of myopathy/rhabdomyolysis when pravastatin is administered with gemfibrozil Intervention: Avoid concomitant use of gemfibrozil with pravastatin . Cyclosporine Clinical Impact: The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine with pravastatin. Intervention: Initiate with a dosage of pravastatin sodium 10 mg once daily. Do not exceed pravastatin 20 mg once daily [see Dosage and Administration ( 2.5 )]. Select Macrolide Antibiotics Clinical Impact: The risk of myopathy and rhabdomyolysis is increased by concomitant use of clarithromycin or erythromycin with pravastatin. Other macrolides (e.g., azithromycin) have the potential to increase pravastatin exposures and increase the risk of myopathy and rhabdomyolysis when used concomintantly. Intervention: For patients taking erythromycin or clarithromycin, do not exceed 40 mg pravastatin once daily [see Dosage and Administration ( 2.5 )]."
+  },
+  {
+   "id": "pravastatin:drug_interactions:2",
+   "medicamento": "pravastatin",
+   "secao": "drug_interactions",
+   "texto": "Niacin Clinical Impact: Cases of myopathy and rhabdomyolysis have been observed with concomitant use of niacin with pravastatin. Intervention: Consider if the benefit of using niacin concomitantly with pravastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. Fibrates (other than Gemfibrozil) Clinical Impact: Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with pravastatin. Intervention: Consider if the benefit of using fibrates concomitantly with pravastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. Colchicine Clinical Impact: Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with pravastatin."
+  },
+  {
+   "id": "pravastatin:drug_interactions:3",
+   "medicamento": "pravastatin",
+   "secao": "drug_interactions",
+   "texto": "Intervention: Consider if the benefit of using colchicine concomitantly with pravastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. 7.2 Drug Interactions that Decrease the Efficacy of Pravastatin Table 4 presents drug interactions that may decrease the efficacy of pravastatin and instructions for preventing or managing them. Table 4: Drug Interactions that Decrease the Efficacy of Pravastatin Bile Acid Sequestrants Clinical Impact: Concomitant cholestyramine or colestipol administration decreased the mean exposure of pravastatin approximately 51% and 47%, respectively [see Clinical Pharmacology ( 12.3 )] . Intervention: In patients taking a bile acid sequestrant, administer pravastatin at least 1 hour before or at least 4 hours after the bile acid sequestrant [see Dosage and Administration ( 2.5 )]."
+  },
+  {
+   "id": "pravastatin:contraindications:0",
+   "medicamento": "pravastatin",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Acute liver failure or decompensated cirrhosis [see Warnings and Precautions ( 5.3 )]. Hypersensitivity to any pravastatin or any excipients in pravastatin sodium tablets. Hypersensitivity to pravastatin or any excipient in pravastatin sodium tablets ( 4 ) Acute liver failure or decompensated cirrhosis ( 4 , 5.3 )"
+  },
+  {
+   "id": "pravastatin:clinical_pharmacology:0",
+   "medicamento": "pravastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Pravastatin is a reversible inhibitor of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol. 12.2 Pharmacodynamics Inhibition of HMG-CoA reductase by pravastatin accelerates the expression of LDL-receptors, followed by the uptake of LDL-C from blood to the liver, leading to a decrease in plasma LDL-C and total cholesterol. Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very-low-density lipoproteins. Elimination Metabolism The major biotransformation pathways for pravastatin are: (a) isomerization to 6-­epi pravastatin and the 3α-hydroxy isomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945. The 3α-hydroxy isomeric metabolite (SQ 31,906) has 1/10 to 1/40 the HMG-CoA reductase inhibitory activity of the parent compound."
+  },
+  {
+   "id": "pravastatin:pharmacokinetics:0",
+   "medicamento": "pravastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Elimination Metabolism The major biotransformation pathways for pravastatin are: (a) isomerization to 6-­epi pravastatin and the 3α-hydroxy isomer of pravastatin (SQ 31,906) and (b) enzymatic ring hydroxylation to SQ 31,945. The 3α-hydroxy isomeric metabolite (SQ 31,906) has 1/10 to 1/40 the HMG-CoA reductase inhibitory activity of the parent compound."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "pravastatin:drug_interactions:0",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Pravastatin is a substrate of the transport protein OATP1B1.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:1",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "gemfibrozil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There is an increased risk of myopathy/rhabdomyolysis when pravastatin is administered with gemfibrozil",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:1",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine with pravastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:1",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clarithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy and rhabdomyolysis is increased by concomitant use of clarithromycin or erythromycin with pravastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:1",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "erythromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy and rhabdomyolysis is increased by concomitant use of clarithromycin or erythromycin with pravastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:1",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "azithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Other macrolides (e.g., azithromycin) have the potential to increase pravastatin exposures and increase the risk of myopathy and rhabdomyolysis",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:2",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "niacin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cases of myopathy and rhabdomyolysis have been observed with concomitant use of niacin with pravastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:2",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colchicine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with pravastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:3",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cholestyramine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant cholestyramine or colestipol administration decreased the mean exposure of pravastatin",
+   "efeito": "decreased efficacy of pravastatin",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:drug_interactions:3",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colestipol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant cholestyramine or colestipol administration decreased the mean exposure of pravastatin",
+   "efeito": "decreased efficacy of pravastatin",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:contraindications:0",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "acute liver failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "Acute liver failure or decompensated cirrhosis",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:contraindications:0",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "decompensated cirrhosis",
+   "tipo_destino": "Condicao",
+   "evidencia": "Acute liver failure or decompensated cirrhosis",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pravastatin:clinical_pharmacology:0",
+   "origem": "pravastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "HMG-CoA reductase",
+   "tipo_destino": "Enzima",
+   "evidencia": "Pravastatin is a reversible inhibitor of HMG-CoA reductase",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

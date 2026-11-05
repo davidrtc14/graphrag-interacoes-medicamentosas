@@ -1,0 +1,161 @@
+{
+ "generico": "ramipril",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "ramipril:drug_interactions:0",
+   "medicamento": "ramipril",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Diuretics: Possibility of excessive hypotension ( 7.1 ). Lithium: Use with caution (7.4) . Gold: Nitritoid reactions have been reported ( 7.5 ). NSAIDs use may lead to increased risk of renal impairment and loss of antihypertensive effect ( 7.6 ). mTOR inhibitor or neprilysin inhibitor use may increase angioedema risk ( 7.7 ) 7.1 Diuretics Patients on diuretics, especially those in whom diuretic therapy was recently instituted, may occasionally experience an excessive reduction of blood pressure after initiation of therapy with ramipril. The possibility of hypotensive effects with ramipril can be minimized by either decreasing or discontinuing the diuretic or increasing the salt intake prior to initiation of treatment with ramipril. If this is not possible, reduce the starting dose [see Dosage and Administration (2) ] . 7.2 Agents Increasing Serum Potassium Coadministration of ramipril with other drugs that raise serum potassium levels may result in hyperkalemia. Monitor serum potassium in such patients. 7.3 Other Agents Affecting RAS In general, avoid combined use of RAS inhibitors. [see Warnings and Precautions (5.7) ] ."
+  },
+  {
+   "id": "ramipril:drug_interactions:1",
+   "medicamento": "ramipril",
+   "secao": "drug_interactions",
+   "texto": "Do not co-administer aliskiren with ramipril in patients with diabetes [see Contraindications (4) ]. 7.4 Lithium Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium; therefore, frequent monitoring of serum lithium levels is recommended. If a diuretic is also used, the risk of lithium toxicity may be increased. 7.5 Gold Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate) and concomitant ACE inhibitor therapy including ramipril. 7.6 Non-Steroidal Anti-Inflammatory Agents including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with ACE inhibitors, including ramipril, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible."
+  },
+  {
+   "id": "ramipril:drug_interactions:2",
+   "medicamento": "ramipril",
+   "secao": "drug_interactions",
+   "texto": "Monitor renal function periodically in patients receiving ramipril and NSAID therapy. The antihypertensive effect of ACE inhibitors, including ramipril, may be attenuated by NSAIDs. 7.7 mTOR Inhibitors or Other Drugs Known to Cause Angioedema Patients taking concomitant mTOR inhibitor (e.g., temsirolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema [see Warnings and Precautions (5.1) ] ."
+  },
+  {
+   "id": "ramipril:contraindications:0",
+   "medicamento": "ramipril",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Ramipril capsules are contraindicated in patients who are hypersensitive to this product or any other ACE inhibitor (e.g., a patient who has experienced angioedema during therapy with any other ACE inhibitor). Ramipril capsules are contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril). Do not administer ramipril capsules within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor [see Warnings and Precautions (5.1) ] . Do not co-administer ramipril capsules with aliskiren: • in patients with diabetes Angioedema related to previous treatment with an ACE inhibitor, or a history of hereditary or idiopathic angioedema (4) . Ramipril capsules are contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril). Do not administer ramipril capsules within 36 hours of switching to or from sacubitril/valsartan, a neprilysin inhibitor ( 4 ). Do not co-administer aliskiren with ramipril capsules in patients with diabetes (4) ."
+  },
+  {
+   "id": "ramipril:clinical_pharmacology:0",
+   "medicamento": "ramipril",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Ramipril and ramiprilat inhibit ACE in human subjects and animals. Inhibition of ACE results in decreased plasma angiotensin II, which leads to decreased vasopressor activity and to decreased aldosterone secretion. The effect of ramipril on hypertension appears to result at least in part from inhibition of both tissue and circulating ACE activity, thereby reducing angiotensin II formation in tissue and plasma. Although ramipril was antihypertensive in all races studied, Black hypertensive patients (usually a low-renin hypertensive population) had a blood pressure lowering response to monotherapy, albeit a smaller average response, than non-Black patients. 12.2 Pharmacodynamics Single doses of ramipril of 2.5 mg to 20 mg produce approximately 60% to 80% inhibition of ACE activity 4 hours after dosing with approximately 40% to 60% inhibition after 24 hours. Multiple oral doses of ramipril of 2 mg or more cause plasma ACE activity to fall by more than 90% 4 hours after dosing, with over 80% inhibition of ACE activity remaining 24 hours after dosing."
+  },
+  {
+   "id": "ramipril:clinical_pharmacology:1",
+   "medicamento": "ramipril",
+   "secao": "clinical_pharmacology",
+   "texto": "Metabolism Ramipril is almost completely metabolized to ramiprilat, which has about 6 times the ACE inhibitory activity of ramipril, and to the diketopiperazine ester, the diketopiperazine acid, and the glucuronides of ramipril and ramiprilat, all of which are inactive. In patients with impaired liver function, the metabolism of ramipril to ramiprilat appears to be slowed, possibly because of diminished activity of hepatic esterases, and plasma ramipril levels in these patients are increased about 3-fold."
+  },
+  {
+   "id": "ramipril:pharmacokinetics:0",
+   "medicamento": "ramipril",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism Ramipril is almost completely metabolized to ramiprilat, which has about 6 times the ACE inhibitory activity of ramipril, and to the diketopiperazine ester, the diketopiperazine acid, and the glucuronides of ramipril and ramiprilat, all of which are inactive. In patients with impaired liver function, the metabolism of ramipril to ramiprilat appears to be slowed, possibly because of diminished activity of hepatic esterases, and plasma ramipril levels in these patients are increased about 3-fold."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "ramipril:drug_interactions:0",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lithium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Lithium: Use with caution",
+   "efeito": "caution required",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:drug_interactions:0",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "NSAID",
+   "tipo_destino": "Medicamento",
+   "evidencia": "NSAIDs use may lead to increased risk of renal impairment and loss of antihypertensive effect",
+   "efeito": "increased risk of renal impairment and loss of antihypertensive effect",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:drug_interactions:1",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "diabetes",
+   "tipo_destino": "Condicao",
+   "evidencia": "Do not co-administer aliskiren with ramipril in patients with diabetes",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:drug_interactions:1",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lithium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Increased serum lithium levels and symptoms of lithium toxicity have been reported in patients receiving ACE inhibitors during therapy with lithium",
+   "efeito": "increased serum lithium levels and symptoms of lithium toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:drug_interactions:1",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "sodium aurothiomalate",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Nitritoid reactions (symptoms include facial flushing, nausea, vomiting and hypotension) have been reported rarely in patients on therapy with injectable gold (sodium aurothiomalate)",
+   "efeito": "nitritoid reactions",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:drug_interactions:2",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "temsirolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Patients taking concomitant mTOR inhibitor (e.g., temsirolimus) therapy or a neprilysin inhibitor may be at increased risk for angioedema",
+   "efeito": "increased risk for angioedema",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:contraindications:0",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "angioedema",
+   "tipo_destino": "Condicao",
+   "evidencia": "Ramipril capsules are contraindicated in patients who are hypersensitive to this product or any other ACE inhibitor (e.g., a patient who has experienced angioedema during therapy)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:contraindications:0",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "sacubitril",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Ramipril capsules are contraindicated in combination with a neprilysin inhibitor (e.g., sacubitril).",
+   "efeito": "contraindicated combination",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ramipril:clinical_pharmacology:0",
+   "origem": "ramipril",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "ACE",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ramipril and ramiprilat inhibit ACE in human subjects and animals.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

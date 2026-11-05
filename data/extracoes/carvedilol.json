@@ -1,0 +1,624 @@
+{
+ "generico": "carvedilol",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "carvedilol:drug_interactions:0",
+   "medicamento": "carvedilol",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS CYP P450 2D6 enzyme inhibitors may increase and rifampin may decrease carvedilol levels. ( 7.1 , 7.5 ) Hypotensive agents (e.g., reserpine, MAO inhibitors, clonidine) may increase the risk of hypotension and/or severe bradycardia. ( 7.4 ) Cyclosporine or digoxin levels may increase. ( 7.3 , 7.4 ) Both digitalis glycosides and β-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. ( 7.4 ) Amiodarone may increase carvedilol levels resulting in further slowing of the heart rate or cardiac conduction. ( 7.6 ) Verapamil- or diltiazem-type calcium channel blockers may affect ECG and/or blood pressure. ( 7.7 ) Insulin and oral hypoglycemics action may be enhanced. ( 7.8 ) 7.1 CYP2D6 Inhibitors and Poor Metabolizers Interactions of carvedilol with potent inhibitors of CYP2D6 isoenzyme (such as quinidine, fluoxetine, paroxetine, and propafenone) have not been studied, but these drugs would be expected to increase blood levels of the R(+) enantiomer of carvedilol [see Clinical Pharmacology ( 12.3 )]."
+  },
+  {
+   "id": "carvedilol:drug_interactions:1",
+   "medicamento": "carvedilol",
+   "secao": "drug_interactions",
+   "texto": "Retrospective analysis of side effects in clinical trials showed that poor 2D6 metabolizers had a higher rate of dizziness during up-titration, presumably resulting from vasodilating effects of the higher concentrations of the α-blocking R(+) enantiomer. 7.2 Hypotensive Agents Patients taking a β-blocker and a drug that can deplete catecholamines (e.g., reserpine and monoamine oxidase inhibitors) should be observed closely for signs of hypotension and/or severe bradycardia. Concomitant administration of clonidine with a β-blocker may cause hypotension and bradycardia. When concomitant treatment with a β-blocker and clonidine is to be terminated, the β-blocker should be discontinued first. Clonidine therapy can then be discontinued several days later by gradually decreasing the dosage. 7.3 Cyclosporine Modest increases in mean trough cyclosporine concentrations were observed following initiation of carvedilol treatment in 21 renal transplant subjects suffering from chronic vascular rejection."
+  },
+  {
+   "id": "carvedilol:drug_interactions:2",
+   "medicamento": "carvedilol",
+   "secao": "drug_interactions",
+   "texto": "In about 30% of subjects, the dose of cyclosporine had to be reduced in order to maintain cyclosporine concentrations within the therapeutic range, while in the remainder no adjustment was needed. On the average for the group, the dose of cyclosporine was reduced about 20% in these subjects. Due to wide interindividual variability in the dose adjustment required, it is recommended that cyclosporine concentrations be monitored closely after initiation of carvedilol therapy and that the dose of cyclosporine be adjusted as appropriate. 7.4 Digitalis Glycosides Both digitalis glycosides and β-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. Digoxin concentrations are increased by about 15% when digoxin and carvedilol are administered concomitantly. Therefore, increased monitoring of digoxin is recommended when initiating, adjusting, or discontinuing carvedilol [see Clinical Pharmacology ( 12.5 )]. 7.5 Inducers/Inhibitors of Hepatic Metabolism Rifampin reduced plasma concentrations of carvedilol by about 70% [see Clinical Pharmacology ( 12.5 )]."
+  },
+  {
+   "id": "carvedilol:drug_interactions:3",
+   "medicamento": "carvedilol",
+   "secao": "drug_interactions",
+   "texto": "Cimetidine increased AUC by about 30% but caused no change in C max [see Clinical Pharmacology ( 12.5 )]. 7.6 Amiodarone Amiodarone and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P-glycoprotein increased concentrations of the S(-) enantiomer of carvedilol by at least 2 fold [see Clinical Pharmacology ( 12.5 )]. The concomitant administration of amiodarone or other CYP2C9 inhibitors such as fluconazole with carvedilol may enhance the β-blocking activity resulting in further slowing of the heart rate or cardiac conduction. Patients should be observed for signs of bradycardia or heart block, particularly when one agent is added to pre-existing treatment with the other. 7.7 Calcium Channel Blockers Conduction disturbance (rarely with hemodynamic compromise) has been observed when carvedilol is coadministered with diltiazem. As with other β-blockers, if carvedilol is administered with calcium channel blockers of the verapamil or diltiazem type, it is recommended that ECG and blood pressure be monitored. 7.8 Insulin or Oral Hypoglycemics β-blockers may enhance the blood-sugar-reducing effect of insulin and oral hypoglycemics."
+  },
+  {
+   "id": "carvedilol:drug_interactions:4",
+   "medicamento": "carvedilol",
+   "secao": "drug_interactions",
+   "texto": "Therefore, in patients taking insulin or oral hypoglycemics, regular monitoring of blood glucose is recommended [see Warnings and Precautions ( 5.6 )]. 7.9 Anesthesia If treatment with carvedilol is to be continued perioperatively, particular care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used [see Overdosage ( 10 )]."
+  },
+  {
+   "id": "carvedilol:contraindications:0",
+   "medicamento": "carvedilol",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Carvedilol is contraindicated in the following conditions: Bronchial asthma or related bronchospastic conditions. Deaths from status asthmaticus have been reported following single doses of carvedilol. Second or third-degree AV block. Sick sinus syndrome. Severe bradycardia (unless a permanent pacemaker is in place). Patients with cardiogenic shock or who have decompensated heart failure requiring the use of intravenous inotropic therapy. Such patients should first be weaned from intravenous therapy before initiating carvedilol. Patients with severe hepatic impairment. Patients with a history of a serious hypersensitivity reaction (e.g., Stevens-Johnson syndrome, anaphylactic reaction, angioedema) to any component of this medication or other medications containing carvedilol. Bronchial asthma or related bronchospastic conditions. ( 4 ) Second- or third-degree AV block. ( 4 ) Sick sinus syndrome. ( 4 ) Severe bradycardia (unless permanent pacemaker in place). ( 4 ) Patients in cardiogenic shock or decompensated heart failure requiring the use of IV inotropic therapy. ( 4 ) Severe hepatic impairment."
+  },
+  {
+   "id": "carvedilol:contraindications:1",
+   "medicamento": "carvedilol",
+   "secao": "contraindications",
+   "texto": "( 2.4 , 4 ) History of serious hypersensitivity reaction (e.g., Stevens-Johnson syndrome, anaphylactic reaction, angioedema) to any component of this medication or other medications containing carvedilol. ( 4 )"
+  },
+  {
+   "id": "carvedilol:clinical_pharmacology:0",
+   "medicamento": "carvedilol",
+   "secao": "clinical_pharmacology",
+   "texto": "Two placebo-controlled trials compared the acute hemodynamic effects of carvedilol with baseline measurements in 59 and 49 subjects with NYHA class II-IV heart failure receiving diuretics, ACE inhibitors, and digitalis. Hypertension The mechanism by which β-blockade produces an antihypertensive effect has not been established. β-adrenoreceptor blocking activity has been demonstrated in animal and human studies showing that carvedilol (1) reduces cardiac output in normal subjects, (2) reduces exercise and/or isoproterenol-induced tachycardia, and (3) reduces reflex orthostatic tachycardia. It also increases levels of atrial natriuretic peptide. 12.3 Pharmacokinetics Carvedilol is rapidly and extensively absorbed following oral administration, with absolute bioavailability of approximately 25% to 35% due to a significant degree of first-pass metabolism. Carvedilol is extensively metabolized. Carvedilol is metabolized primarily by aromatic ring oxidation and glucuronidation. The oxidative metabolites are further metabolized by conjugation via glucuronidation and sulfation."
+  },
+  {
+   "id": "carvedilol:clinical_pharmacology:1",
+   "medicamento": "carvedilol",
+   "secao": "clinical_pharmacology",
+   "texto": "Carvedilol undergoes stereoselective first-pass metabolism with plasma levels of R(+)-carvedilol approximately 2 to 3 times higher than S(-)-carvedilol following oral administration in healthy subjects. The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1. CYP2D6 is thought to be the major enzyme in the 4’- and 5’-hydroxylation of carvedilol, with a potential contribution from 3A4. CYP2C9 is thought to be of primary importance in the O-methylation pathway of S(-)-carvedilol. Carvedilol is subject to the effects of genetic polymorphism with poor metabolizers of debrisoquin (a marker for cytochrome P450 2D6) exhibiting 2- to 3-fold higher plasma concentrations of R(+)-carvedilol compared with extensive metabolizers. In contrast, plasma levels of S(-)-carvedilol are increased only about 20% to 25% in poor metabolizers, indicating this enantiomer is metabolized to a lesser extent by cytochrome P450 2D6 than R(+)-carvedilol."
+  },
+  {
+   "id": "carvedilol:clinical_pharmacology:2",
+   "medicamento": "carvedilol",
+   "secao": "clinical_pharmacology",
+   "texto": "The pharmacokinetics of carvedilol do not appear to be different in poor metabolizers of S-mephenytoin (patients deficient in cytochrome P450 2C19). Renal Impairment Although carvedilol is metabolized primarily by the liver, plasma concentrations of carvedilol have been reported to be increased in patients with renal impairment. Consistent with its high degree of plasma protein-binding, carvedilol does not appear to be cleared significantly by hemodialysis. 12.5 Drug-Drug Interactions Since carvedilol undergoes substantial oxidative metabolism, the metabolism and pharmacokinetics of carvedilol may be affected by induction or inhibition of cytochrome P450 enzymes."
+  },
+  {
+   "id": "carvedilol:pharmacokinetics:0",
+   "medicamento": "carvedilol",
+   "secao": "pharmacokinetics",
+   "texto": "12.3 Pharmacokinetics Carvedilol is rapidly and extensively absorbed following oral administration, with absolute bioavailability of approximately 25% to 35% due to a significant degree of first-pass metabolism. Carvedilol is extensively metabolized. Carvedilol is metabolized primarily by aromatic ring oxidation and glucuronidation. The oxidative metabolites are further metabolized by conjugation via glucuronidation and sulfation. Carvedilol undergoes stereoselective first-pass metabolism with plasma levels of R(+)-carvedilol approximately 2 to 3 times higher than S(-)-carvedilol following oral administration in healthy subjects. The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1. CYP2D6 is thought to be the major enzyme in the 4’- and 5’-hydroxylation of carvedilol, with a potential contribution from 3A4. CYP2C9 is thought to be of primary importance in the O-methylation pathway of S(-)-carvedilol."
+  },
+  {
+   "id": "carvedilol:pharmacokinetics:1",
+   "medicamento": "carvedilol",
+   "secao": "pharmacokinetics",
+   "texto": "Carvedilol is subject to the effects of genetic polymorphism with poor metabolizers of debrisoquin (a marker for cytochrome P450 2D6) exhibiting 2- to 3-fold higher plasma concentrations of R(+)-carvedilol compared with extensive metabolizers. In contrast, plasma levels of S(-)-carvedilol are increased only about 20% to 25% in poor metabolizers, indicating this enantiomer is metabolized to a lesser extent by cytochrome P450 2D6 than R(+)-carvedilol. The pharmacokinetics of carvedilol do not appear to be different in poor metabolizers of S-mephenytoin (patients deficient in cytochrome P450 2C19)."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "rifampin may decrease carvedilol levels.",
+   "efeito": "decrease carvedilol levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "reserpine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "reserpine, MAO inhibitors, clonidine) may increase the risk of hypotension and/or severe bradycardia.",
+   "efeito": "increase the risk of hypotension and/or severe bradycardia",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "clonidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "reserpine, MAO inhibitors, clonidine) may increase the risk of hypotension and/or severe bradycardia.",
+   "efeito": "increase the risk of hypotension and/or severe bradycardia",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cyclosporine or digoxin levels may increase.",
+   "efeito": "Cyclosporine levels may increase",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cyclosporine or digoxin levels may increase.",
+   "efeito": "digoxin levels may increase",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amiodarone may increase carvedilol levels resulting in further slowing of the heart rate or cardiac conduction.",
+   "efeito": "increase carvedilol levels resulting in further slowing of the heart rate or cardiac conduction",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Verapamil- or diltiazem-type calcium channel blockers may affect ECG and/or blood pressure.",
+   "efeito": "may affect ECG and/or blood pressure",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "diltiazem",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Verapamil- or diltiazem-type calcium channel blockers may affect ECG and/or blood pressure.",
+   "efeito": "may affect ECG and/or blood pressure",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "insulin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Insulin and oral hypoglycemics action may be enhanced.",
+   "efeito": "action may be enhanced",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "potent inhibitors of CYP2D6 isoenzyme (such as quinidine, fluoxetine, paroxetine, and propafenone)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "fluoxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "potent inhibitors of CYP2D6 isoenzyme (such as quinidine, fluoxetine, paroxetine, and propafenone)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "paroxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "potent inhibitors of CYP2D6 isoenzyme (such as quinidine, fluoxetine, paroxetine, and propafenone)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "propafenone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "potent inhibitors of CYP2D6 isoenzyme (such as quinidine, fluoxetine, paroxetine, and propafenone)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP P450 2D6 enzyme inhibitors may increase... carvedilol levels.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:3",
+   "origem": "cimetidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cimetidine increased AUC by about 30% but caused no change in C max",
+   "efeito": "increased AUC by about 30%",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P-glycoprotein",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone and its metabolite desethyl amiodarone, inhibitors of CYP2C9, and P-glycoprotein",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:3",
+   "origem": "fluconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "other CYP2C9 inhibitors such as fluconazole",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:3",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "inhibitors of CYP2C9... increased concentrations of the S(-) enantiomer of carvedilol",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:3",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "inhibitors of... P-glycoprotein increased concentrations of the S(-) enantiomer of carvedilol",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:4",
+   "origem": "ether",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used",
+   "efeito": "particular care should be taken when anesthetic agents that depress myocardial function are used",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:4",
+   "origem": "cyclopropane",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used",
+   "efeito": "particular care should be taken when anesthetic agents that depress myocardial function are used",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:drug_interactions:4",
+   "origem": "trichloroethylene",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carvedilol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "care should be taken when anesthetic agents that depress myocardial function, such as ether, cyclopropane, and trichloroethylene, are used",
+   "efeito": "particular care should be taken when anesthetic agents that depress myocardial function are used",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "bronchial asthma",
+   "tipo_destino": "Condicao",
+   "evidencia": "Carvedilol is contraindicated in the following conditions: Bronchial asthma",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "second-degree AV block",
+   "tipo_destino": "Condicao",
+   "evidencia": "Second or third-degree AV block.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "third-degree AV block",
+   "tipo_destino": "Condicao",
+   "evidencia": "Second or third-degree AV block.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sick sinus syndrome",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sick sinus syndrome.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "severe bradycardia",
+   "tipo_destino": "Condicao",
+   "evidencia": "Severe bradycardia (unless a permanent pacemaker is in place).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Patients with cardiogenic shock",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "decompensated heart failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "decompensated heart failure",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "severe hepatic impairment",
+   "tipo_destino": "Condicao",
+   "evidencia": "Patients with severe hepatic impairment.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:contraindications:1",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "History of serious hypersensitivity reaction (e.g., Stevens-Johnson syndrome, anaphylactic reaction, angioedema)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:clinical_pharmacology:1",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:clinical_pharmacology:1",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:clinical_pharmacology:1",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:clinical_pharmacology:1",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:clinical_pharmacology:1",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:clinical_pharmacology:1",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2E1",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:pharmacokinetics:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:pharmacokinetics:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:pharmacokinetics:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:pharmacokinetics:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:pharmacokinetics:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carvedilol:pharmacokinetics:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2E1",
+   "tipo_destino": "Enzima",
+   "evidencia": "The primary P450 enzymes responsible for the metabolism of both R(+) and S(-)-carvedilol in human liver microsomes were CYP2D6 and CYP2C9 and to a lesser extent CYP3A4, 2C19, 1A2, and 2E1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "carvedilol:contraindications:0",
+   "origem": "carvedilol",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "status asthmaticus",
+   "tipo_destino": "Condicao",
+   "evidencia": "Deaths from status asthmaticus have been reported following single doses of carvedilol.",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "combinação de tipos"
+  }
+ ]
+}

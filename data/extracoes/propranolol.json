@@ -1,0 +1,426 @@
+{
+ "generico": "propranolol",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "propranolol:drug_interactions:0",
+   "medicamento": "propranolol",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions Caution should be exercised when Propranolol Hydrochloride Extended-Release Capsules, USP, are administered with drugs that have an affect on CYP2D6, 1A2, or 2C19 metabolic pathways. Co-administration of such drugs with propranolol may lead to clinically relevant drug interactions and changes on its efficacy and/or toxicity (see Drug Interactions in PHARMACOKINETICS AND DRUG METABOLISM ). Alcohol when used concomitantly with propranolol, may increase plasma levels of propranolol. Cardiovascular Drugs Antiarrhythmics Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol. Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension. Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol. The clearance of lidocaine is reduced with administration of propranolol. Lidocaine toxicity has been reported following co-administration with propranolol."
+  },
+  {
+   "id": "propranolol:drug_interactions:1",
+   "medicamento": "propranolol",
+   "secao": "drug_interactions",
+   "texto": "Caution should be exercised when administering Propranolol Hydrochloride Extended-Release Capsules, USP, with drugs that slow A-V nodal conduction, e.g., lidocaine and calcium channel blockers. Digitalis Glycosides Both digitalis glycosides and beta-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. Calcium Channel Blockers Caution should be exercised when patients receiving a beta-blocker are administered a calcium-channel-blocking drug with negative inotropic and/or chronotropic effects. Both agents may depress myocardial contractility or atrioventricular conduction. There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers. Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure. ACE Inhibitors When combined with beta-blockers, ACE inhibitors can cause hypotension, particularly in the setting of acute myocardial infarction. The antihypertensive effects of clonidine may be antagonized by beta-blockers."
+  },
+  {
+   "id": "propranolol:drug_interactions:2",
+   "medicamento": "propranolol",
+   "secao": "drug_interactions",
+   "texto": "Propranolol Hydrochloride Extended-Release Capsules, USP, should be administered cautiously to patients withdrawing from clonidine. Alpha Blockers Prazosin has been associated with prolongation of first dose hypotension in the presence of beta-blockers. Postural hypotension has been reported in patients taking both beta-blockers and terazosin or doxazosin. Reserpine Patients receiving catecholamine-depleting drugs, such as reserpine should be closely observed for excessive reduction of resting sympathetic nervous activity, which may result in hypotension, marked bradycardia, vertigo, syncopal attacks, or orthostatic hypotension. Inotropic Agents Patients on long-term therapy with propranolol may experience uncontrolled hypertension if administered epinephrine as a consequence of unopposed alpha-receptor stimulation. Epinephrine is therefore not indicated in the treatment of propranolol overdose (see OVERDOSAGE ). Isoproterenol and Dobutamine Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol."
+  },
+  {
+   "id": "propranolol:drug_interactions:3",
+   "medicamento": "propranolol",
+   "secao": "drug_interactions",
+   "texto": "Also, propranolol may reduce sensitivity to dobutamine stress echocardiography in patients undergoing evaluation for myocardial ischemia. Non-Cardiovascular Drugs Nonsteroidal Anti-Inflammatory Drugs Nonsteroidal anti-inflammatory drugs (NSAIDs) have been reported to blunt the antihypertensive effect of beta-adrenoreceptor blocking agents. Administration of indomethacin with propranolol may reduce the efficacy of propranolol in reducing blood pressure and heart rate. Antidepressants The hypotensive effects of MAO inhibitors or tricyclic antidepressants may be exacerbated when administered with beta-blockers by interfering with the beta blocking activity of propranolol. Anesthetic Agents Methoxyflurane and trichloroethylene may depress myocardial contractility when administered with propranolol. Warfarin Propranolol when administered with warfarin increases the concentration of warfarin. Prothrombin time, therefore, should be monitored. Neuroleptic Drugs Hypotension and cardiac arrest have been reported with the concomitant use of propranolol and haloperidol. Thyroxine Thyroxine may result in a lower than expected T 3 concentration when used concomitantly with propranolol."
+  },
+  {
+   "id": "propranolol:contraindications:0",
+   "medicamento": "propranolol",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Propranolol is contraindicated in 1) cardiogenic shock; 2) sinus bradycardia and greater than first-degree block; 3) bronchial asthma; and 4) in patients with known hypersensitivity to propranolol hydrochloride."
+  },
+  {
+   "id": "propranolol:clinical_pharmacology:0",
+   "medicamento": "propranolol",
+   "secao": "clinical_pharmacology",
+   "texto": "Among the factors that may be involved in contributing to the antihypertensive action include: (1) decreased cardiac output, (2) inhibition of renin release by the kidneys, and (3) diminution of tonic sympathetic nerve outflow from vasomotor centers in the brain. In angina pectoris, propranolol generally reduces the oxygen requirement of the heart at any given level of effort by blocking the catecholamine-induced increases in the heart rate, systolic blood pressure, and the velocity and extent of myocardial contraction. Pharmacokinetics and Drug Metabolism Absorption Propranolol is highly lipophilic and almost completely absorbed after oral administration. However, it undergoes high first pass metabolism by the liver and on average, only about 25% of propranolol reaches the systemic circulation. Metabolism and Elimination Propranolol is extensively metabolized with most metabolites appearing in the urine. Propranolol is metabolized through three primary routes: aromatic hydroxylation (mainly 4-hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation."
+  },
+  {
+   "id": "propranolol:clinical_pharmacology:1",
+   "medicamento": "propranolol",
+   "secao": "clinical_pharmacology",
+   "texto": "It has been estimated that the percentage contributions of these routes to total metabolism are 42%, 41% and 17%, respectively, but with considerable variability between individuals. In-vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6. Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6. 4-hydroxy propranolol is a weak inhibitor of CYP2D6. Propranolol is also a substrate of CYP2C19 and a substrate for the intestinal efflux transporter, p-glycoprotein (p-gp). Studies suggest however that p-gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range. In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half-life. The lower AUCs for the Propranolol Hydrochloride Extended-Release Capsules, USP, are due to greater hepatic metabolism of propranolol, resulting from the slower rate of absorption of propranolol."
+  },
+  {
+   "id": "propranolol:clinical_pharmacology:2",
+   "medicamento": "propranolol",
+   "secao": "clinical_pharmacology",
+   "texto": "In normal subjects receiving oral doses of racemic propranolol, S(−)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40-90% as a result of stereoselective hepatic metabolism. These findings are inconsistent with another study, in which administration of testosterone cypionate confirmed the stimulatory role of this hormone on propranolol metabolism and concluded that the clearance of propranolol in men is dependent on circulating concentrations of testosterone. Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity resulting in a lower \"first-pass\" clearance. Propranolol is extensively metabolized by the liver. Interactions with Substrates, Inhibitors or Inducers of Cytochrome P450 Enzymes Because propranolol's metabolism involves multiple pathways in the Cytochrome P-450 system (CYP2D6, 1A2, 2C19), co-administration with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see Drug Interactions under PRECAUTIONS )."
+  },
+  {
+   "id": "propranolol:clinical_pharmacology:3",
+   "medicamento": "propranolol",
+   "secao": "clinical_pharmacology",
+   "texto": "Substrates or Inhibitors of CYP2D6 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir. Substrates or Inhibitors of CYP1A2 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan. Substrates or Inhibitors of CYP2C19 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, teniposide, and tolbutamide. Inducers of Hepatic Drug Metabolism Blood levels of propranolol may be decreased by co-administration with inducers such as rifampin, ethanol, phenytoin, and phenobarbital. Cigarette smoking also induces hepatic metabolism and has been shown to increase up to 77% the clearance of propranolol, resulting in decreased plasma concentrations."
+  },
+  {
+   "id": "propranolol:clinical_pharmacology:4",
+   "medicamento": "propranolol",
+   "secao": "clinical_pharmacology",
+   "texto": "The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two to three fold increased blood concentration and greater degrees of clinical beta-blockade. The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations. Benzodiazepines Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites. Anti-Ulcer Drugs Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and C max by 46% and 35%, respectively."
+  },
+  {
+   "id": "propranolol:pharmacokinetics:0",
+   "medicamento": "propranolol",
+   "secao": "pharmacokinetics",
+   "texto": "Pharmacokinetics and Drug Metabolism Absorption Propranolol is highly lipophilic and almost completely absorbed after oral administration. However, it undergoes high first pass metabolism by the liver and on average, only about 25% of propranolol reaches the systemic circulation. Metabolism and Elimination Propranolol is extensively metabolized with most metabolites appearing in the urine. Propranolol is metabolized through three primary routes: aromatic hydroxylation (mainly 4-hydroxylation), N-dealkylation followed by further side-chain oxidation, and direct glucuronidation. It has been estimated that the percentage contributions of these routes to total metabolism are 42%, 41% and 17%, respectively, but with considerable variability between individuals. In-vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6. Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6. 4-hydroxy propranolol is a weak inhibitor of CYP2D6. Propranolol is also a substrate of CYP2C19 and a substrate for the intestinal efflux transporter, p-glycoprotein (p-gp)."
+  },
+  {
+   "id": "propranolol:pharmacokinetics:1",
+   "medicamento": "propranolol",
+   "secao": "pharmacokinetics",
+   "texto": "Studies suggest however that p-gp is not dose-limiting for intestinal absorption of propranolol in the usual therapeutic dose range. In healthy subjects, no difference was observed between CYP2D6 extensive metabolizers (EMs) and poor metabolizers (PMs) with respect to oral clearance or elimination half-life. The lower AUCs for the Propranolol Hydrochloride Extended-Release Capsules, USP, are due to greater hepatic metabolism of propranolol, resulting from the slower rate of absorption of propranolol. In normal subjects receiving oral doses of racemic propranolol, S(−)-enantiomer concentrations exceeded those of the R(+)-enantiomer by 40-90% as a result of stereoselective hepatic metabolism. These findings are inconsistent with another study, in which administration of testosterone cypionate confirmed the stimulatory role of this hormone on propranolol metabolism and concluded that the clearance of propranolol in men is dependent on circulating concentrations of testosterone. Chronic renal failure has been associated with a decrease in drug metabolism via down regulation of hepatic cytochrome P450 activity resulting in a lower \"first-pass\" clearance."
+  },
+  {
+   "id": "propranolol:pharmacokinetics:2",
+   "medicamento": "propranolol",
+   "secao": "pharmacokinetics",
+   "texto": "Propranolol is extensively metabolized by the liver. Interactions with Substrates, Inhibitors or Inducers of Cytochrome P450 Enzymes Because propranolol's metabolism involves multiple pathways in the Cytochrome P-450 system (CYP2D6, 1A2, 2C19), co-administration with drugs that are metabolized by, or affect the activity (induction or inhibition) of one or more of these pathways may lead to clinically relevant drug interactions (see Drug Interactions under PRECAUTIONS ). Substrates or Inhibitors of CYP2D6 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2D6, such as amiodarone, cimetidine, delavudin, fluoxetine, paroxetine, quinidine, and ritonavir. Substrates or Inhibitors of CYP1A2 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP1A2, such as imipramine, cimetidine, ciprofloxacin, fluvoxamine, isoniazid, ritonavir, theophylline, zileuton, zolmitriptan, and rizatriptan."
+  },
+  {
+   "id": "propranolol:pharmacokinetics:3",
+   "medicamento": "propranolol",
+   "secao": "pharmacokinetics",
+   "texto": "Substrates or Inhibitors of CYP2C19 Blood levels and/or toxicity of propranolol may be increased by co-administration with substrates or inhibitors of CYP2C19, such as fluconazole, cimetidine, fluoxetine, fluvoxamine, teniposide, and tolbutamide. Inducers of Hepatic Drug Metabolism Blood levels of propranolol may be decreased by co-administration with inducers such as rifampin, ethanol, phenytoin, and phenobarbital. Cigarette smoking also induces hepatic metabolism and has been shown to increase up to 77% the clearance of propranolol, resulting in decreased plasma concentrations. The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two to three fold increased blood concentration and greater degrees of clinical beta-blockade. The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations. Benzodiazepines Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites."
+  },
+  {
+   "id": "propranolol:pharmacokinetics:4",
+   "medicamento": "propranolol",
+   "secao": "pharmacokinetics",
+   "texto": "Anti-Ulcer Drugs Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor, increased propranolol AUC and C max by 46% and 35%, respectively."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "propranolol:drug_interactions:0",
+   "origem": "alcohol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Alcohol when used concomitantly with propranolol, may increase plasma levels of propranolol.",
+   "efeito": "increased plasma levels of propranolol",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:0",
+   "origem": "propafenone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Propafenone has negative inotropic and beta-blocking properties that can be additive to those of propranolol.",
+   "efeito": "additive negative inotropic and beta-blocking effects",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:0",
+   "origem": "quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Quinidine increases the concentration of propranolol and produces greater degrees of clinical beta-blockade and may cause postural hypotension.",
+   "efeito": "increased propranolol concentration and clinical beta-blockade",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:0",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amiodarone is an antiarrhythmic agent with negative chronotropic properties that may be additive to those seen with β-blockers such as propranolol.",
+   "efeito": "additive negative chronotropic properties",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:0",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lidocaine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The clearance of lidocaine is reduced with administration of propranolol. Lidocaine toxicity has been reported following co-administration with propranolol.",
+   "efeito": "reduced lidocaine clearance and toxicity",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:1",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of significant bradycardia, heart failure, and cardiovascular collapse with concurrent use of verapamil and beta-blockers.",
+   "efeito": "bradycardia, heart failure, and cardiovascular collapse",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:1",
+   "origem": "diltiazem",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Co-administration of propranolol and diltiazem in patients with cardiac disease has been associated with bradycardia, hypotension, high degree heart block, and heart failure.",
+   "efeito": "bradycardia, hypotension, heart block, and heart failure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:3",
+   "origem": "indomethacin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Administration of indomethacin with propranolol may reduce the efficacy of propranolol in reducing blood pressure and heart rate.",
+   "efeito": "reduced antihypertensive efficacy",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:3",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Propranolol when administered with warfarin increases the concentration of warfarin.",
+   "efeito": "increased warfarin concentration",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:contraindications:0",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Propranolol is contraindicated in 1) cardiogenic shock",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:clinical_pharmacology:1",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "4-hydroxy propranolol is a weak inhibitor of CYP2D6.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:clinical_pharmacology:1",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "In-vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:clinical_pharmacology:1",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "Side-chain oxidation is mediated mainly by CYP1A2",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:clinical_pharmacology:1",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Propranolol is also a substrate of CYP2C19",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:clinical_pharmacology:1",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "p-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Propranolol is also... a substrate for the intestinal efflux transporter, p-glycoprotein (p-gp).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:0",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "In-vitro studies have indicated that the aromatic hydroxylation of propranolol is catalyzed mainly by polymorphic CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:0",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "Side-chain oxidation is mediated mainly by CYP1A2 and to some extent by CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:0",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "Propranolol is also a substrate of CYP2C19",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:0",
+   "origem": "4-hydroxy propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "4-hydroxy propranolol is a weak inhibitor of CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:3",
+   "origem": "quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The metabolism of propranolol is reduced by co-administration of quinidine, leading to a two to three fold increased blood concentration",
+   "efeito": "increased blood concentration of propranolol",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:4",
+   "origem": "cimetidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP450",
+   "tipo_destino": "Enzima",
+   "evidencia": "Co-administration of propranolol with cimetidine, a non-specific CYP450 inhibitor",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "propranolol:drug_interactions:2",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "isoproterenol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "propranolol:drug_interactions:2",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "dobutamine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Propranolol is a competitive inhibitor of beta-receptor agonists, and its effects can be reversed by administration of such agents, e.g., dobutamine or isoproterenol.",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "propranolol:contraindications:0",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sinus bradycardia",
+   "tipo_destino": "Condicao",
+   "evidencia": "Propranolol is contraindicated in 2) sinus bradycardia and greater than first-degree block",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "propranolol:contraindications:0",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "bronchial asthma",
+   "tipo_destino": "Condicao",
+   "evidencia": "Propranolol is contraindicated in 3) bronchial asthma",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:3",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "diazepam",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Propranolol can inhibit the metabolism of diazepam, resulting in increased concentrations of diazepam and its metabolites.",
+   "efeito": "increased concentrations of diazepam and its metabolites",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  },
+  {
+   "trecho_id": "propranolol:pharmacokinetics:3",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "lidocaine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The metabolism of lidocaine is inhibited by co-administration of propranolol, resulting in a 25% increase in lidocaine concentrations.",
+   "efeito": "25% increase in lidocaine concentrations",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  }
+ ]
+}

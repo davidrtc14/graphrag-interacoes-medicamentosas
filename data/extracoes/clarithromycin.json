@@ -1,0 +1,517 @@
+{
+ "generico": "clarithromycin",
+ "modelos": [
+  "gemini-3.5-flash",
+  "openai/gpt-oss-120b"
+ ],
+ "trechos": [
+  {
+   "id": "clarithromycin:drug_interactions:0",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Co-administration of clarithromycin is known to inhibit CYP3A, and a drug primarily metabolized by CYP3A may be associated with elevations in drug concentrations that could increase or prolong both therapeutic and adverse effects of the concomitant drug. Clarithromycin should be used with caution in patients receiving treatment with other drugs known to be CYP3A enzyme substrates, especially if the CYP3A substrate has a narrow safety margin (e.g., carbamazepine) and/or the substrate is extensively metabolized by this enzyme. Adjust dosage when appropriate and monitor serum concentrations of drugs primarily metabolized by CYP3A closely in patients concurrently receiving clarithromycin. Table 8: Clinically Significant Drug Interactions with Clarithromycin Drugs That Are Affected By Clarithromycin Drug(s) with Pharmacokinetics Affected by Clarithromycin Recommendation Comments Antiarrhythmics: Disopyramide Quinidine Dofetilide Amiodarone Sotalol Procainamide Digoxin Not Recommended Use With Caution Disopyramide, Quinidine : There have been postmarketing reports of torsades de pointes occurring with concurrent use of clarithromycin and quinidine or disopyramide."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:1",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Electrocardiograms should be monitored for QTc prolongation during coadministration of clarithromycin with these drugs [see Warnings and Precautions (5.2) ] . Serum concentrations of these medications should also be monitored. There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with disopyramide and quinidine. There have been postmarketing reports of hypoglycemia with the concomitant administration of clarithromycin and disopyramide. Therefore, blood glucose levels should be monitored during concomitant administration of clarithromycin and disopyramide. Digoxin : Digoxin is a substrate for P-glycoprotein (Pgp) and clarithromycin is known to inhibit Pgp. When clarithromycin and digoxin are co-administered, inhibition of Pgp by clarithromycin may lead to increased exposure of digoxin. Elevated digoxin serum concentrations in patients receiving clarithromycin and digoxin concomitantly have been reported in postmarketing surveillance. Some patients have shown clinical signs consistent with digoxin toxicity, including potentially fatal arrhythmias."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:2",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Monitoring of serum digoxin concentrations should be considered, especially for patients with digoxin concentrations in the upper therapeutic range. Oral Anticoagulants: Warfarin Use With Caution Oral anticoagulants: Spontaneous reports in the postmarketing period suggest that concomitant administration of clarithromycin and oral anticoagulants may potentiate the effects of the oral anticoagulants. Prothrombin times should be carefully monitored while patients are receiving clarithromycin and oral anticoagulants simultaneously [see Warnings and Precautions (5.4) ] . Antiepileptics: Carbamazepine Use With Caution Carbamazepine : Concomitant administration of single doses of clarithromycin and carbamazepine has been shown to result in increased plasma concentrations of carbamazepine. Blood level monitoring of carbamazepine may be considered. Increased serum concentrations of carbamazepine were observed in clinical trials with clarithromycin. There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with carbamazepine."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:3",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Antifungals: Itraconazole Fluconazole Use With Caution No Dose Adjustment Itraconazole: Both clarithromycin and itraconazole are substrates and inhibitors of CYP3A, potentially leading to a bi-directional drug interaction when administered concomitantly (see also Itraconazole under “Drugs That Affect Clarithromycin” in the table below). Clarithromycin may increase the plasma concentrations of itraconazole. Patients taking itraconazole and clarithromycin concomitantly should be monitored closely for signs or symptoms of increased or prolonged adverse reactions. Fluconazole: [see Pharmacokinetics (12.3) ] Anti-Gout Agents: Colchicine (in patients with renal or hepatic impairment) Colchicine (in patients with normal renal and hepatic function) Contraindicated Use With Caution Colchicine : Colchicine is a substrate for both CYP3A and the efflux transporter, P-glycoprotein (Pgp). Clarithromycin and other macrolides are known to inhibit CYP3A and Pgp. The dose of colchicine should be reduced when co-administered with clarithromycin in patients with normal renal and hepatic function [see Contraindications (4.4) and Warnings and Precautions (5.4) ] ."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:4",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Antipsychotics: Pimozide Quetiapine Lurasidone Contraindicated Pimozide: [See Contraindications (4.2) ] Quetiapine : Quetiapine is a substrate for CYP3A4, which is inhibited by clarithromycin. Co-administration with clarithromycin could result in increased quetiapine exposure and possible quetiapine related toxicities. There have been postmarketing reports of somnolence, orthostatic hypotension, altered state of consciousness, neuroleptic malignant syndrome, and QT prolongation during concomitant administration. Refer to quetiapine prescribing information for recommendations on dose reduction if co-administered with CYP3A4 inhibitors such as clarithromycin. Lurasidone : [See Contraindications (4.7) ] Antispasmodics: Tolterodine (patients deficient in CYP2D6 activity) Use With Caution Tolterodine : The primary route of metabolism for tolterodine is via. CYP2D6. However, in a subset of the population devoid of CYP2D6, the identified pathway of metabolism is via. CYP3A. In this population subset, inhibition of CYP3A results in significantly higher serum concentrations of tolterodine."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:5",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Tolterodine 1 mg twice daily is recommended in patients deficient in CYP2D6 activity (poor metabolizers) when co-administered with clarithromycin. Antivirals: Atazanavir Saquinavir (in patients with decreased renal function) Ritonavir Etravirine Maraviroc Boceprevir (in patients with normal renal function) Didanosine Zidovudine Use With Caution No Dose Adjustment Atazanavir : Both clarithromycin and atazanavir are substrates and inhibitors of CYP3A, and there is evidence of a bi-directional drug interaction (see Atazanavir under “Drugs That Affect Clarithromycin” in the table below) [see Pharmacokinetics (12.3) ] . Saquinavir : Both clarithromycin and saquinavir are substrates and inhibitors of CYP3A and there is evidence of a bi-directional drug interaction (see Saquinavir under “Drugs That Affect Clarithromycin” in the table below) [see Pharmacokinetics (12.3) ] . Ritonavir, Etravirine: (see Ritonavir and Etravirine under “Drugs That Affect Clarithromycin” in the table below) [see Pharmacokinetics (12.3) ] . Maraviroc : Clarithromycin may result in increases in maraviroc exposures by inhibition of CYP3A metabolism."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:6",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "See Selzentry ® prescribing information for dose recommendation when given with strong CYP3A inhibitors such as clarithromycin. Boceprevir: Both clarithromycin and boceprevir are substrates and inhibitors of CYP3A, potentially leading to a bi-directional drug interaction when co-administered. No dose adjustments are necessary for patients with normal renal function (see Victrelis ® prescribing information). Zidovudine: Simultaneous oral administration of clarithromycin immediate-release tablets and zidovudine to HIV-infected adult patients may result in decreased steady-state zidovudine concentrations. Administration of clarithromycin and zidovudine should be separated by at least two hours [see Pharmacokinetics (12.3) ] . Calcium Channel Blockers: Verapamil Amlodipine Diltiazem Nifedipine Use With Caution Verapamil : Hypotension, bradyarrhythmias, and lactic acidosis have been observed in patients receiving concurrent verapamil, [see Warnings and Precautions (5.4) ] . Amlodipine, Diltiazem : [See Warnings and Precautions (5.4) ] Nifedipine : Nifedipine is a substrate for CYP3A. Clarithromycin and other macrolides are known to inhibit CYP3A."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:7",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "There is potential of CYP3A-mediated interaction between nifedipine and clarithromycin. Hypotension and peripheral edema were observed when clarithromycin was taken concomitantly with nifedipine [see Warnings and Precautions (5.4) ] . Ergot Alkaloids: Ergotamine Dihydroergotamine Contraindicated Ergotamine, Dihydroergotamine : Postmarketing reports indicate that coadministration of clarithromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the extremities and other tissues including the central nervous system [see Contraindications (4.6) ]."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:8",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Gastroprokinetic Agents: Cisapride Contraindicated Cisapride : [See Contraindications (4.2) ] Lipid-lowering agents: Lomitapide Lovastatin Simvastatin Atorvastatin Pravastatin Fluvastatin Contraindicated Use With Caution No Dose Adjustment Lomitapide, Lovastatin, Simvastatin: Clarithromycin may increase the exposure of these drugs by inhibition of CYP3A metabolism, thereby increasing the risk of toxicities from these drugs [see Contraindications (4.5) and Warnings and Precautions (5.4) ] Atorvastatin, Pravastatin, Fluvastatin: [See Warnings and Precautions (5.4) ] Hypoglycemic Agents: Nateglinide Pioglitazone Repaglinide Rosiglitazone Insulin Use With Caution Nateglinide, Pioglitazone, Repaglinide, Rosiglitazone : [See Warnings and Precautions (5.4) and Adverse Reactions (6.2) ] Insulin : [See Warnings and Precautions (5.4) and Adverse Reactions (6.2) ] Immunosuppressants: Cyclosporine Tacrolimus Use With Caution Cyclosporine : There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with cyclosporine. Tacrolimus : There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with tacrolimus."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:9",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Phosphodiesterase inhibitors: Sildenafil Tadalafil Vardenafil Use With Caution Sildenafil, Tadalafil, Vardenafil : Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A, and CYP3A will be inhibited by concomitant administration of clarithromycin. Co-administration of clarithromycin with sildenafil, tadalafil, or vardenafil will result in increased exposure of these phosphodiesterase inhibitors. Co-administration of these phosphodiesterase inhibitors with clarithromycin is not recommended. Increased systemic exposure of these drugs may occur with clarithromycin; reduction of dosage for phosphodiesterase inhibitors should be considered (see their respective prescribing information). Proton Pump Inhibitors: Omeprazole No Dose Adjustment Omeprazole : The mean 24-hour gastric pH value was 5.2 when omeprazole was administered alone and 5.7 when coadministered with clarithromycin as a result of increased omeprazole exposures [see Pharmacokinetics (12.3) ] (see also Omeprazole under “Drugs That Affect Clarithromycin” in the table below)."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:10",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Xanthine Derivatives: Theophylline Use With Caution Theophylline : Clarithromycin use in patients who are receiving theophylline may be associated with an increase of serum theophylline concentrations [see Pharmacokinetics (12.3) ] . Monitoring of serum theophylline concentrations should be considered for patients receiving high doses of theophylline or with baseline concentrations in the upper therapeutic range. Triazolobenzodiazepines and Other Related Benzodiazepines: Midazolam Alprazolam Triazolam Temazepam Nitrazepam Lorazepam Use With Caution No Dose Adjustment Midazolam : When oral midazolam is co-administered with clarithromycin, dose adjustments may be necessary and possible prolongation and intensity of effect should be anticipated [see Warnings and Precautions (5.4) and Pharmacokinetics (12.3) ] . Triazolam, Alprazolam : Caution and appropriate dose adjustments should be considered when triazolam or alprazolam is co-administered with clarithromycin. There have been postmarketing reports of drug interactions and central nervous system (CNS) effects (e.g., somnolence and confusion) with the concomitant use of clarithromycin and triazolam."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:11",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Monitoring the patient for increased CNS pharmacological effects is suggested. In postmarketing experience, erythromycin has been reported to decrease the clearance of triazolam and midazolam, and thus, may increase the pharmacologic effect of these benzodiazepines. Temazepam, Nitrazepam, Lorazepam : For benzodiazepines which are not metabolized by CYP3A (e.g., temazepam, nitrazepam, lorazepam), a clinically important interaction with clarithromycin is unlikely. Cytochrome P450 Inducers: Rifabutin Use With Caution Rifabutin : Concomitant administration of rifabutin and clarithromycin resulted in an increase in rifabutin, and decrease in clarithromycin serum levels together with an increased risk of uveitis (see Rifabutin under “Drugs That Affect Clarithromycin” in the table below). Other Drugs Metabolized by CYP3A: Alfentanil Bromocriptine Cilostazol Methylprednisole Vinblastine Phenobarbital St. John’s Wort Use With Caution There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with alfentanil, methylprednisolone, cilostazol, bromocriptine, vinblastine, phenobarbital, and St. John’s Wort."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:12",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Other Drugs Metabolized by CYP450 Isoforms Other than CYP3A: Hexobarbital Phenytoin Valproate Use With Caution There have been postmarketing reports of interactions of clarithromycin with drugs not thought to be metabolized by CYP3A, including hexobarbital, phenytoin, and valproate. Drugs that Affect Clarithromycin Drug(s) that Affect the Pharmacokinetics of Clarithromycin Recommendation Comments Antifungals: Itraconazole Use With Caution Itraconazole : Itraconazole may increase the plasma concentrations of clarithromycin. Patients taking itraconazole and clarithromycin concomitantly should be monitored closely for signs or symptoms of increased or prolonged adverse reactions (see also Itraconazole under “Drugs That Are Affected By Clarithromycin” in the table above)."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:13",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Antivirals: Atazanavir Ritonavir (in patients with decreased renal function) Saquinavir (in patients with decreased renal function) Etravirine Saquinavir (in patients with normal renal function) Ritonavir (in patients with normal renal function) Use With Caution No Dose Adjustment Atazanavir: When clarithromycin is co-administered with atazanavir, the dose of clarithromycin should be decreased by 50% [see Clinical Pharmacology (12.3) ] . Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is co-administered with atazanavir, alternative antibacterial therapy should be considered for indications other than infections due to Mycobacterium avium complex. Doses of clarithromycin greater than 1000 mg per day should not be co-administered with protease inhibitors. Ritonavir : Since concentrations of 14-OH clarithromycin are significantly reduced when clarithromycin is co-administered with ritonavir, alternative antibacterial therapy should be considered for indications other than infections due to Mycobacterium avium [see Pharmacokinetics (12.3) ] ."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:14",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Doses of clarithromycin greater than 1000 mg per day should not be co-administered with protease inhibitors. Saquinavir : When saquinavir is co-administered with ritonavir, consideration should be given to the potential effects of ritonavir on clarithromycin (refer to ritonavir above) [see Pharmacokinetics (12.3) ] . Etravirine: Clarithromycin exposure was decreased by etravirine; however, concentrations of the active metabolite, 14-OH-clarithromycin, were increased. Because 14-OH-clarithromycin has reduced activity against Mycobacterium avium complex (MAC), overall activity against this pathogen may be altered; therefore alternatives to clarithromycin should be considered for the treatment of MAC. Proton Pump Inhibitors: Omeprazole Use With Caution Omeprazole : Clarithromycin concentrations in the gastric tissue and mucus were also increased by concomitant administration of omeprazole [see Pharmacokinetics (12.3) ] ."
+  },
+  {
+   "id": "clarithromycin:drug_interactions:15",
+   "medicamento": "clarithromycin",
+   "secao": "drug_interactions",
+   "texto": "Miscellaneous Cytochrome P450 Inducers: Efavirenz Nevirapine Rifampicin Rifabutin Rifapentine Use With Caution Inducers of CYP3A enzymes, such as efavirenz, nevirapine, rifampicin, rifabutin, and rifapentine will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin, while increasing those of 14-OH-clarithromycin. Since the microbiological activities of clarithromycin and 14-OH-clarithromycin are different for different bacteria, the intended therapeutic effect could be impaired during concomitant administration of clarithromycin and enzyme inducers. Alternative antibacterial treatment should be considered when treating patients receiving inducers of CYP3A. There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with rifabutin (see Rifabutin under “Drugs That Are Affected By Clarithromycin” in the table above). Co-administration of clarithromycin can alter the concentrations of other drugs. The potential for drug-drug interactions must be considered prior to and during therapy. ( 4 , 5.2 , 5.4 , 7 )"
+  },
+  {
+   "id": "clarithromycin:contraindications:0",
+   "medicamento": "clarithromycin",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Hypersensitivity to clarithromycin or any macrolide drug ( 4.1 ) Cisapride and pimozide ( 4.2 ) History of cholestatic jaundice/hepatic dysfunction with use of clarithromycin ( 4.3 ) Colchicine in renal or hepatic impairment ( 4.4 ) Lomitapide, lovastatin, and simvastatin ( 4.5 ) Ergot alkaloids (ergotamine or dihydroergotamine) ( 4.6 ) Lurasidone ( 4.7 ) 4.1 Hypersensitivity Clarithromycin tablets are contraindicated in patients with a known hypersensitivity to clarithromycin, erythromycin, or any of the macrolide antibacterial drugs [see Warnings and Precautions (5.1) ] . 4.2 Cisapride and Pimozide Concomitant administration of clarithromycin tablets with cisapride and pimozide is contraindicated [see Drug Interactions (7) ] . There have been postmarketing reports of drug interactions when clarithromycin is co-administered with cisapride or pimozide, resulting in cardiac arrhythmias (QT prolongation, ventricular tachycardia, ventricular fibrillation, and torsades de pointes ) most likely due to inhibition of metabolism of these drugs by clarithromycin tablets."
+  },
+  {
+   "id": "clarithromycin:contraindications:1",
+   "medicamento": "clarithromycin",
+   "secao": "contraindications",
+   "texto": "Fatalities have been reported. 4.3 Cholestatic Jaundice/Hepatic Dysfunction Clarithromycin tablets are contraindicated in patients with a history of cholestatic jaundice or hepatic dysfunction associated with prior use of clarithromycin. 4.4 Colchicine Concomitant administration of clarithromycin tablets and colchicine is contraindicated in patients with renal or hepatic impairment. 4.5 Lomitapide, Lovastatin, and Simvastatin Concomitant administration of clarithromycin tablets with lomitapide is contraindicated due to potential for markedly increased transaminases [see Warnings and Precautions (5.4) and Drug Interactions (7) ] ."
+  },
+  {
+   "id": "clarithromycin:contraindications:2",
+   "medicamento": "clarithromycin",
+   "secao": "contraindications",
+   "texto": "Concomitant administration of clarithromycin tablets with HMG-CoA reductase inhibitors (statins) that are extensively metabolized by CYP3A4 (lovastatin or simvastatin) is contraindicated, due to the increased risk of myopathy, including rhabdomyolysis [see Warnings and Precautions (5.4) and Drug Interactions (7) ] . 4.6 Ergot Alkaloids Concomitant administration of clarithromycin and ergotamine or dihydroergotamine is contraindicated [see Drug Interactions (7) ] . 4.7 Lurasidone Concomitant administration ofclarithromycin and lurasidone is contraindicated since it may result in an increase in lurasidone exposure and the potential for serious adverse reactions [see Drug Interactions (7) ]. 4.8 Contraindications for Co-administered Drugs For information about contraindications of other drugs indicated in combination with clarithromycin tablets, refer to their full prescribing information (contraindications section)."
+  },
+  {
+   "id": "clarithromycin:clinical_pharmacology:0",
+   "medicamento": "clarithromycin",
+   "secao": "clinical_pharmacology",
+   "texto": "Tissue and Serum Concentrations of Clarithromycin CONCENTRATION (after 250 mg every 12 hours) Tissue Type Tissue (mcg/g) Serum (mcg/mL) Tonsil 1.6 0.8 Lung 8.8 1.7 Metabolism and Elimination Steady-state peak plasma clarithromycin concentrations were attained within 3 days and were approximately 1 mcg/mL to 2 mcg/mL with a 250 mg dose administered every 12 hours and 3 mcg/mL to 4 mcg/mL with a 500 mg dose administered every 8 hours to 12 hours. For information about other drugs indicated in combination with clarithromycin, refer to their full prescribing information, CLINICAL PHARMACOLOGY section. 12.4 Microbiology Mechanism of Action Clarithromycin exerts its antibacterial action by binding to the 50S ribosomal subunit of susceptible bacteria resulting in inhibition of protein synthesis."
+  },
+  {
+   "id": "clarithromycin:clinical_pharmacology:1",
+   "medicamento": "clarithromycin",
+   "secao": "clinical_pharmacology",
+   "texto": "Gram-Positive Bacteria Staphylococcus aureus Streptococcus pneumoniae Streptococcus pyogenes Gram-Negative Bacteria Haemophilus influenzae Haemophilus parainfluenzae Moraxella catarrhalis Other Microorganisms Chlamydophila pneumoniae Helicobacter pylori Mycobacterium avium complex (MAC) consisting of M. avium and M. intracellulare Mycoplasma pneumoniae At least 90 percent of the microorganisms listed below exhibit in vitro minimum inhibitory concentrations (MICs) less than or equal to the clarithromycin susceptible MIC breakpoint for organisms of similar type to those shown in Table 11."
+  },
+  {
+   "id": "clarithromycin:pharmacokinetics:0",
+   "medicamento": "clarithromycin",
+   "secao": "pharmacokinetics",
+   "texto": "Tissue and Serum Concentrations of Clarithromycin CONCENTRATION (after 250 mg every 12 hours) Tissue Type Tissue (mcg/g) Serum (mcg/mL) Tonsil 1.6 0.8 Lung 8.8 1.7 Metabolism and Elimination Steady-state peak plasma clarithromycin concentrations were attained within 3 days and were approximately 1 mcg/mL to 2 mcg/mL with a 250 mg dose administered every 12 hours and 3 mcg/mL to 4 mcg/mL with a 500 mg dose administered every 8 hours to 12 hours."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "clarithromycin:drug_interactions:0",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Co-administration of clarithromycin is known to inhibit CYP3A",
+   "efeito": "",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "clarithromycin is known to inhibit Pgp",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "When clarithromycin and digoxin are co-administered, inhibition of Pgp by clarithromycin may lead to increased exposure of digoxin",
+   "efeito": "increased digoxin exposure leading to toxicity",
+   "confianca": 0.95,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:0",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "postmarketing reports of torsades de pointes occurring with concurrent use of clarithromycin and quinidine",
+   "efeito": "risk of torsades de pointes",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "postmarketing reports of hypoglycemia with the concomitant administration of clarithromycin and disopyramide",
+   "efeito": "hypoglycemia",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:7",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "nifedipine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Hypotension and peripheral edema were observed when clarithromycin was taken concomitantly with nifedipine",
+   "efeito": "Hypotension and peripheral edema",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:7",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ergotamine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration of clarithromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity",
+   "efeito": "Acute ergot toxicity characterized by vasospasm and ischemia",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:7",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dihydroergotamine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration of clarithromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity",
+   "efeito": "Acute ergot toxicity characterized by vasospasm and ischemia",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:8",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Clarithromycin may increase the exposure of these drugs by inhibition of CYP3A metabolism",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:8",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with cyclosporine.",
+   "efeito": "CYP3A based interaction",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:8",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tacrolimus",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been spontaneous or published reports of CYP3A based interactions of clarithromycin with tacrolimus.",
+   "efeito": "CYP3A based interaction",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:9",
+   "origem": "sildenafil",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:9",
+   "origem": "tadalafil",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:9",
+   "origem": "vardenafil",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Each of these phosphodiesterase inhibitors is primarily metabolized by CYP3A",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:9",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A will be inhibited by concomitant administration of clarithromycin.",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:10",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "theophylline",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Clarithromycin use in patients who are receiving theophylline may be associated with an increase of serum theophylline concentrations",
+   "efeito": "Increase of serum theophylline concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:10",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "triazolam",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been postmarketing reports of drug interactions and central nervous system (CNS) effects (e.g., somnolence and confusion) with the concomitant use of clarithromycin and triazolam.",
+   "efeito": "Central nervous system effects such as somnolence and confusion",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:11",
+   "origem": "rifabutin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clarithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of rifabutin and clarithromycin resulted in an increase in rifabutin, and decrease in clarithromycin serum levels together with an increased risk of uveitis",
+   "efeito": "Increase in rifabutin levels, decrease in clarithromycin levels, and increased risk of uveitis",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:12",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clarithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Itraconazole may increase the plasma concentrations of clarithromycin.",
+   "efeito": "Increased plasma concentrations of clarithromycin",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:14",
+   "origem": "etravirine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clarithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Clarithromycin exposure was decreased by etravirine; however, concentrations of the active metabolite, 14-OH-clarithromycin, were increased.",
+   "efeito": "Decreased clarithromycin exposure and increased 14-OH-clarithromycin concentrations",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:15",
+   "origem": "rifapentine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "rifapentine ... will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:15",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rifabutin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "there have been spontaneous or published reports of CYP3A based interactions of clarithromycin with rifabutin",
+   "efeito": "potential drug-drug interaction affecting concentrations",
+   "confianca": 0.85,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:contraindications:0",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Clarithromycin tablets are contraindicated in patients with a known hypersensitivity to clarithromycin",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:contraindications:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "renal impairment",
+   "tipo_destino": "Condicao",
+   "evidencia": "Concomitant administration of clarithromycin tablets and colchicine is contraindicated in patients with renal or hepatic impairment",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:0",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carbamazepine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "may be associated with elevations in drug concentrations ... especially if the CYP3A substrate has a narrow safety margin (e.g., carbamazepine)",
+   "efeito": "elevated carbamazepine concentrations may increase therapeutic and adverse effects",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:15",
+   "origem": "efavirenz",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "efavirenz ... will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:15",
+   "origem": "nevirapine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "nevirapine ... will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:15",
+   "origem": "rifampicin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "rifampicin ... will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:drug_interactions:15",
+   "origem": "rifabutin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "rifabutin ... will increase the metabolism of clarithromycin, thus decreasing plasma concentrations of clarithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "clarithromycin:contraindications:2",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "myopathy",
+   "tipo_destino": "Condicao",
+   "evidencia": "Concomitant administration of clarithromycin tablets with HMG-CoA reductase inhibitors ... is contraindicated, due to the increased risk of myopathy, including rhabdomyolysis",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "clarithromycin:drug_interactions:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "postmarketing reports of torsades de pointes occurring with concurrent use of clarithromycin and disopyramide",
+   "efeito": "risk of torsades de pointes",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

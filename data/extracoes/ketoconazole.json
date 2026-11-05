@@ -1,0 +1,149 @@
+{
+ "generico": "ketoconazole",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "ketoconazole:drug_interactions:0",
+   "medicamento": "ketoconazole",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine cisapride and pimozide is contraindicated with ketoconazole tablets. Coadministration with ketoconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both therapeutic and adverse effects to such an extent that a potentially serious adverse reaction may occur. For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and sometimes resulting in life-threatening ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia. (See PRECAUTIONS: DRUG INTERACTIONS .) Coadministration of ketoconazole tablets with lurasidone is contraindicated since it may result in an increase in lurasidone exposure and the potential for serious adverse reactions (see PRECAUTIONS: DRUG INTERACTIONS )."
+  },
+  {
+   "id": "ketoconazole:drug_interactions:1",
+   "medicamento": "ketoconazole",
+   "secao": "drug_interactions",
+   "texto": "Additionally, the following other drugs are contraindicated with ketoconazole tablets: methadone, disopyramide, dronedarone, ergot alkaloids such as dihydroergotamine, ergometrine, ergotamine, methylergometrine, irinotecan, lurasidone, oral midazolam, alprazolam, triazolam, felodipine, nisoldipine, ranolazine, tolvaptan, eplerenone, lovastatin, simvastatin and colchicine. (See PRECAUTIONS: DRUG INTERACTIONS .) Enhanced Sedation Coadministration of ketoconazole tablets with oral midazolam, oral triazolam or alprazolam has resulted in elevated plasma concentrations of these drugs. This may potentiate and prolong hypnotic and sedative effects, especially with repeated dosing or chronic administration of these agents. Concomitant administration of ketoconazole tablets with oral triazolam, oral midazolam or alprazolam is contraindicated. (See PRECAUTIONS: DRUG INTERACTIONS .) Myopathy Coadministration of CYP3A4 metabolized HMG-CoA reductase inhibitors such as simvastatin, and lovastatin is contraindicated with ketoconazole tablets."
+  },
+  {
+   "id": "ketoconazole:drug_interactions:2",
+   "medicamento": "ketoconazole",
+   "secao": "drug_interactions",
+   "texto": "(See PRECAUTIONS: DRUG INTERACTIONS .) Ergotism Concomitant administration of ergot alkaloids such as dihydroergotamine and ergotamine with ketoconazole tablets is contraindicated. (See PRECAUTIONS: DRUG INTERACTIONS .) Liver Disease The use of ketoconazole tablets is contraindicated in patients with acute or chronic liver disease. Hypersensitivity Ketoconazole tablets USP, 200 mg is contraindicated in patients who have shown hypersensitivity to the drug."
+  },
+  {
+   "id": "ketoconazole:contraindications:0",
+   "medicamento": "ketoconazole",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Drug Interactions Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine cisapride and pimozide is contraindicated with ketoconazole tablets. Coadministration with ketoconazole can cause elevated plasma concentrations of these drugs and may increase or prolong both therapeutic and adverse effects to such an extent that a potentially serious adverse reaction may occur. For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and sometimes resulting in life-threatening ventricular tachyarrhythmias including occurrences of torsades de pointes, a potentially fatal arrhythmia. (See PRECAUTIONS: DRUG INTERACTIONS .) Coadministration of ketoconazole tablets with lurasidone is contraindicated since it may result in an increase in lurasidone exposure and the potential for serious adverse reactions (see PRECAUTIONS: DRUG INTERACTIONS )."
+  },
+  {
+   "id": "ketoconazole:contraindications:1",
+   "medicamento": "ketoconazole",
+   "secao": "contraindications",
+   "texto": "Additionally, the following other drugs are contraindicated with ketoconazole tablets: methadone, disopyramide, dronedarone, ergot alkaloids such as dihydroergotamine, ergometrine, ergotamine, methylergometrine, irinotecan, lurasidone, oral midazolam, alprazolam, triazolam, felodipine, nisoldipine, ranolazine, tolvaptan, eplerenone, lovastatin, simvastatin and colchicine. (See PRECAUTIONS: DRUG INTERACTIONS .) Enhanced Sedation Coadministration of ketoconazole tablets with oral midazolam, oral triazolam or alprazolam has resulted in elevated plasma concentrations of these drugs. This may potentiate and prolong hypnotic and sedative effects, especially with repeated dosing or chronic administration of these agents. Concomitant administration of ketoconazole tablets with oral triazolam, oral midazolam or alprazolam is contraindicated. (See PRECAUTIONS: DRUG INTERACTIONS .) Myopathy Coadministration of CYP3A4 metabolized HMG-CoA reductase inhibitors such as simvastatin, and lovastatin is contraindicated with ketoconazole tablets."
+  },
+  {
+   "id": "ketoconazole:contraindications:2",
+   "medicamento": "ketoconazole",
+   "secao": "contraindications",
+   "texto": "(See PRECAUTIONS: DRUG INTERACTIONS .) Ergotism Concomitant administration of ergot alkaloids such as dihydroergotamine and ergotamine with ketoconazole tablets is contraindicated. (See PRECAUTIONS: DRUG INTERACTIONS .) Liver Disease The use of ketoconazole tablets is contraindicated in patients with acute or chronic liver disease. Hypersensitivity Ketoconazole tablets USP, 200 mg is contraindicated in patients who have shown hypersensitivity to the drug."
+  },
+  {
+   "id": "ketoconazole:clinical_pharmacology:0",
+   "medicamento": "ketoconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "H2-receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases. After pretreatment with omeprazole, a proton pump inhibitor, the bioavailability of a single 200 mg dose of ketoconazole under fasted conditions was decreased to 17% of the bioavailability of ketoconazole administered alone. Metabolism Following absorption from the gastrointestinal tract, ketoconazole tablets are converted into several inactive metabolites. In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of ketoconazole. Ketoconazole has not been demonstrated to induce its own metabolism. Electrocardiogram Pre-clinical electrophysiological studies have shown that ketoconazole inhibits the rapidly activating component of the cardiac delayed rectifier potassium current, prolongs the action potential duration, and may prolong the QT c interval."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "ketoconazole:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dofetilide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine cisapride and pimozide is contraindicated with ketoconazole tablets.",
+   "efeito": "increased plasma concentrations and QT prolongation",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ketoconazole:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine cisapride and pimozide is contraindicated with ketoconazole tablets.",
+   "efeito": "increased plasma concentrations and QT prolongation",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ketoconazole:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cisapride",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine cisapride and pimozide is contraindicated with ketoconazole tablets.",
+   "efeito": "increased plasma concentrations and QT prolongation",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ketoconazole:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pimozide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates such as dofetilide, quinidine cisapride and pimozide is contraindicated with ketoconazole tablets.",
+   "efeito": "increased plasma concentrations and QT prolongation",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ketoconazole:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lurasidone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of ketoconazole tablets with lurasidone is contraindicated since it may result in an increase in lurasidone exposure and the potential for serious adverse reactions",
+   "efeito": "increased lurasidone exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ketoconazole:drug_interactions:2",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "liver disease",
+   "tipo_destino": "Condicao",
+   "evidencia": "The use of ketoconazole tablets is contraindicated in patients with acute or chronic liver disease.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ketoconazole:clinical_pharmacology:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of ketoconazole.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ketoconazole:clinical_pharmacology:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "QT prolongation",
+   "tipo_destino": "Efeito",
+   "evidencia": "ketoconazole inhibits the rapidly activating component of the cardiac delayed rectifier potassium current, prolongs the action potential duration, and may prolong the QT c interval.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

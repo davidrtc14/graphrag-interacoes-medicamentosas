@@ -1,0 +1,239 @@
+{
+ "generico": "sotalol",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "sotalol:drug_interactions:0",
+   "medicamento": "sotalol",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Class I or III Antiarrhythmics or other drugs that prolong the QT interval: Avoid concomitant use ( 7.1 ) Digoxin, calcium channel blocker: increased risk of bradycardia, hypotension, heart failure ( 7.2 ) Dosage of insulin or antidiabetic drugs may need adjustment ( 7.4 ) Aluminum- or magnesium-based antacids reduce sotalol exposure ( 7.7 ) 7.1 Antiarrhythmics and Other QT Prolonging Drugs Discontinue Class I or Class III antiarrhythmic agents for at least three half-lives prior to dosing with sotalol. Class Ia antiarrhythmic drugs, such as disopyramide, quinidine, and procainamide, and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol hydrochloride/sotalol hydrochloride AF, because of their potential to prolong refractoriness [see Warnings and Precautions ( 5.2 )]. 7.2 Negative Chronotropes Digitalis glycosides, diltiazem, verapamil, and beta-blockers slow atrioventricular conduction and decrease heart rate."
+  },
+  {
+   "id": "sotalol:drug_interactions:1",
+   "medicamento": "sotalol",
+   "secao": "drug_interactions",
+   "texto": "Concomitant use with negative chronotropes can increase the risk of bradycardia or hypotension. 7.3 Catecholamine-Depleting Agents Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone. Monitor such patients for evidence of hypotension and/or marked bradycardia which may produce syncope. 7.4 Insulin and Oral Antidiabetics Hyperglycemia may occur, and the dosage of insulin or antidiabetic drugs may require adjustment [see Warnings and Precautions 5.7 )] . 7.5 Beta-2-Receptor Stimulants Beta-agonists such as albuterol, terbutaline and isoproterenol may have to be administered in increased dosages when used concomitantly with sotalol. 7.6 Clonidine Concomitant use with sotalol increases the risk of bradycardia and AV block."
+  },
+  {
+   "id": "sotalol:drug_interactions:2",
+   "medicamento": "sotalol",
+   "secao": "drug_interactions",
+   "texto": "Because beta-blockers may potentiate the rebound hypertension sometimes observed after clonidine discontinuation, withdraw sotalol several days before the gradual withdrawal of clonidine to reduce the risk of rebound hypertension. 7.7 Antacids Avoid administration of oral sotalol within 2 hours of antacids containing aluminum oxide and magnesium hydroxide. 7.8 Drug/Laboratory Test Interactions The presence of sotalol in the urine may result in falsely elevated levels of urinary metanephrine when measured by fluorimetric or photometric methods. 7.5 Beta-2-Receptor Stimulants Beta-agonists such as albuterol, terbutaline and isoproterenol may have to be administered in increased dosages when used concomitantly with sotalol."
+  },
+  {
+   "id": "sotalol:contraindications:0",
+   "medicamento": "sotalol",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Sotalol hydrochloride/Sotalol hydrochloride (AF) tablets are contraindicated in patients with: Sinus bradycardia, sick sinus syndrome, second and third degree AV block, unless a functioning pacemaker is present Congenital or acquired long QT syndromes Cardiogenic shock or decompensated heart failure Serum potassium <4 mEq/L Bronchial asthma or related bronchospastic conditions Hypersensitivity to sotalol For the treatment of AFIB/AFL, sotalol hydrochloride/sotalol hydrochloride AF tablets are also contraindicated in patients with: Baseline QT interval >450 msec For the treatment of AFIB/AFL or ventricular arrythmias Sinus bradycardia, 2 nd or 3 rd degree AV block, sick sinus syndrome ( 4 ) Congenital or acquired long QT syndrome ( 4 ) Serum potassium <4 mEq/L (4) Cardiogenic shock, decompensated heart failure ( 4 ) Bronchial asthma or related bronchospastic conditions ( 4 ) Hypersensitivity to sotalol ( 4 ) For the treatment of AFIB/AFL also contraindicated for: QT interval >450 msec ( 4 )"
+  },
+  {
+   "id": "sotalol:clinical_pharmacology:0",
+   "medicamento": "sotalol",
+   "secao": "clinical_pharmacology",
+   "texto": "Exercise and isoproterenol induced tachycardia are antagonized by sotalol hydrochloride, and total peripheral resistance increases by a small amount. Metabolism Sotalol is not metabolized and is not expected to inhibit or induce any CYP450 enzymes."
+  },
+  {
+   "id": "sotalol:pharmacokinetics:0",
+   "medicamento": "sotalol",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism Sotalol is not metabolized and is not expected to inhibit or induce any CYP450 enzymes."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "sotalol:drug_interactions:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Class Ia antiarrhythmic drugs, such as disopyramide, quinidine, and procainamide, and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol",
+   "efeito": "potential to prolong refractoriness",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Class Ia antiarrhythmic drugs, such as disopyramide, quinidine, and procainamide, and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol",
+   "efeito": "potential to prolong refractoriness",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "procainamide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Class Ia antiarrhythmic drugs, such as disopyramide, quinidine, and procainamide, and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol",
+   "efeito": "potential to prolong refractoriness",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "amiodarone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Class Ia antiarrhythmic drugs, such as disopyramide, quinidine, and procainamide, and other Class III drugs (for example, amiodarone) are not recommended as concomitant therapy with sotalol",
+   "efeito": "potential to prolong refractoriness",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "diltiazem",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Digitalis glycosides, diltiazem, verapamil, and beta-blockers slow atrioventricular conduction and decrease heart rate.",
+   "efeito": "slow atrioventricular conduction and decrease heart rate",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "verapamil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Digitalis glycosides, diltiazem, verapamil, and beta-blockers slow atrioventricular conduction and decrease heart rate.",
+   "efeito": "slow atrioventricular conduction and decrease heart rate",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:1",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "reserpine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone.",
+   "efeito": "excessive reduction of resting sympathetic nervous tone",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:1",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "guanethidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of catecholamine-depleting drugs, such as reserpine and guanethidine, with a beta-blocker may produce an excessive reduction of resting sympathetic nervous tone.",
+   "efeito": "excessive reduction of resting sympathetic nervous tone",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:1",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "albuterol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Beta-agonists such as albuterol, terbutaline and isoproterenol may have to be administered in increased dosages when used concomitantly with sotalol.",
+   "efeito": "may require increased dosages",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:1",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "terbutaline",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Beta-agonists such as albuterol, terbutaline and isoproterenol may have to be administered in increased dosages when used concomitantly with sotalol.",
+   "efeito": "may require increased dosages",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:1",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "isoproterenol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Beta-agonists such as albuterol, terbutaline and isoproterenol may have to be administered in increased dosages when used concomitantly with sotalol.",
+   "efeito": "may require increased dosages",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:drug_interactions:1",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clonidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use with sotalol increases the risk of bradycardia and AV block.",
+   "efeito": "increased risk of bradycardia and AV block",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:contraindications:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sinus bradycardia",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sotalol hydrochloride/Sotalol hydrochloride (AF) tablets are contraindicated in patients with: Sinus bradycardia",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:contraindications:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sick sinus syndrome",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sotalol hydrochloride/Sotalol hydrochloride (AF) tablets are contraindicated in patients with: ... sick sinus syndrome",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:contraindications:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sotalol hydrochloride/Sotalol hydrochloride (AF) tablets are contraindicated in patients with: ... Cardiogenic shock",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "sotalol:contraindications:0",
+   "origem": "sotalol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "bronchial asthma",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sotalol hydrochloride/Sotalol hydrochloride (AF) tablets are contraindicated in patients with: ... Bronchial asthma",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

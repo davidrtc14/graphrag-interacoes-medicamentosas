@@ -1,0 +1,113 @@
+{
+ "generico": "candesartan",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "candesartan:drug_interactions:0",
+   "medicamento": "candesartan",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Lithium: Increases in serum lithium concentrations and toxicity ( 7 ). NSAIDs use may lead to increased risk of renal impairment and loss of antihypertensive effect ( 7 ). Combined inhibition of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia ( 7 ). 7.1 Agents Increasing Serum Potassium Coadministration of candesartan cilexetil with potassium sparing diuretics, potassium supplements, potassium-containing salt substitutes or other drugs that raise serum potassium levels may result in hyperkalemia. Monitor serum potassium in such patients. 7.2 Lithium Increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including candesartan cilexetil."
+  },
+  {
+   "id": "candesartan:drug_interactions:1",
+   "medicamento": "candesartan",
+   "secao": "drug_interactions",
+   "texto": "Monitor serum lithium levels. 7.3 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including candesartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving candesartan and NSAID therapy. The antihypertensive effect of angiotensin II receptor antagonists, including candesartan may be attenuated by NSAIDs including selective COX-2 inhibitors. 7.4 Combination Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy."
+  },
+  {
+   "id": "candesartan:drug_interactions:2",
+   "medicamento": "candesartan",
+   "secao": "drug_interactions",
+   "texto": "Triple combination of candesartan cilexetil with an ACE-inhibitor and a mineralocorticoid receptor antagonist is generally not recommended. Closely monitor blood pressure, renal function and electrolytes in patients on candesartan cilexetil and other agents that affect the RAS. Do not co-administer aliskiren with candesartan cilexetil in patients with diabetes. Avoid use of aliskiren with candesartan cilexetil in patients with renal impairment (GFR <60 mL/min) [ see Contraindications ( 4 )] ."
+  },
+  {
+   "id": "candesartan:contraindications:0",
+   "medicamento": "candesartan",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Known hypersensitivity to product components ( 4 ). Do not coadminister aliskiren with candesartan cilexetil in patients with diabetes ( 4 ). Candesartan cilexetil is contraindicated in patients who are hypersensitive to candesartan. Do not coadminister aliskiren with candesartan cilexetil in patients with diabetes [see Drug Interactions ( 7.4 )]."
+  },
+  {
+   "id": "candesartan:clinical_pharmacology:0",
+   "medicamento": "candesartan",
+   "secao": "clinical_pharmacology",
+   "texto": "Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension. ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE. Because candesartan does not inhibit ACE (kininase II), it does not affect the response to bradykinin. Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and angiotensin II circulating levels do not overcome the effect of candesartan on blood pressure. 12.2 Pharmacodynamics Candesartan inhibits the pressor effects of angiotensin II infusion in a dose-dependent manner. After 1 week of once daily dosing with 8 mg of candesartan cilexetil, the pressor effect was inhibited by approximately 90% at peak with approximately 50% inhibition persisting for 24 hours."
+  },
+  {
+   "id": "candesartan:clinical_pharmacology:1",
+   "medicamento": "candesartan",
+   "secao": "clinical_pharmacology",
+   "texto": "Metabolism and Excretion Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected. It undergoes minor hepatic metabolism by O-deethylation to an inactive metabolite."
+  },
+  {
+   "id": "candesartan:pharmacokinetics:0",
+   "medicamento": "candesartan",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism and Excretion Because candesartan is not significantly metabolized by the cytochrome P450 system and at therapeutic concentrations has no effects on P450 enzymes, interactions with drugs that inhibit or are metabolized by those enzymes would not be expected. It undergoes minor hepatic metabolism by O-deethylation to an inactive metabolite."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "candesartan:drug_interactions:0",
+   "origem": "candesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lithium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including candesartan cilexetil.",
+   "efeito": "increased serum lithium concentrations and toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "candesartan:drug_interactions:1",
+   "origem": "candesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "aliskiren",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function",
+   "efeito": "increased risks of hypotension, hyperkalemia, and changes in renal function",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "candesartan:drug_interactions:2",
+   "origem": "candesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "renal impairment",
+   "tipo_destino": "Condicao",
+   "evidencia": "Avoid use of aliskiren with candesartan cilexetil in patients with renal impairment (GFR <60 mL/min)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "candesartan:contraindications:0",
+   "origem": "candesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "diabetes",
+   "tipo_destino": "Condicao",
+   "evidencia": "Do not coadminister aliskiren with candesartan cilexetil in patients with diabetes",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "candesartan:contraindications:0",
+   "origem": "candesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Candesartan cilexetil is contraindicated in patients who are hypersensitive to candesartan.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": []
+}

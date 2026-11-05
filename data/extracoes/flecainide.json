@@ -1,0 +1,161 @@
+{
+ "generico": "flecainide",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "flecainide:drug_interactions:0",
+   "medicamento": "flecainide",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions Flecainide acetate has been administered to patients receiving digitalis preparations or beta-adrenergic blocking agents without adverse effects. During administration of multiple oral doses of flecainide acetate to healthy subjects stabilized on a maintenance dose of digoxin , a 13% to 19% increase in plasma digoxin levels occurred at six hours postdose. In a study involving healthy subjects receiving flecainide acetate and propranolol concurrently, plasma flecainide levels were increased about 20% and propranolol levels were increased about 30% compared to control values. In this formal interaction study, flecainide acetate and propranolol were each found to have negative inotropic effects; when the drugs were administered together, the effects were additive. The effects of concomitant administration of flecainide acetate and propranolol on the PR interval were less than additive. In flecainide acetate clinical trials, patients who were receiving beta blockers concurrently did not experience an increased incidence of side effects. Nevertheless, the possibility of additive negative inotropic effects of beta blockers and flecainide should be recognized."
+  },
+  {
+   "id": "flecainide:drug_interactions:1",
+   "medicamento": "flecainide",
+   "secao": "drug_interactions",
+   "texto": "Flecainide is not extensively bound to plasma proteins. In vitro studies with several drugs which may be administered concomitantly showed that the extent of flecainide binding to human plasma proteins is either unchanged or only slightly less. Consequently, interactions with other drugs which are highly protein bound (e.g., anticoagulants ) would not be expected. Flecainide acetate has been used in a large number of patients receiving diuretics without apparent interaction. Limited data in patients receiving known enzyme inducers ( phenytoin, phenobarbital, carbamazepine ) indicate only a 30% increase in the rate of flecainide elimination. In healthy subjects receiving cimetidine (1 gm daily) for one week, plasma flecainide levels increased by about 30% and half-life increased by about 10%. When amiodarone is added to flecainide acetate therapy, plasma flecainide levels may increase two-fold or more in some patients, if flecainide acetate dosage is not reduced."
+  },
+  {
+   "id": "flecainide:drug_interactions:2",
+   "medicamento": "flecainide",
+   "secao": "drug_interactions",
+   "texto": "(See DOSAGE AND ADMINISTRATION ) Drugs that inhibit cytochrome P450IID6, such as quinidine , might increase the plasma concentrations of flecainide in patients that are on chronic flecainide therapy; especially if these patients are extensive metabolizers. There has been little experience with the coadministration of flecainide acetate and either disopyramide or verapamil . Because both of these drugs have negative inotropic properties and the effects of coadministration with flecainide acetate are unknown, neither disopyramide nor verapamil should be administered concurrently with flecainide acetate unless, in the judgment of the physician, the benefits of this combination outweigh the risks. There has been too little experience with the coadministration of flecainide acetate with nifedipine or diltiazem to recommend concomitant use."
+  },
+  {
+   "id": "flecainide:contraindications:0",
+   "medicamento": "flecainide",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Flecainide Acetate Tablets are contraindicated in patients with pre-existing second- or third-degree AV block, or with right bundle branch block when associated with a left hemiblock (bifascicular block), unless a pacemaker is present to sustain the cardiac rhythm should complete heart block occur. Flecainide Acetate Tablets are also contraindicated in the presence of cardiogenic shock or known hypersensitivity to the drug."
+  },
+  {
+   "id": "flecainide:clinical_pharmacology:0",
+   "medicamento": "flecainide",
+   "secao": "clinical_pharmacology",
+   "texto": "In limited studies of patients with a history of ventricular tachycardia, flecainide acetate has been successful 30 to 40% of the time in fully suppressing the inducibility of arrhythmias by programmed electrical stimulation. (See WARNINGS .) Metabolism in Humans Following oral administration, the absorption of flecainide acetate is nearly complete. Milk, however, may inhibit absorption in infants. In vitro metabolic studies have confirmed that cytochrome P450IID6 is involved in the metabolism of flecainide acetate. Since flecainide is also extensively metabolized, there is no simple relationship between creatinine clearance and the rate of flecainide elimination from plasma. Since milk may inhibit absorption in infants, a reduction in flecainide acetate dosage should be considered when milk is removed from the diet (e.g., gastroenteritis, weaning)."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "flecainide:drug_interactions:0",
+   "origem": "flecainide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "During administration of multiple oral doses of flecainide acetate to healthy subjects stabilized on a maintenance dose of digoxin , a 13% to 19% increase in plasma digoxin levels occurred",
+   "efeito": "increase in plasma digoxin levels",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:drug_interactions:0",
+   "origem": "flecainide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "In a study involving healthy subjects receiving flecainide acetate and propranolol concurrently, plasma flecainide levels were increased about 20% and propranolol levels were increased about 30%",
+   "efeito": "additive negative inotropic effects",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:drug_interactions:1",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Limited data in patients receiving known enzyme inducers ( phenytoin, phenobarbital, carbamazepine ) indicate only a 30% increase in the rate of flecainide elimination.",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:drug_interactions:1",
+   "origem": "phenobarbital",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Limited data in patients receiving known enzyme inducers ( phenytoin, phenobarbital, carbamazepine ) indicate only a 30% increase in the rate of flecainide elimination.",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:drug_interactions:1",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Limited data in patients receiving known enzyme inducers ( phenytoin, phenobarbital, carbamazepine ) indicate only a 30% increase in the rate of flecainide elimination.",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:drug_interactions:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "flecainide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "When amiodarone is added to flecainide acetate therapy, plasma flecainide levels may increase two-fold or more in some patients",
+   "efeito": "increase in plasma flecainide levels",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:drug_interactions:2",
+   "origem": "quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drugs that inhibit cytochrome P450IID6, such as quinidine , might increase the plasma concentrations of flecainide in patients that are on chronic flecainide therapy",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:contraindications:0",
+   "origem": "flecainide",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "second- or third-degree AV block",
+   "tipo_destino": "Condicao",
+   "evidencia": "Flecainide Acetate Tablets are contraindicated in patients with pre-existing second- or third-degree AV block",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:contraindications:0",
+   "origem": "flecainide",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Flecainide Acetate Tablets are also contraindicated in the presence of cardiogenic shock",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "flecainide:clinical_pharmacology:0",
+   "origem": "flecainide",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "In vitro metabolic studies have confirmed that cytochrome P450IID6 is involved in the metabolism of flecainide acetate.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

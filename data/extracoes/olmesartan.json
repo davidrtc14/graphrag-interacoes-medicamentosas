@@ -1,0 +1,155 @@
+{
+ "generico": "olmesartan",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "olmesartan:drug_interactions:0",
+   "medicamento": "olmesartan",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Agents increasing potassium levels may lead to increase in serum potassium (7.1) . NSAID use may lead to increased risk of renal impairment and loss of antihypertensive effect (7.2) . Dual inhibition of the renin-angiotensin system: Increased risk of renal impairment, hypotension, and hyperkalemia (7.3) . Lithium: Increases in serum lithium concentrations and lithium toxicity (7.4) . Colesevelam hydrochloride: Consider administering olmesartan at least 4 hours before colesevelam hydrochloride dose (7.5) . 7.1 Agents Increasing Serum Potassium Concomitant use of olmesartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium."
+  },
+  {
+   "id": "olmesartan:drug_interactions:1",
+   "medicamento": "olmesartan",
+   "secao": "drug_interactions",
+   "texto": "If co-medication is considered necessary, monitoring of serum potassium is advisable. 7.2 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, co-administration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including olmesartan medoxomil, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving olmesartan medoxomil and NSAID therapy. The antihypertensive effect of angiotensin II receptor antagonists, including olmesartan medoxomil, may be attenuated by NSAIDs including selective COX-2 inhibitors. 7.3 Dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy."
+  },
+  {
+   "id": "olmesartan:drug_interactions:2",
+   "medicamento": "olmesartan",
+   "secao": "drug_interactions",
+   "texto": "Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy. In general, avoid combined use of RAS inhibitors. Closely monitor blood pressure, renal function and electrolytes in patients on olmesartan medoxomil and other agents that affect the RAS. Do not co-administer aliskiren with olmesartan medoxomil in patients with diabetes [see Contraindications (4) ] . Avoid use of aliskiren with olmesartan medoxomil in patients with renal impairment (GFR <60 ml/min). 7.4 Lithium Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists, including olmesartan medoxomil. Monitor serum lithium levels during concomitant use. 7.5 Colesevelam Hydrochloride Concurrent administration of bile acid sequestering agent colesevelam hydrochloride reduces the systemic exposure and peak plasma concentration of olmesartan. Administration of olmesartan at least 4 hours prior to colesevelam hydrochloride decreased the drug interaction effect."
+  },
+  {
+   "id": "olmesartan:drug_interactions:3",
+   "medicamento": "olmesartan",
+   "secao": "drug_interactions",
+   "texto": "Consider administering olmesartan at least 4 hours before the colesevelam hydrochloride dose [see Clinical Pharmacology (12.3) ] ."
+  },
+  {
+   "id": "olmesartan:contraindications:0",
+   "medicamento": "olmesartan",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Do not co-administer aliskiren with olmesartan medoxomil in patients with diabetes [See Drug Interactions (7.3) ]. Do not co-administer aliskiren with olmesartan medoxomil in patients with diabetes (4) ."
+  },
+  {
+   "id": "olmesartan:clinical_pharmacology:0",
+   "medicamento": "olmesartan",
+   "secao": "clinical_pharmacology",
+   "texto": "Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is a mechanism of many drugs used to treat hypertension. ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE. Because olmesartan medoxomil does not inhibit ACE (kininase II), it does not affect the response to bradykinin. Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and circulating angiotensin II levels do not overcome the effect of olmesartan on blood pressure. 12.2 Pharmacodynamics Olmesartan medoxomil doses of 2.5 mg to 40 mg inhibit the pressor effects of angiotensin I infusion. The duration of the inhibitory effect was related to dose, with doses of olmesartan medoxomil >40 mg giving >90% inhibition at 24 hours. Metabolism and Excretion Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan."
+  },
+  {
+   "id": "olmesartan:clinical_pharmacology:1",
+   "medicamento": "olmesartan",
+   "secao": "clinical_pharmacology",
+   "texto": "Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected."
+  },
+  {
+   "id": "olmesartan:pharmacokinetics:0",
+   "medicamento": "olmesartan",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism and Excretion Following the rapid and complete conversion of olmesartan medoxomil to olmesartan during absorption, there is virtually no further metabolism of olmesartan. Olmesartan medoxomil is not metabolized by the cytochrome P450 system and has no effects on P450 enzymes; thus, interactions with drugs that inhibit, induce, or are metabolized by those enzymes are not expected."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "olmesartan:drug_interactions:0",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "spironolactone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of olmesartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride)",
+   "efeito": "increased serum potassium",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "olmesartan:drug_interactions:0",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "triamterene",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of olmesartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride)",
+   "efeito": "increased serum potassium",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "olmesartan:drug_interactions:0",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "amiloride",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of olmesartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride)",
+   "efeito": "increased serum potassium",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "olmesartan:drug_interactions:0",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "heparin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium.",
+   "efeito": "increased serum potassium",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "olmesartan:drug_interactions:0",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lithium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Lithium: Increases in serum lithium concentrations and lithium toxicity (7.4)",
+   "efeito": "increased serum lithium concentrations and toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "olmesartan:drug_interactions:0",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colesevelam",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Colesevelam hydrochloride: Consider administering olmesartan at least 4 hours before colesevelam hydrochloride dose (7.5)",
+   "efeito": "reduced systemic exposure and peak plasma concentration of olmesartan",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "olmesartan:drug_interactions:2",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "aliskiren",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Do not co-administer aliskiren with olmesartan medoxomil in patients with diabetes",
+   "efeito": "increased risks of hypotension, hyperkalemia, and changes in renal function",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "olmesartan:contraindications:0",
+   "origem": "olmesartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "diabetes",
+   "tipo_destino": "Condicao",
+   "evidencia": "Do not co-administer aliskiren with olmesartan medoxomil in patients with diabetes",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

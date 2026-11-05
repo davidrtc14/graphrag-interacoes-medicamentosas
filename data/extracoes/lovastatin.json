@@ -1,0 +1,456 @@
+{
+ "generico": "lovastatin",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "lovastatin:drug_interactions:0",
+   "medicamento": "lovastatin",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions CYP3A4 Interactions Lovastatin is metabolized by CYP3A4 but has no CYP3A4 inhibitory activity; therefore it is not expected to affect the plasma concentrations of other drugs metabolized by CYP3A4. Strong inhibitors of CYP3A4 (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, clarithromycin, telithromycin, HIV protease inhibitors, boceprevir, telaprevir, nefazodone, erythromycin, and cobicistat-containing products), and grapefruit juice increase the risk of myopathy by reducing the elimination of lovastatin. (See CONTRAINDICATIONS , WARNINGS, Myopathy/Rhabdomyolysis , and CLINICAL PHARMACOLOGY, Pharmacokinetics .) Interactions With Lipid-Lowering Drugs That Can Cause Myopathy When Given Alone The risk of myopathy is also increased by the following lipid-lowering drugs that are not strong CYP3A4 inhibitors, but which can cause myopathy when given alone. See WARNINGS , Myopathy/Rhabdomyolysis. Gemfibrozil Other fibrates Niacin (nicotinic acid) (≥1 g/day) Other drug interactions Cyclosporine: The risk of myopathy/rhabdomyolysis is increased by concomitant administration of cyclosporine (see WARNINGS , Myopathy/Rhabdomyolysis )."
+  },
+  {
+   "id": "lovastatin:drug_interactions:1",
+   "medicamento": "lovastatin",
+   "secao": "drug_interactions",
+   "texto": "Danazol, Diltiazem, Dronedarone, or Verapamil: The risk of myopathy/rhabdomyolysis is increased by concomitant administration of danazol, diltiazem, dronedarone or verapamil particularly with higher doses of lovastatin (see WARNINGS , Myopathy/Rhabdomyolysis ; CLINICAL PHARMACOLOGY , Pharmacokinetics ). Amiodarone: The risk of myopathy/rhabdomyolysis is increased when amiodarone is used concomitantly with a closely related member of the HMG-CoA reductase inhibitor class (see WARNINGS , Myopathy/Rhabdomyolysis ). Coumarin Anticoagulants: In a small clinical trial in which lovastatin was administered to warfarin treated patients; no effect on prothrombin time was detected. However, another HMG-CoA reductase inhibitor has been found to produce a less than two seconds increase in prothrombin time in healthy volunteers receiving low doses of warfarin. Also, bleeding and/or increased prothrombin time have been reported in a few patients taking coumarin anticoagulants concomitantly with lovastatin."
+  },
+  {
+   "id": "lovastatin:drug_interactions:2",
+   "medicamento": "lovastatin",
+   "secao": "drug_interactions",
+   "texto": "It is recommended that in patients taking anticoagulants, prothrombin time be determined before starting lovastatin and frequently enough during early therapy to insure that no significant alteration of prothrombin time occurs. Once a stable prothrombin time has been documented, prothrombin times can be monitored at the intervals usually recommended for patients on coumarin anticoagulants. If the dose of lovastatin is changed, the same procedure should be repeated. Lovastatin therapy has not been associated with bleeding or with changes in prothrombin time in patients not taking anticoagulants. Colchicine: Cases of myopathy, including rhabdomyolysis, have been reported with lovastatin coadministered with colchicine. See WARNINGS , Myopathy/Rhabdomyolysis . Ranolazine: The risk of myopathy, including rhabdomyolysis, may be increased by concomitant administration of ranolazine. See WARNINGS , Myopathy/Rhabdomyolysis . Propranolol: In normal volunteers, there was no clinically significant pharmacokinetic or pharmacodynamic interaction with concomitant administration of single doses of lovastatin and propranolol."
+  },
+  {
+   "id": "lovastatin:drug_interactions:3",
+   "medicamento": "lovastatin",
+   "secao": "drug_interactions",
+   "texto": "Digoxin: In patients with hypercholesterolemia, concomitant administration of lovastatin and digoxin resulted in no effect on digoxin plasma concentrations. Oral Hypoglycemic Agents: In pharmacokinetic studies of lovastatin in hypercholesterolemic non-insulin dependent diabetic patients, there was no drug interaction with glipizide or with chlorpropamide (see CLINICAL PHARMACOLOGY , Clinical Studies )."
+  },
+  {
+   "id": "lovastatin:contraindications:0",
+   "medicamento": "lovastatin",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Hypersensitivity to any component of this medication. Active liver disease or unexplained persistent elevations of serum transaminases (see WARNINGS ). Concomitant administration with strong CYP3A4 inhibitors (e.g., itraconazole, ketoconazole, posaconazole, voriconazole, HIV protease inhibitors, boceprevir, telaprevir, erythromycin, clarithromycin, telithromycin ,nefazodone, and cobicistat-containing products) (see WARNINGS , Myopathy/Rhabdomyolysis ) . Pregnancy and lactation. ( see PRECAUTIONS, Pregnancy and Nursing Mothers ). Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia. Moreover, cholesterol and other products of the cholesterol biosynthesis pathway are essential components for fetal development, including synthesis of steroids and cell membranes. Because of the ability of inhibitors of HMG-CoA reductase such as lovastatin to decrease the synthesis of cholesterol and possibly other products of the cholesterol biosynthesis pathway, lovastatin is contraindicated during pregnancy and in nursing mothers."
+  },
+  {
+   "id": "lovastatin:contraindications:1",
+   "medicamento": "lovastatin",
+   "secao": "contraindications",
+   "texto": "Lovastatin should be administered to women of childbearing age only when such patients are highly unlikely to conceive. If the patient becomes pregnant while taking this drug, lovastatin should be discontinued immediately and the patient should be apprised of the potential hazard to the fetus (see PRECAUTIONS , Pregnancy )."
+  },
+  {
+   "id": "lovastatin:clinical_pharmacology:0",
+   "medicamento": "lovastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "The mechanism of the LDL-lowering effect of lovastatin may involve both reduction of VLDL-C concentration, and induction of the LDL receptor, leading to reduced production and/or increased catabolism of LDL-C. Lovastatin is a specific inhibitor of HMG-CoA reductase, the enzyme which catalyzes the conversion of HMG-CoA to mevalonate. Pharmacokinetics Lovastatin is a lactone, which is readily hydrolyzed in vivo to the corresponding β-hydroxyacid, a strong. inhibitor of HMG-CoA reductase. Inhibition of HMG-CoA reductase is the basis for an assay in pharmacokinetic studies of the β-hydroxyacid metabolites (active inhibitors) and, following base hydrolysis, active plus latent inhibitors (total inhibitors) in plasma following administration of lovastatin. In a single dose study in four hypercholesterolemic patients, it was estimated that less than 5% of an oral dose of lovastatin reaches the general circulation as active inhibitors. Following administration of lovastatin tablets the coefficient of variation, based on between-subject variability, was approximately 40% for the area under the curve (AUC) of total inhibitory activity in the general circulation."
+  },
+  {
+   "id": "lovastatin:clinical_pharmacology:1",
+   "medicamento": "lovastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "Peak plasma concentrations of both active and total inhibitors were attained within 2 to 4 hours of dose administration. While the recommended therapeutic dose range is 10 to 80 mg/day, linearity of inhibitory activity in the general circulation was established by a single dose study employing lovastatin tablet dosages from 60 to as high as 120 mg. With a once-a-day dosing regimen, plasma concentrations of total inhibitors over a dosing interval achieved a steady state between the second and third days of therapy and were about 1.5 times those following a single dose. When lovastatin was given under fasting conditions, plasma concentrations of total inhibitors were on average about two-thirds those found when lovastatin was administered immediately after a standard test meal. In a study of patients with severe renal insufficiency (creatinine clearance 10 to 30 mL/min), the plasma concentrations of total inhibitors after a single dose of lovastatin were approximately two-fold higher than those in healthy volunteers."
+  },
+  {
+   "id": "lovastatin:clinical_pharmacology:2",
+   "medicamento": "lovastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "In a study including 16 elderly patients between 70 to 78 years of age who received lovastatin 80 mg/day, the mean plasma level of HMG-CoA reductase inhibitory activity was increased approximately 45% compared with 18 patients between 18 to 30 years of age (see PRECAUTIONS , Geriatric Use ). Although the mechanism is not fully understood, cyclosporine has been shown to increase the AUC of HMG-CoA reductase inhibitors. The increase in AUC for lovastatin and lovastatin acid is presumably due, in part, to inhibition of CYP3A4. The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma. Strong inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy (see WARNINGS , Myopathy/Rhabdomyolysis and PRECAUTIONS , Drug Interactions ). Lovastatin is a substrate for cytochrome P450 isoform 3A4 (CYP3A4) (see PRECAUTIONS , Drug Interactions .) Grapefruit juice contains one or more components that inhibit CYP3A4 and can increase the plasma concentrations of drugs metabolized by CYP3A4."
+  },
+  {
+   "id": "lovastatin:clinical_pharmacology:3",
+   "medicamento": "lovastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "This regimen of grapefruit juice resulted in a mean increase in the plasma concentration (as measured by the area under the concentration-time curve) of active and total HMG-CoA reductase inhibitory activity [using an enzyme inhibition assay both before (for active inhibitors) and after (for total inhibitors) base hydrolysis] of 1.34-fold and 1.36-fold, respectively, and of lovastatin and its β-hydroxyacid metabolite [measured using a chemical assay-liquid chromatography/tandem mass spectrometry-different from that used in the first 1 study] of 1.94-fold and 1.57-fold, respectively. Results could be representative of strong CYP3A4 inhibitors such as ketoconazole, posaconazole, clarithromycin, telithromycin, HIV protease inhibitors, and nefazodone. § Estimated minimum change. ¶ The effect of amounts of grapefruit juice between those used in these two studies on lovastatin pharmacokinetics has not been studied. # Double-strength: one can of frozen concentrate diluted with one can of water. Figure represents total unmetabolized acid and lactone."
+  },
+  {
+   "id": "lovastatin:pharmacokinetics:0",
+   "medicamento": "lovastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Pharmacokinetics Lovastatin is a lactone, which is readily hydrolyzed in vivo to the corresponding β-hydroxyacid, a strong. inhibitor of HMG-CoA reductase. Inhibition of HMG-CoA reductase is the basis for an assay in pharmacokinetic studies of the β-hydroxyacid metabolites (active inhibitors) and, following base hydrolysis, active plus latent inhibitors (total inhibitors) in plasma following administration of lovastatin. In a single dose study in four hypercholesterolemic patients, it was estimated that less than 5% of an oral dose of lovastatin reaches the general circulation as active inhibitors. Following administration of lovastatin tablets the coefficient of variation, based on between-subject variability, was approximately 40% for the area under the curve (AUC) of total inhibitory activity in the general circulation. Peak plasma concentrations of both active and total inhibitors were attained within 2 to 4 hours of dose administration. While the recommended therapeutic dose range is 10 to 80 mg/day, linearity of inhibitory activity in the general circulation was established by a single dose study employing lovastatin tablet dosages from 60 to as high as 120 mg."
+  },
+  {
+   "id": "lovastatin:pharmacokinetics:1",
+   "medicamento": "lovastatin",
+   "secao": "pharmacokinetics",
+   "texto": "With a once-a-day dosing regimen, plasma concentrations of total inhibitors over a dosing interval achieved a steady state between the second and third days of therapy and were about 1.5 times those following a single dose. When lovastatin was given under fasting conditions, plasma concentrations of total inhibitors were on average about two-thirds those found when lovastatin was administered immediately after a standard test meal. In a study of patients with severe renal insufficiency (creatinine clearance 10 to 30 mL/min), the plasma concentrations of total inhibitors after a single dose of lovastatin were approximately two-fold higher than those in healthy volunteers. In a study including 16 elderly patients between 70 to 78 years of age who received lovastatin 80 mg/day, the mean plasma level of HMG-CoA reductase inhibitory activity was increased approximately 45% compared with 18 patients between 18 to 30 years of age (see PRECAUTIONS , Geriatric Use ). Although the mechanism is not fully understood, cyclosporine has been shown to increase the AUC of HMG-CoA reductase inhibitors."
+  },
+  {
+   "id": "lovastatin:pharmacokinetics:2",
+   "medicamento": "lovastatin",
+   "secao": "pharmacokinetics",
+   "texto": "The increase in AUC for lovastatin and lovastatin acid is presumably due, in part, to inhibition of CYP3A4. The risk of myopathy is increased by high levels of HMG-CoA reductase inhibitory activity in plasma. Strong inhibitors of CYP3A4 can raise the plasma levels of HMG-CoA reductase inhibitory activity and increase the risk of myopathy (see WARNINGS , Myopathy/Rhabdomyolysis and PRECAUTIONS , Drug Interactions ). Lovastatin is a substrate for cytochrome P450 isoform 3A4 (CYP3A4) (see PRECAUTIONS , Drug Interactions .) Grapefruit juice contains one or more components that inhibit CYP3A4 and can increase the plasma concentrations of drugs metabolized by CYP3A4."
+  },
+  {
+   "id": "lovastatin:pharmacokinetics:3",
+   "medicamento": "lovastatin",
+   "secao": "pharmacokinetics",
+   "texto": "This regimen of grapefruit juice resulted in a mean increase in the plasma concentration (as measured by the area under the concentration-time curve) of active and total HMG-CoA reductase inhibitory activity [using an enzyme inhibition assay both before (for active inhibitors) and after (for total inhibitors) base hydrolysis] of 1.34-fold and 1.36-fold, respectively, and of lovastatin and its β-hydroxyacid metabolite [measured using a chemical assay-liquid chromatography/tandem mass spectrometry-different from that used in the first 1 study] of 1.94-fold and 1.57-fold, respectively. Results could be representative of strong CYP3A4 inhibitors such as ketoconazole, posaconazole, clarithromycin, telithromycin, HIV protease inhibitors, and nefazodone. § Estimated minimum change. ¶ The effect of amounts of grapefruit juice between those used in these two studies on lovastatin pharmacokinetics has not been studied. # Double-strength: one can of frozen concentrate diluted with one can of water. Figure represents total unmetabolized acid and lactone."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "lovastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Lovastatin is metabolized by CYP3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g., itraconazole... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... ketoconazole... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "posaconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... posaconazole... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... voriconazole... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... clarithromycin... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "telithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... telithromycin... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "boceprevir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... boceprevir... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "telaprevir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... telaprevir... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "nefazodone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... nefazodone... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Strong inhibitors of CYP3A4 (e.g.,... erythromycin... increase the risk of myopathy by reducing the elimination of lovastatin.",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "niacin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy is also increased by the following lipid-lowering drugs... Niacin (nicotinic acid)",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy/rhabdomyolysis is increased by concomitant administration of cyclosporine",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:1",
+   "origem": "danazol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy/rhabdomyolysis is increased by concomitant administration of danazol",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:1",
+   "origem": "diltiazem",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy/rhabdomyolysis is increased by concomitant administration of... diltiazem",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:1",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy/rhabdomyolysis is increased by concomitant administration of... dronedarone",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:1",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy/rhabdomyolysis is increased by concomitant administration of... verapamil",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy/rhabdomyolysis is increased when amiodarone is used concomitantly with a closely related member of the HMG-CoA reductase inhibitor class",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:2",
+   "origem": "colchicine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cases of myopathy, including rhabdomyolysis, have been reported with lovastatin coadministered with colchicine.",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:drug_interactions:2",
+   "origem": "ranolazine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy, including rhabdomyolysis, may be increased by concomitant administration of ranolazine.",
+   "efeito": "increased risk of myopathy/rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:0",
+   "origem": "lovastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "HMG-CoA reductase",
+   "tipo_destino": "Enzima",
+   "evidencia": "Lovastatin is a specific inhibitor of HMG-CoA reductase",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:contraindications:0",
+   "origem": "lovastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "pregnancy",
+   "tipo_destino": "Condicao",
+   "evidencia": "lovastatin is contraindicated during pregnancy",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:2",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Although the mechanism is not fully understood, cyclosporine has been shown to increase the AUC of HMG-CoA reductase inhibitors.",
+   "efeito": "increase the AUC of HMG-CoA reductase inhibitors",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:2",
+   "origem": "lovastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Lovastatin is a substrate for cytochrome P450 isoform 3A4 (CYP3A4)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:3",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of strong CYP3A4 inhibitors such as ketoconazole",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:3",
+   "origem": "posaconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of strong CYP3A4 inhibitors such as ... posaconazole",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:3",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of strong CYP3A4 inhibitors such as ... clarithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:3",
+   "origem": "telithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of strong CYP3A4 inhibitors such as ... telithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "lovastatin:clinical_pharmacology:3",
+   "origem": "nefazodone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of strong CYP3A4 inhibitors such as ... nefazodone",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "lovastatin:drug_interactions:0",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy is also increased by the following lipid-lowering drugs that are not strong CYP3A4 inhibitors, but which can cause myopathy when given alone. Gemfibrozil",
+   "efeito": "increased risk of myopathy",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

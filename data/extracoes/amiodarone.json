@@ -1,0 +1,377 @@
+{
+ "generico": "amiodarone",
+ "modelos": [
+  "gemini-3.5-flash"
+ ],
+ "trechos": [
+  {
+   "id": "amiodarone:drug_interactions:0",
+   "medicamento": "amiodarone",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Because of amiodarone's long half-life, expect drug interactions to persist for weeks to months after discontinuation of amiodarone. Drug interactions with amiodarone are described in Table 1 below. Table 1: Amiodarone Drug Interactions Concomitant Drug Class/Name Examples Clinical Comment Pharmacodynamic Interactions QT Prolonging Drugs class I and III antiarrhythmics, lithium, certain phenothiazines, tricyclic antidepressants, certain fluoroquinolone and macrolide antibiotics, azole antifungals, halogenated inhalation anesthetic agents Increased risk of Torsade de Pointes. Avoid concomitant use. Negative Chronotropes digoxin, beta blockers, verapamil, diltiazem, clonidine, ivabradine Potentiates the electrophysiologic and hemodynamic effects of amiodarone, resulting in bradycardia, sinus arrest, and AV block. Monitor heart rate. Pharmacokinetic Interactions CYP450 Inhibitors grapefruit juice, certain fluoroquinolone and macrolide antibiotics, azole antifungals, cimetidine, certain protease inhibitors Increased exposure of amiodarone. Avoid concomitant use. CYP450 Inducers St. John's Wort Reduced amiodarone serum levels."
+  },
+  {
+   "id": "amiodarone:drug_interactions:1",
+   "medicamento": "amiodarone",
+   "secao": "drug_interactions",
+   "texto": "Cyclosporine Increased plasma levels of cyclosporine have been reported resulting in elevated creatinine, despite reduction of cyclosporine dose. Monitor cyclosporine drug levels and renal function with concomitant use Cholestyramine Reduced amiodarone serum levels. Antiarrhythmics quinidine, procainamide, flecainide Reserve concomitant use for patients who are unresponsive to a single agent. Antiarrhythmic metabolism inhibited by amiodarone. Initiate antiarrhythmic at a lower than usual dose and monitor patient carefully. Reduce dose levels of previously administered antiarrhythmic by 30 to 50% for several days after transitioning to oral amiodarone. Evaluate continued need for antiarrhythmic. Digoxin Increased digoxin concentration. Reduce digoxin by half or discontinue. If continued, monitor for evidence of toxicity. HMG-CoA Reductase Inhibitors simvastatin, lovastatin, atorvastatin Increased plasma concentration of HMGCoA reductase inhibitor. Limit the dose of lovastatin to 40 mg. Limit the coadministered dose of simvastatin to 20 mg. Lower starting dose of other CYP3A4 substrates may be required."
+  },
+  {
+   "id": "amiodarone:drug_interactions:2",
+   "medicamento": "amiodarone",
+   "secao": "drug_interactions",
+   "texto": "Warfarin Potentiates anticoagulant response and can result in serious or fatal bleeding. Coadministration increases prothrombin time by 100% after 3 to 4 days. Reduce warfarin dose by one-third to one-half and monitor prothrombin times. Phenytoin Increased steady-state levels of phenytoin. Monitor phenytoin levels. Hepatitis C Direct Acting Antiviral sofosbuvir Cases of symptomatic bradyarrhythmia requiring pacemaker insertion have been reported in patients on oral maintenance amiodarone who initiated therapy with sofosbuvir. CYP3A Substrate lidocaine Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine given for local anesthesia. Monitor heart rate. A lower starting dose of lidocaine may be required. CYP3A Substrate fentanyl Fentanyl in combination with amiodarone may cause hypotension, bradycardia, and decreased cardiac output. Avoid coadministration of amiodarone with other antiarrhythmics and drugs known to prolong the QT interval. ( 7 ) Amiodarone is a substrate for CYP3A and CYP2C8, so inhibitors and inducers affect amiodarone exposure."
+  },
+  {
+   "id": "amiodarone:drug_interactions:3",
+   "medicamento": "amiodarone",
+   "secao": "drug_interactions",
+   "texto": "( 7 ) Amiodarone inhibits P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A, increasing exposure to other drugs. ( 7 )"
+  },
+  {
+   "id": "amiodarone:contraindications:0",
+   "medicamento": "amiodarone",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Cardiogenic shock. Sick sinus syndrome, second- or third-degree atrioventricular block, bradycardia leading to syncope without a functioning pacemaker. Known hypersensitivity to the drug or to any of its components, including iodine. Amiodarone hydrochloride tablet is contraindicated in patients with ( 4 ): Cardiogenic shock. Sick sinus syndrome, second- or third-degree AV block, bradycardia leading to syncope without a functioning pacemaker. Known hypersensitivity to the drug or any of its components."
+  },
+  {
+   "id": "amiodarone:clinical_pharmacology:0",
+   "medicamento": "amiodarone",
+   "secao": "clinical_pharmacology",
+   "texto": "Metabolism Amiodarone is metabolized to DEA by the cytochrome P450 (CYP) enzyme group, specifically CYP3A and CYP2C8. The CYP3A isoenzyme is present in both the liver and intestines. In vitro, amiodarone and DEA exhibit a potential to inhibit CYP2C9, CYP2C19, CYP2D6, CYP3A, CYP2A6, CYP2B6 and CYP2C8. Amiodarone and DEA have also a potential to inhibit some transporters such as P-glycoprotein and organic cation transporter (OCT2). Excretion Amiodarone is eliminated primarily by hepatic metabolism and biliary excretion and there is negligible excretion of amiodarone or DEA in urine. Cimetidine inhibits CYP3A and can increase serum amiodarone levels. Effects of amiodarone on agents: CYP3A substrates : Amiodarone taken concomitantly with quinidine increases the quinidine serum concentration by 33% after two days. Loratadine , a non-sedating antihistaminic, is metabolized primarily by CYP3A and its metabolism can be inhibited by amiodarone. Metabolism of lidocaine can be inhibited by amiodarone. Cyclophosphamide is a prodrug, metabolized by CYP450 including CYP3A to an active metabolite. The metabolism of cyclophosphamide may be inhibited by amiodarone."
+  },
+  {
+   "id": "amiodarone:clinical_pharmacology:1",
+   "medicamento": "amiodarone",
+   "secao": "clinical_pharmacology",
+   "texto": "Clopidogrel , an inactive thienopyridine prodrug, is metabolized in the liver by CYP3A to an active metabolite. A potential interaction between clopidogrel and amiodarone resulting in ineffective inhibition of platelet aggregation has been reported. Macrolide/ketolide antibiotics : Amiodarone can inhibit the metabolism of macrolide/ketolide antibiotics (except for azithromycin) and systemic azole antifungal drugs. P-glycoprotein substrates : Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day. Dextromethorphan is a substrate for both CYP2D6 and CYP3A. Amiodarone inhibits CYP2D6. Chronic (> 2 weeks) oral amiodarone administration impairs metabolism of dextromethorphan can lead to increased serum concentrations."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "amiodarone:drug_interactions:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Increased plasma levels of cyclosporine have been reported resulting in elevated creatinine, despite reduction of cyclosporine dose.",
+   "efeito": "increased plasma levels of cyclosporine and elevated creatinine",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cholestyramine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cholestyramine Reduced amiodarone serum levels.",
+   "efeito": "reduced amiodarone serum levels",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Digoxin Increased digoxin concentration.",
+   "efeito": "increased digoxin concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:2",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Warfarin Potentiates anticoagulant response and can result in serious or fatal bleeding. Coadministration increases prothrombin time by 100% after 3 to 4 days.",
+   "efeito": "potentiates anticoagulant response and increases prothrombin time",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:2",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Phenytoin Increased steady-state levels of phenytoin.",
+   "efeito": "increased steady-state levels of phenytoin",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:2",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "sofosbuvir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cases of symptomatic bradyarrhythmia requiring pacemaker insertion have been reported in patients on oral maintenance amiodarone who initiated therapy with sofosbuvir.",
+   "efeito": "symptomatic bradyarrhythmia",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:2",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lidocaine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Sinus bradycardia has been reported with oral amiodarone in combination with lidocaine given for local anesthesia.",
+   "efeito": "sinus bradycardia",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:2",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "fentanyl",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Fentanyl in combination with amiodarone may cause hypotension, bradycardia, and decreased cardiac output.",
+   "efeito": "hypotension, bradycardia, and decreased cardiac output",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:2",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone is a substrate for CYP3A and CYP2C8",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:2",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone is a substrate for CYP3A and CYP2C8",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-glycoprotein",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone inhibits P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone inhibits P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone inhibits P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone inhibits P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:drug_interactions:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone inhibits P-glycoprotein and CYP1A2, CYP2C9, CYP2D6, and CYP3A",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:contraindications:0",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Amiodarone hydrochloride tablet is contraindicated in patients with ( 4 ): Cardiogenic shock.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:contraindications:0",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sick sinus syndrome",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sick sinus syndrome, second- or third-degree atrioventricular block, bradycardia leading to syncope without a functioning pacemaker.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:0",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone is metabolized to DEA by the cytochrome P450 (CYP) enzyme group, specifically CYP3A and CYP2C8.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:0",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone is metabolized to DEA by the cytochrome P450 (CYP) enzyme group, specifically CYP3A and CYP2C8.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:0",
+   "origem": "cimetidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cimetidine inhibits CYP3A and can increase serum amiodarone levels.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:0",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amiodarone taken concomitantly with quinidine increases the quinidine serum concentration by 33% after two days.",
+   "efeito": "increases quinidine serum concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:1",
+   "origem": "clopidogrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Clopidogrel , an inactive thienopyridine prodrug, is metabolized in the liver by CYP3A to an active metabolite.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clopidogrel",
+   "tipo_destino": "Medicamento",
+   "evidencia": "A potential interaction between clopidogrel and amiodarone resulting in ineffective inhibition of platelet aggregation has been reported.",
+   "efeito": "ineffective inhibition of platelet aggregation",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amiodarone taken concomitantly with digoxin increases the serum digoxin concentration by 70% after one day.",
+   "efeito": "increases serum digoxin concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:1",
+   "origem": "dextromethorphan",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dextromethorphan is a substrate for both CYP2D6 and CYP3A.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:1",
+   "origem": "dextromethorphan",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dextromethorphan is a substrate for both CYP2D6 and CYP3A.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "amiodarone:clinical_pharmacology:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Amiodarone inhibits CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  }
+ ],
+ "rejeitadas": []
+}

@@ -1,0 +1,155 @@
+{
+ "generico": "carbamazepine",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "carbamazepine:drug_interactions:0",
+   "medicamento": "carbamazepine",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions There has been a report of a patient who passed an orange rubbery precipitate in his stool the day after ingesting Tegretol suspension immediately followed by Thorazine ®* solution. Subsequent testing has shown that mixing Tegretol suspension and chlorpromazine solution (both generic and brand name) as well as Tegretol suspension and liquid Mellaril ® , resulted in the occurrence of this precipitate. Because the extent to which this occurs with other liquid medications is not known, Tegretol suspension should not be administered simultaneously with other liquid medicinal agents or diluents (see DOSAGE AND ADMINISTRATION ). Clinically meaningful drug interactions have occurred with concomitant medications and include (but are not limited to) the following:"
+  },
+  {
+   "id": "carbamazepine:contraindications:0",
+   "medicamento": "carbamazepine",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Carbamazepine should not be used in patients with a history of previous bone marrow depression, hypersensitivity to the drug, or known sensitivity to any of the tricyclic compounds, such as amitriptyline, desipramine, imipramine, protriptyline, nortriptyline, etc. Likewise, on theoretical grounds its use with monoamine oxidase (MAO) inhibitors is not recommended. Before administration of carbamazepine, MAO inhibitors should be discontinued for a minimum of 14 days, or longer if the clinical situation permits. Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect. Coadministration of carbamazepine with nefazodone is contraindicated."
+  },
+  {
+   "id": "carbamazepine:clinical_pharmacology:0",
+   "medicamento": "carbamazepine",
+   "secao": "clinical_pharmacology",
+   "texto": "Mechanism of Action Carbamazepine has demonstrated anticonvulsant properties in rats and mice with electrically and chemically induced seizures. Carbamazepine greatly reduces or abolishes pain induced by stimulation of the infraorbital nerve in cats and rats. Because carbamazepine induces its own metabolism, the half-life is also variable. Autoinduction is completed after 3 to 5 weeks of a fixed dosing regimen. Carbamazepine is metabolized in the liver. Carbamazepine is more rapidly metabolized to carbamazepine-10,11-epoxide (a metabolite shown to be equipotent to carbamazepine as an anticonvulsant in animal screens) in the younger age groups than in adults."
+  },
+  {
+   "id": "carbamazepine:pharmacokinetics:0",
+   "medicamento": "carbamazepine",
+   "secao": "pharmacokinetics",
+   "texto": "Because carbamazepine induces its own metabolism, the half-life is also variable. Autoinduction is completed after 3 to 5 weeks of a fixed dosing regimen. Carbamazepine is metabolized in the liver. Carbamazepine is more rapidly metabolized to carbamazepine-10,11-epoxide (a metabolite shown to be equipotent to carbamazepine as an anticonvulsant in animal screens) in the younger age groups than in adults."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "carbamazepine:drug_interactions:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "chlorpromazine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "passed an orange rubbery precipitate in his stool the day after ingesting Tegretol suspension immediately followed by Thorazine ®* solution.",
+   "efeito": "orange rubbery precipitate in stool",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:drug_interactions:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Mellaril",
+   "tipo_destino": "Medicamento",
+   "evidencia": "mixing Tegretol suspension and chlorpromazine solution (both generic and brand name) as well as Tegretol suspension and liquid Mellaril ® , resulted in the occurrence of this precipitate.",
+   "efeito": "orange rubbery precipitate in stool",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "bone marrow depression",
+   "tipo_destino": "Condicao",
+   "evidencia": "Carbamazepine should not be used in patients with a history of previous bone marrow depression",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "carbamazepine hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Carbamazepine should not be used in patients with... hypersensitivity to the drug",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "amitriptyline sensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Carbamazepine should not be used in patients with... known sensitivity to any of the tricyclic compounds, such as amitriptyline",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "desipramine sensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Carbamazepine should not be used in patients with... known sensitivity to any of the tricyclic compounds, such as amitriptyline, desipramine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "imipramine sensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Carbamazepine should not be used in patients with... known sensitivity to any of the tricyclic compounds, such as amitriptyline, desipramine, imipramine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "protriptyline sensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "known sensitivity to any of the tricyclic compounds, such as amitriptyline, desipramine, imipramine, protriptyline",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "nortriptyline sensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "known sensitivity to any of the tricyclic compounds, such as amitriptyline, desipramine, imipramine, protriptyline, nortriptyline",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "carbamazepine:contraindications:0",
+   "origem": "carbamazepine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "nefazodone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of carbamazepine and nefazodone may result in insufficient plasma concentrations of nefazodone and its active metabolite to achieve a therapeutic effect.",
+   "efeito": "insufficient plasma concentrations of nefazodone and its active metabolite",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": []
+}

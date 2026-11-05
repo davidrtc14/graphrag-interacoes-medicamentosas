@@ -1,0 +1,697 @@
+{
+ "generico": "simvastatin",
+ "modelos": [
+  "gemini-3.5-flash",
+  "openai/gpt-oss-120b"
+ ],
+ "trechos": [
+  {
+   "id": "simvastatin:drug_interactions:0",
+   "medicamento": "simvastatin",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS • See full prescribing information for details regarding concomitant use of simvastatin with other drugs or grapefruit juice that increase the risk of myopathy and rhabdomyolysis. ( 2.5 , 7.1 ) • Coumarin Anticoagulants: Obtain INR before simvastatin initiation and monitor INR during simvastatin dosage initiation or adjustment. ( 7.2 ) • Digoxin: During simvastatin initiation, monitor digoxin levels. ( 7.2 ) 7.1 Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Simvastatin Simvastatin is a substrate of CYP3A4 and of the transport protein OATP1B1. Simvastatin exposure can be significantly increased with concomitant administration of inhibitors of CYP3A4 and OATP1B1. Table 2 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when used concomitantly with simvastatin and instructions for preventing or managing them [see WARNINGS AND PRECAUTIONS ( 5.1 ) AND CLINICAL PHARMACOLOGY ( 12.3 )] . Table 2: Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Simvastatin Strong CYP3A4 inhibitors Clinical Impact: Simvastatin is a substrate of CYP3A4."
+  },
+  {
+   "id": "simvastatin:drug_interactions:1",
+   "medicamento": "simvastatin",
+   "secao": "drug_interactions",
+   "texto": "Concomitant use of strong CYP3A4 inhibitors with simvastatin increases simvastatin exposure and increases the risk of myopathy and rhabdomyolysis, particularly with higher simvastatin dosages. Intervention: Concomitant use of strong CYP3A4 inhibitors with Simvastatin is contraindicated [see CONTRAINDICATIONS ( )] . If treatment with a CYP3A4 inhibitor is unavoidable, suspend simvastatin during the course of strong CYP3A4 inhibitor treatment. Examples: Select azole anti-fungals (e.g., itraconazole, ketoconazole, posaconazole, and voriconazole), select macrolide antibiotics (e.g., erythromycin and clarithromycin), select HIV protease inhibitors (e.g., nelfinavir, ritonavir, and darunavir/ritonavir), select HCV protease inhibitors (e.g., boceprevir and telaprevir), cobicistat-containing products, and nefazodone. Cyclosporine, Danazol, or Gemfibrozil Clinical Impact: The risk of myopathy and rhabdomyolysis is increased with concomitant use of cyclosporine, danazol, or gemfibrozil with simvastatin. Gemfibrozil may cause myopathy when given alone. Intervention: Concomitant use of cyclosporine, danazol, or gemfibrozil with simvastatin is contraindicated [see CONTRAINDICATIONS ( )] ."
+  },
+  {
+   "id": "simvastatin:drug_interactions:2",
+   "medicamento": "simvastatin",
+   "secao": "drug_interactions",
+   "texto": "Amiodarone, Dronedarone, Ranolazine, or Calcium Channel Blockers Clinical Impact: The risk of myopathy and rhabdomyolysis is increased by concomitant use of amiodarone, dronedarone, ranolazine, or calcium channel blockers with simvastatin. Intervention: For patients taking verapamil, diltiazem, or dronedarone, do not exceed simvastatin 10 mg daily. For patients taking amiodarone, amlodipine, or ranolazine, do not exceed simvastatin 20 mg daily [see DOSAGE AND ADMINISTRATION ( 2.5 )] . Lomitapide Clinical Impact: Simvastatin exposure is approximately doubled with concomitant use of lomitapide and the risk of myopathy and rhabdomyolysis is increased. Intervention: Reduce the dose of simvastatin by 50% if initiating lomitapide. Do not exceed simvastatin 20 mg daily (or simvastatin 40 mg daily for patients who have previously taken an 80 mg daily dosage of simvastatin chronically) while taking lomitapide [see DOSAGE AND ADMINISTRATION ( 2.1 , 2.5 )] . Daptomycin Clinical Impact: Cases of rhabdomyolysis have been reported with simvastatin administered with daptomycin."
+  },
+  {
+   "id": "simvastatin:drug_interactions:3",
+   "medicamento": "simvastatin",
+   "secao": "drug_interactions",
+   "texto": "Both simvastatin and daptomycin can cause myopathy and rhabdomyolysis when given alone and the risk of myopathy and rhabdomyolysis may be increased by coadministration. Intervention: If treatment with daptomycin is required, consider temporarily suspending simvastatin during the course of daptomycin treatment. Niacin Clinical Impact: Cases of myopathy and rhabdomyolysis have been observed with concomitant use of lipid modifying dosages of niacin-containing products (≥1 gram/day niacin) with simvastatin. The risk of myopathy is greater in Chinese patients. In a clinical study (median follow-up 3.9 years) of patients at high risk of CVD and with well-controlled LDL-C levels on simvastatin 40 mg/day with or without ezetimibe 10 mg/day, there was no incremental benefit on cardiovascular outcomes with the addition of lipid-modifying doses of niacin. Intervention: Concomitant use of simvastatin with lipid-modifying dosages of niacin is not recommended in Chinese patients [see USE IN SPECIFIC POPULATIONS ( 8.8 )]."
+  },
+  {
+   "id": "simvastatin:drug_interactions:4",
+   "medicamento": "simvastatin",
+   "secao": "drug_interactions",
+   "texto": "For non-Chinese patients, consider if the benefit of using lipid-modifying doses of niacin concomitantly with simvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. Fibrates (other than Gemfibrozil) Clinical Impact: Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with simvastatin. Intervention: Consider if the benefit of using fibrates concomitantly with simvastatin outweighs the increased risk of myopathy and rhabdomyolysis. If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. Colchicine Clinical Impact: Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with simvastatin. Intervention: Consider if the benefit of using colchicine concomitantly with simvastatin outweighs the increased risk of myopathy and rhabdomyolysis."
+  },
+  {
+   "id": "simvastatin:drug_interactions:5",
+   "medicamento": "simvastatin",
+   "secao": "drug_interactions",
+   "texto": "If concomitant use is decided, monitor patients for signs and symptoms of myopathy, particularly during initiation of therapy and during upward dose titration of either drug. Grapefruit Juice Clinical Impact: Grapefruit juice can raise the plasma levels of simvastatin and may increase the risk of myopathy and rhabdomyolysis. Intervention: Avoid grapefruit juice when taking simvastatin. 7.2 Simvastatin Effects on Other Drugs Table 3 presents Simvastatin's effect on other drugs and instructions for preventing or managing them. Table 3: Simvastatin Effects on Other Drugs Coumarin Anticoagulants Clinical Impact: Simvastatin may potentiate the effect of coumarin anticoagulants and increase the INR. The concomitant use of simvastatin (20 to 40 mg) and coumarin anticoagulants increased the INR from a baseline of 1.7 to 1.8 in healthy subjects and from 2.6 to 3.4 in patients with hyperlipidemia. There are postmarketing reports of clinically evident bleeding and/or increased INR in patients taking concomitant statins and warfarin."
+  },
+  {
+   "id": "simvastatin:drug_interactions:6",
+   "medicamento": "simvastatin",
+   "secao": "drug_interactions",
+   "texto": "Intervention: In patients taking coumarin anticoagulants, obtain an INR before starting simvastatin and frequently enough after initiation, dose titration, or discontinuation to ensure that no significant alteration in INR occurs. Once the INR is stable, monitor INR at regularly recommended intervals. Digoxin Clinical Impact: Concomitant use of digoxin with simvastatin may result in elevated plasma digoxin concentrations [ see CLINICAL PHARMACOLOGY ( 12.3 ) ]. Intervention: Monitor digoxin levels in patients taking digoxin when simvastatin is initiated."
+  },
+  {
+   "id": "simvastatin:contraindications:0",
+   "medicamento": "simvastatin",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Simvastatin is contraindicated in the following conditions: • Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) [see DRUG INTERACTIONS ( 7.1 )]. • Concomitant use of cyclosporine, danazol or gemfibrozil [see DRUG INTERACTIONS ( 7.1 )]. • Acute liver failure or decompensated cirrhosis [see WARNINGS AND PRECAUTIONS ( 5.3 )] • Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP. Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported [see ADVERSE REACTIONS ( 6.2 )] • Concomitant use of strong CYP3A4 inhibitors (select azole anti-fungals, macrolide antibiotics, anti-viral medications, and nefazodone) (, 7.1 ) • Concomitant use of cyclosporine, danazol or gemfibrozil (, 7.1 ) • Acute liver failure or decompensated cirrhosis (, 5.3 ) • Hypersensitivity to simvastatin or any excipient in simvastatin tablets USP (, 6.2 )"
+  },
+  {
+   "id": "simvastatin:clinical_pharmacology:0",
+   "medicamento": "simvastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase, the rate-limiting enzyme that converts HMG-CoA to mevalonate, a precursor of cholesterol. 12.2 Pharmacodynamics Inhibition of HMG-CoA reductase by simvastatin acid accelerates the expression of LDL-receptors, followed by the uptake of LDL-C from blood to the liver, leading to a decrease in plasma LDL-C and total cholesterol. Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very-low-density lipoproteins. Pharmacokinetics (PK) of simvastatin and its metabolites was originally characterized using inhibition of HMG-CoA reductase activity following base hydrolysis of plasma samples, as specific bioanalytical methods were not available. Inhibition of the enzyme activity (equivalent to the level of total inhibitors) represented the combination of activities in plasma following administration of simvastatin from both active (simvastatin acid and its metabolites) and latent forms (simvastatin and its metabolites) after conversion to the active forms in the presence of base."
+  },
+  {
+   "id": "simvastatin:clinical_pharmacology:1",
+   "medicamento": "simvastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "PK, assessed as area under the concentrations of total inhibitors –time curve, was apparently linear with doses up to 120 mg Effect of Food: The plasma profile of total inhibitors concentration was not affected when simvastatin was administered with low fat meal. Elimination Metabolism: Simvastatin is metabolized by CYP3A4. Peak plasma concentrations of both active and total inhibitors were attained within 1.3 to 2.4 hours postdose. Specific Populations Geriatric Patients: In a study including 16 geriatric patients between 70 and 78 years of age who received simvastatin 40 mg/day, the mean plasma level of total inhibitors was increased approximately 45% compared with 18 patients between 18-30 years of age [see USE IN SPECIFIC POPULATIONS ( 8.5 )]. Drug Interaction Studies Simvastatin acid is a substrate of the transport protein OATP1B1. Concomitant administration of inhibitors of the transport protein OATP1B1 and/or CYP3A4 may lead to increased exposure of simvastatin acid."
+  },
+  {
+   "id": "simvastatin:clinical_pharmacology:2",
+   "medicamento": "simvastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "Cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1 [see DRUG INTERACTIONS ( 7 )] . Table 4: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure * Results based on a chemical assay except results with propranolol as indicated. † Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. ‡ Simvastatin acid refers to the β-hydroxyacid of simvastatin. § The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. ¶ Double-strength: one can of frozen concentrate diluted with one can of water."
+  },
+  {
+   "id": "simvastatin:clinical_pharmacology:3",
+   "medicamento": "simvastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "Coadministered Drug or Grapefruit Juice Dosing of Coadministered Drug or Grapefruit Juice Dosing of Simvastatin Geometric Mean Ratio (Ratio * with / without coadministered drug) No Effect = 1.00 AUC C max Telithromycin † 200 mg QD for 4 days 80 mg simvastatin acid ‡ 12 15 simvastatin 8.9 5.3 Nelfinavir † 1250 mg BID for 14 days 20 mg QD for 28 days simvastatin acid ‡ simvastatin 6 6.2 Itraconazole † 200 mg QD for 4 days 80 mg simvastatin acid ‡ 13.1 simvastatin 13.1 Posaconazole 100 mg (oral suspension) QD for 13 days 40 mg simvastatin acid simvastatin 7.3 10.3 9.2 9.4 200 mg (oral suspension) QD for 13 days 40 mg simvastatin acid simvastatin 8.5 10.6 9.5 11.4 Gemfibrozil 600 mg BID for 3 days 40 mg simvastatin acid simvastatin 2.85 1.35 2.18 0.91 Grapefruit Juice § (high dose) 200 mL of double-strength TID ¶ 60 mg single dose simvastatin acid simvastatin 7 16 Grapefruit Juice § (low dose) 8 oz (about 237mL) of single-strength # 20 mg single dose simvastatin acid simvastatin 1.3 1.9 Verapamil SR 240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10 80 mg on Day 10 simvastatin acid simvastatin 2.3 2.5 2.4 2.1 Diltiazem 120 mg BID for 10 days 80 mg on Day 10 simvastatin acid simvastatin 2.69 3.10 2.69 2.88 Diltiazem 120 mg BID for 14 days 20 mg on Day 14 simvastatin 4.6 3.6 Dronedarone 400 mg BID for 14 days 40 mg QD for 14 days simvastatin acid simvastatin 1.96 3.90 2.14 3.75 Amiodarone 400 mg QD for 3 days 40 mg on Day 3 simvastatin acid simvastatin 1.75 1.76 1.72 1.79 Amlodipine 10 mg QD x 10 days 80 mg on Day 10 simvastatin acid simvastatin 1.58 1.77 1.56 1.47 Ranolazine SR 1000 mg BID for 7 days 80 mg on Day 1 and Days 6 to 9 simvastatin acid simvastatin 2.26 1.86 2.28 1.75 Lomitapide 60 mg QD for 7 days 40 mg single dose simvastatin acid simvastatin 1.7 2 1.6 2 Lomitapide 10 mg QD for 7 days 20 mg single dose simvastatin acid simvastatin 1.4 1.6 1.4 1.7 Fenofibrate 160 mg QD x 14 days 80 mg QD on Days 8 to 14 simvastatin acid simvastatin 0.64 0.89 0.89 0.83 Niacin extended-release 2 g single dose 20 mg single dose simvastatin acid simvastatin 1.6 1.4 1.84 1.08 Propranolol 80 mg single dose 80 mg single dose total inhibitor 0.79 ↓ from 33.6 to 21.1 ng·eq/mL Simvastatin's Effect on the Pharmacokinetics of Other Drugs: In a study of 12 healthy volunteers, simvastatin at the 80-mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin."
+  },
+  {
+   "id": "simvastatin:clinical_pharmacology:4",
+   "medicamento": "simvastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "Simvastatin is not an inhibitor of CYP3A4 and is not expected to affect the plasma levels of other drugs metabolized by CYP3A4."
+  },
+  {
+   "id": "simvastatin:pharmacokinetics:0",
+   "medicamento": "simvastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Pharmacokinetics (PK) of simvastatin and its metabolites was originally characterized using inhibition of HMG-CoA reductase activity following base hydrolysis of plasma samples, as specific bioanalytical methods were not available. Inhibition of the enzyme activity (equivalent to the level of total inhibitors) represented the combination of activities in plasma following administration of simvastatin from both active (simvastatin acid and its metabolites) and latent forms (simvastatin and its metabolites) after conversion to the active forms in the presence of base. PK, assessed as area under the concentrations of total inhibitors –time curve, was apparently linear with doses up to 120 mg Effect of Food: The plasma profile of total inhibitors concentration was not affected when simvastatin was administered with low fat meal. Elimination Metabolism: Simvastatin is metabolized by CYP3A4. Peak plasma concentrations of both active and total inhibitors were attained within 1.3 to 2.4 hours postdose."
+  },
+  {
+   "id": "simvastatin:pharmacokinetics:1",
+   "medicamento": "simvastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Specific Populations Geriatric Patients: In a study including 16 geriatric patients between 70 and 78 years of age who received simvastatin 40 mg/day, the mean plasma level of total inhibitors was increased approximately 45% compared with 18 patients between 18-30 years of age [see USE IN SPECIFIC POPULATIONS ( 8.5 )]. Drug Interaction Studies Simvastatin acid is a substrate of the transport protein OATP1B1. Concomitant administration of inhibitors of the transport protein OATP1B1 and/or CYP3A4 may lead to increased exposure of simvastatin acid. Cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1 [see DRUG INTERACTIONS ( 7 )] ."
+  },
+  {
+   "id": "simvastatin:pharmacokinetics:2",
+   "medicamento": "simvastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Table 4: Effect of Coadministered Drugs or Grapefruit Juice on Simvastatin Systemic Exposure * Results based on a chemical assay except results with propranolol as indicated. † Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone. ‡ Simvastatin acid refers to the β-hydroxyacid of simvastatin. § The effect of amounts of grapefruit juice between those used in these two studies on simvastatin pharmacokinetics has not been studied. ¶ Double-strength: one can of frozen concentrate diluted with one can of water."
+  },
+  {
+   "id": "simvastatin:pharmacokinetics:3",
+   "medicamento": "simvastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Coadministered Drug or Grapefruit Juice Dosing of Coadministered Drug or Grapefruit Juice Dosing of Simvastatin Geometric Mean Ratio (Ratio * with / without coadministered drug) No Effect = 1.00 AUC C max Telithromycin † 200 mg QD for 4 days 80 mg simvastatin acid ‡ 12 15 simvastatin 8.9 5.3 Nelfinavir † 1250 mg BID for 14 days 20 mg QD for 28 days simvastatin acid ‡ simvastatin 6 6.2 Itraconazole † 200 mg QD for 4 days 80 mg simvastatin acid ‡ 13.1 simvastatin 13.1 Posaconazole 100 mg (oral suspension) QD for 13 days 40 mg simvastatin acid simvastatin 7.3 10.3 9.2 9.4 200 mg (oral suspension) QD for 13 days 40 mg simvastatin acid simvastatin 8.5 10.6 9.5 11.4 Gemfibrozil 600 mg BID for 3 days 40 mg simvastatin acid simvastatin 2.85 1.35 2.18 0.91 Grapefruit Juice § (high dose) 200 mL of double-strength TID ¶ 60 mg single dose simvastatin acid simvastatin 7 16 Grapefruit Juice § (low dose) 8 oz (about 237mL) of single-strength # 20 mg single dose simvastatin acid simvastatin 1.3 1.9 Verapamil SR 240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10 80 mg on Day 10 simvastatin acid simvastatin 2.3 2.5 2.4 2.1 Diltiazem 120 mg BID for 10 days 80 mg on Day 10 simvastatin acid simvastatin 2.69 3.10 2.69 2.88 Diltiazem 120 mg BID for 14 days 20 mg on Day 14 simvastatin 4.6 3.6 Dronedarone 400 mg BID for 14 days 40 mg QD for 14 days simvastatin acid simvastatin 1.96 3.90 2.14 3.75 Amiodarone 400 mg QD for 3 days 40 mg on Day 3 simvastatin acid simvastatin 1.75 1.76 1.72 1.79 Amlodipine 10 mg QD x 10 days 80 mg on Day 10 simvastatin acid simvastatin 1.58 1.77 1.56 1.47 Ranolazine SR 1000 mg BID for 7 days 80 mg on Day 1 and Days 6 to 9 simvastatin acid simvastatin 2.26 1.86 2.28 1.75 Lomitapide 60 mg QD for 7 days 40 mg single dose simvastatin acid simvastatin 1.7 2 1.6 2 Lomitapide 10 mg QD for 7 days 20 mg single dose simvastatin acid simvastatin 1.4 1.6 1.4 1.7 Fenofibrate 160 mg QD x 14 days 80 mg QD on Days 8 to 14 simvastatin acid simvastatin 0.64 0.89 0.89 0.83 Niacin extended-release 2 g single dose 20 mg single dose simvastatin acid simvastatin 1.6 1.4 1.84 1.08 Propranolol 80 mg single dose 80 mg single dose total inhibitor 0.79 ↓ from 33.6 to 21.1 ng·eq/mL Simvastatin's Effect on the Pharmacokinetics of Other Drugs: In a study of 12 healthy volunteers, simvastatin at the 80-mg dose had no effect on the metabolism of the probe cytochrome P450 isoform 3A4 (CYP3A4) substrates midazolam and erythromycin."
+  },
+  {
+   "id": "simvastatin:pharmacokinetics:4",
+   "medicamento": "simvastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Simvastatin is not an inhibitor of CYP3A4 and is not expected to affect the plasma levels of other drugs metabolized by CYP3A4."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "simvastatin:drug_interactions:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Simvastatin is a substrate of CYP3A4",
+   "efeito": "",
+   "confianca": 0.96,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "simvastatin:contraindications:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Hypersensitivity to simvastatin or any excipients in simvastatin tablets USP.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:contraindications:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "anaphylaxis",
+   "tipo_destino": "Efeito",
+   "evidencia": "Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:contraindications:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "angioedema",
+   "tipo_destino": "Efeito",
+   "evidencia": "Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:contraindications:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "Stevens-Johnson syndrome",
+   "tipo_destino": "Efeito",
+   "evidencia": "Hypersensitivity reactions, including anaphylaxis, angioedema and Stevens-Johnson syndrome, have been reported",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:0",
+   "origem": "simvastatin acid",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "HMG-CoA reductase",
+   "tipo_destino": "Enzima",
+   "evidencia": "Simvastatin acid and its metabolites are inhibitors of HMG-CoA reductase",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:1",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Simvastatin is metabolized by CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:1",
+   "origem": "simvastatin acid",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Simvastatin acid is a substrate of the transport protein OATP1B1.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:2",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin acid",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cyclosporine has been shown to increase the AUC of statins; although the mechanism is not fully understood, the increase in AUC for simvastatin acid is presumably due, in part",
+   "efeito": "increases AUC of simvastatin acid",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:2",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "inhibition of CYP3A4 and/or OATP1B1",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:2",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "inhibition of CYP3A4 and/or OATP1B1",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "telithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Telithromycin † 200 mg QD for 4 days 80 mg simvastatin acid ‡ 12 15 simvastatin 8.9 5.3",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "nelfinavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Nelfinavir † 1250 mg BID for 14 days 20 mg QD for 28 days simvastatin acid ‡ simvastatin 6 6.2",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Itraconazole † 200 mg QD for 4 days 80 mg simvastatin acid ‡ 13.1 simvastatin 13.1",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "posaconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Posaconazole 100 mg (oral suspension) QD for 13 days 40 mg simvastatin acid simvastatin 7.3 10.3 9.2 9.4",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Gemfibrozil 600 mg BID for 3 days 40 mg simvastatin acid simvastatin 2.85 1.35 2.18 0.91",
+   "efeito": "increases systemic exposure of simvastatin acid",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Verapamil SR 240 mg QD Days 1 to 7 then 240 mg BID on Days 8 to 10 80 mg on Day 10 simvastatin acid simvastatin 2.3 2.5 2.4 2.1",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "diltiazem",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Diltiazem 120 mg BID for 10 days 80 mg on Day 10 simvastatin acid simvastatin 2.69 3.10 2.69 2.88",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Dronedarone 400 mg BID for 14 days 40 mg QD for 14 days simvastatin acid simvastatin 1.96 3.90 2.14 3.75",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amiodarone 400 mg QD for 3 days 40 mg on Day 3 simvastatin acid simvastatin 1.75 1.76 1.72 1.79",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "amlodipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amlodipine 10 mg QD x 10 days 80 mg on Day 10 simvastatin acid simvastatin 1.58 1.77 1.56 1.47",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "ranolazine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Ranolazine SR 1000 mg BID for 7 days 80 mg on Day 1 and Days 6 to 9 simvastatin acid simvastatin 2.26 1.86 2.28 1.75",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "lomitapide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Lomitapide 60 mg QD for 7 days 40 mg single dose simvastatin acid simvastatin 1.7 2 1.6 2",
+   "efeito": "increases systemic exposure of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "fenofibrate",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Fenofibrate 160 mg QD x 14 days 80 mg QD on Days 8 to 14 simvastatin acid simvastatin 0.64 0.89 0.89 0.83",
+   "efeito": "decreases systemic exposure of simvastatin acid",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "niacin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Niacin extended-release 2 g single dose 20 mg single dose simvastatin acid simvastatin 1.6 1.4 1.84 1.08",
+   "efeito": "increases systemic exposure of simvastatin acid",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:3",
+   "origem": "propranolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Propranolol 80 mg single dose 80 mg single dose total inhibitor 0.79 ↓ from 33.6 to 21.1 ng·eq/mL",
+   "efeito": "decreases total inhibitor plasma level of simvastatin",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Simvastatin is metabolized by CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.5-flash"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:1",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Simvastatin acid is a substrate of the transport protein OATP1B1.",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "simvastatin:clinical_pharmacology:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:2",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CITP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Simvastatin is a substrate of ... the transport protein OATP1B1",
+   "efeito": "",
+   "confianca": 0.95,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:1",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cyclosporine ... increase in AUC for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.5-flash+openai/gpt-oss-120b"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select azole anti-fungals (e.g., itraconazole, ... ) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.97,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select azole anti-fungals (e.g., ... ketoconazole, ...) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.97,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "posaconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select azole anti-fungals (e.g., ... posaconazole, ...) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.97,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "voriconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select azole anti-fungals (e.g., ... voriconazole) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.97,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select macrolide antibiotics (e.g., erythromycin and clarithromycin) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.96,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select macrolide antibiotics (e.g., erythromycin and clarithromycin) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.96,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "nelfinavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select HIV protease inhibitors (e.g., nelfinavir, ritonavir, ...) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.96,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:drug_interactions:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Select HIV protease inhibitors (e.g., ... ritonavir, ...) are strong CYP3A4 inhibitors",
+   "efeito": "",
+   "confianca": 0.96,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:contraindications:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "acute liver failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "Simvastatin is contraindicated in the following conditions: • Acute liver failure or decompensated cirrhosis",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:contraindications:0",
+   "origem": "simvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "decompensated cirrhosis",
+   "tipo_destino": "Condicao",
+   "evidencia": "Simvastatin is contraindicated in the following conditions: • Acute liver failure or decompensated cirrhosis",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:1",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cyclosporine ... increase in APM for simvastatin acid is presumably due, in part, to inhibition of CYP3A4 and/or OATP1B1.",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:2",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicimanto",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of the following CYP3A4 inhibitors: ketoconazole, erythromycin, clarithromycin, HIV protease inhibitors, and nefazodone.",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "formato"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:2",
+   "origem": "nefazodone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Results could be representative of the final CYP3A4 inhibitors: ... nefazodone.",
+   "efeito": "",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:3",
+   "origem": "telithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Telithromycin coadministration increased simvastatin AUC (geometric mean ratio 8.9).",
+   "efeito": "increased exposure of simvastatin",
+   "confianca": 0.85,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:3",
+   "origem": "nelfinavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Nelfinavir coadministration increased simvastatin AUC (ratio 6.2).",
+   "efeito": "increased exposure of simvastatin",
+   "confianca": 0.85,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "simvastatin:pharmacokinetics:3",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Itraconazole coadministration increased simvastatin AUC (ratio 13.1).",
+   "efeito": "increased exposure of simvastatin",
+   "confianca": 0.85,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

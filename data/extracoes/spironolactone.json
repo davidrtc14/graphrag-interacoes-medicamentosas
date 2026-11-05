@@ -1,0 +1,168 @@
+{
+ "generico": "spironolactone",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "spironolactone:drug_interactions:0",
+   "medicamento": "spironolactone",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Agents increasing serum potassium: Concomitant administration can lead to hyperkalemia ( 5.1 , 7.1 ). Lithium: Increased risk of lithium toxicity ( 7.2 ). NSAIDs: May reduce the diuretic, natriuretic and antihypertensive effect of spironolactone tablets ( 7.3 ). Digoxin: Spironolactone tablets can interfere with radioimmunologic assays of digoxin exposure ( 7.4 ). Cholestyramine: Hyperkalemic metabolic acidosis has been reported with concomitant use ( 7.5 ). Acetylsalicylic Acid (ASA): ASA may reduce the efficacy of spironolactone tablets ( 7.6 ). Abiraterone: May increase prostate-specific antigen (PSA) levels ( 7.7 ). Mitotane: Avoid concomitant use of spironolactone tablets and mitotane ( 7.8 ). 7.1 Drugs and Supplements Increasing Serum Potassium Concomitant administration of spironolactone tablets with potassium supplementation or drugs that can increase potassium may lead to severe hyperkalemia. In general, discontinue potassium supplementation in heart failure patients who start spironolactone tablets [ see Warnings and Precautions (5.1) and Clinical Pharmacology (12.3) ] ."
+  },
+  {
+   "id": "spironolactone:drug_interactions:1",
+   "medicamento": "spironolactone",
+   "secao": "drug_interactions",
+   "texto": "Check serum potassium levels when ACE inhibitor or ARB therapy is altered in patients receiving spironolactone tablets. Examples of drugs that can increase potassium include: ACE inhibitors angiotensin receptor blockers non-steroidal anti-inflammatory drugs (NSAIDs) heparin and low molecular weight heparin trimethoprim 7.2 Lithium Like other diuretics, spironolactone tablets reduces the renal clearance of lithium, thus increasing the risk of lithium toxicity. Monitor lithium levels periodically when spironolactone tablets are coadministered [ see Clinical Pharmacology (12.3) ] . 7.3 Nonsteroidal Anti-Inflammatory Drugs (NSAIDs) In some patients, the administration of an NSAID can reduce the diuretic, natriuretic, and antihypertensive effect of diuretics. Therefore, when spironolactone tablets and NSAIDs are used concomitantly, monitor closely to determine if the desired effect of the diuretic is obtained [ see Clinical Pharmacology (12.3) ] . 7.4 Digoxin Spironolactone and its metabolites interfere with radioimmunoassays for digoxin and increase the apparent exposure to digoxin. It is unknown to what extent, if any, spironolactone may increase actual digoxin exposure."
+  },
+  {
+   "id": "spironolactone:drug_interactions:2",
+   "medicamento": "spironolactone",
+   "secao": "drug_interactions",
+   "texto": "In patients taking concomitant digoxin, use an assay that does not interact with spironolactone. 7.5 Cholestyramine Hyperkalemic metabolic acidosis has been reported in patients given spironolactone tablets concurrently with cholestyramine. 7.6 Acetylsalicylic Acid Acetylsalicylic acid may reduce the efficacy of spironolactone. Therefore, when spironolactone tablets and acetylsalicylic acid are used concomitantly, spironolactone tablets may need to be titrated to higher maintenance dose and the patient should be observed closely to determine if the desired effect is obtained [ see Clinical Pharmacology (12.3 ) ]. 7.7 Abiraterone Spironolactone binds to the androgen receptor and may increase prostate-specific antigen (PSA) levels in abiraterone-treated prostate cancer patients. Concomitant use of spironolactone and abiraterone is not recommended. 7.8 Mitotane Avoid concomitant use of spironolactone tablets and mitotane. Spironolactone reduces mitotane plasma levels [ see Clinical Pharmacology (12.3) ] ."
+  },
+  {
+   "id": "spironolactone:contraindications:0",
+   "medicamento": "spironolactone",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Spironolactone tablets are contraindicated in the patients with: Hyperkalemia Addison’s disease Concomitant use of eplerenone Spironolactone Tablets are contraindicated in patients with ( 4 ): Hyperkalemia Addison’s disease Concomitant use of eplerenone"
+  },
+  {
+   "id": "spironolactone:clinical_pharmacology:0",
+   "medicamento": "spironolactone",
+   "secao": "clinical_pharmacology",
+   "texto": "Spironolactone counteracts secondary aldosteronism induced by the volume depletion and associated sodium loss caused by active diuretic therapy. 12.3 Pharmacokinetics Absorption The mean time to reach peak plasma concentration of spironolactone and the active metabolite, canrenone, in healthy volunteers is 2.6 and 4.3 hours, respectively. Metabolism : Spironolactone is rapidly and extensively metabolized. However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities. Drug Interaction Studies: Drugs and Supplements Increasing Serum Potassium: Concomitant administration of spironolactone tablets with potassium supplementation, salt substitutes containing potassium, a diet rich in potassium, or drugs that can increase potassium, including ACE inhibitors, angiotensin II antagonists, non-steroidal anti-inflammatory drugs (NSAIDs), heparin and low molecular weight heparin, may lead to severe hyperkalemia [ see Warnings and Precautions (5.1) and Drug Interactions (7.1) ] ."
+  },
+  {
+   "id": "spironolactone:clinical_pharmacology:1",
+   "medicamento": "spironolactone",
+   "secao": "clinical_pharmacology",
+   "texto": "Lithium: Spironolactone tablets reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [ see Drug Interactions (7.2) ] . Acetylsalicylic acid: A single dose of 600 mg of acetylsalicylic acid inhibited the natriuretic effect of spironolactone, which was hypothesized be due to inhibition of tubular secretion of canrenone, causing decreased effectiveness of spironolactone [ see Drug Interactions (7.6 ) ] ."
+  },
+  {
+   "id": "spironolactone:pharmacokinetics:0",
+   "medicamento": "spironolactone",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism : Spironolactone is rapidly and extensively metabolized. However, since the serum concentrations of these steroids were not determined, their incomplete absorption and/or first-pass metabolism could not be ruled out as a reason for their reduced in vivo activities. Drug Interaction Studies: Drugs and Supplements Increasing Serum Potassium: Concomitant administration of spironolactone tablets with potassium supplementation, salt substitutes containing potassium, a diet rich in potassium, or drugs that can increase potassium, including ACE inhibitors, angiotensin II antagonists, non-steroidal anti-inflammatory drugs (NSAIDs), heparin and low molecular weight heparin, may lead to severe hyperkalemia [ see Warnings and Precautions (5.1) and Drug Interactions (7.1) ] . Lithium: Spironolactone tablets reduces the renal clearance of lithium, inducing a high risk of lithium toxicity [ see Drug Interactions (7.2) ] ."
+  },
+  {
+   "id": "spironolactone:pharmacokinetics:1",
+   "medicamento": "spironolactone",
+   "secao": "pharmacokinetics",
+   "texto": "Acetylsalicylic acid: A single dose of 600 mg of acetylsalicylic acid inhibited the natriuretic effect of spironolactone, which was hypothesized be due to inhibition of tubular secretion of canrenone, causing decreased effectiveness of spironolactone [ see Drug Interactions (7.6 ) ] ."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "spironolactone:drug_interactions:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lithium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Lithium: Increased risk of lithium toxicity",
+   "efeito": "increased risk of lithium toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "spironolactone:drug_interactions:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Digoxin: Spironolactone tablets can interfere with radioimmunologic assays of digoxin exposure",
+   "efeito": "interference with radioimmunologic assays of digoxin",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "spironolactone:drug_interactions:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cholestyramine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cholestyramine: Hyperkalemic metabolic acidosis has been reported with concomitant use",
+   "efeito": "hyperkalemic metabolic acidosis",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "spironolactone:drug_interactions:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "acetylsalicylic acid",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Acetylsalicylic Acid (ASA): ASA may reduce the efficacy of spironolactone tablets",
+   "efeito": "reduced efficacy of spironolactone",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "spironolactone:drug_interactions:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "abiraterone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Abiraterone: May increase prostate-specific antigen (PSA) levels",
+   "efeito": "increase prostate-specific antigen levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "spironolactone:drug_interactions:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "mitotane",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Mitotane: Avoid concomitant use of spironolactone tablets and mitotane",
+   "efeito": "avoid concomitant use",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "spironolactone:contraindications:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hyperkalemia",
+   "tipo_destino": "Condicao",
+   "evidencia": "Spironolactone tablets are contraindicated in the patients with: Hyperkalemia",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "spironolactone:contraindications:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Addison’s disease",
+   "tipo_destino": "Condicao",
+   "evidencia": "Spironolactone tablets are contraindicated in the patients with: Addison’s disease",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "spironolactone:contraindications:0",
+   "origem": "spironolactone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "eplerenone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Spironolactone tablets are contraindicated in the patients with: Concomitant use of eplerenone",
+   "efeito": "contraindicated concomitant use",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

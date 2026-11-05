@@ -1,0 +1,419 @@
+{
+ "generico": "erythromycin",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "erythromycin:drug_interactions:0",
+   "medicamento": "erythromycin",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions Erythromycin administration in patients receiving 3-hydroxy-3-methylglutaryl-coenzyme A (HMG CoA) reductase inhibitors (statins) that are extensively metabolized by cytochrome P450 isoform 3A4 (e.g., lovastatin or simvastatin) has been reported to cause increased risk of myopathy, including rhabdomyolysis. Do not administer erythromycin with lovastatin or simvastatin (See CONTRAINDICATIONS ). Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase of serum theophylline levels and potential theophylline toxicity. In case of theophylline toxicity and/or elevated serum theophylline levels, the dose of theophylline should be reduced while the patient is receiving concomitant erythromycin therapy. There have been published reports suggesting that when oral erythromycin is given concurrently with theophylline there is a significant decrease in erythromycin serum concentrations. This decrease could result in subtherapeutic concentrations of erythromycin."
+  },
+  {
+   "id": "erythromycin:drug_interactions:1",
+   "medicamento": "erythromycin",
+   "secao": "drug_interactions",
+   "texto": "Erythromycin administration in patients receiving carbamazepine has been reported to cause increased serum levels of carbamazepine with subsequent development of signs of carbamazepine toxicity. Concomitant administration of erythromycin and digoxin has been reported to result in elevated serum digoxin levels. There have been reports of increased anticoagulant effects, which may be more pronounced in elderly when erythromycin and oral anticoagulants (e.g., warfarin) are used concomitantly. Colchicine is a substrate for both CYP3A4 and the efflux transporter P-glycoprotein (P-gp). Erythromycin is considered a moderate inhibitor of CYP3A4. A significant increase in colchicine plasma concentration is anticipated when co-administered with moderate CYP3A4 inhibitors such as erythromycin. Ifco-administration of colchicine and erythromycin is necessary, the starting dose of colchicine may need to be reduced, and the maximum colchicine dose should be lowered. Patients should be monitored for clinical symptoms of colchicine toxicity (See WARNINGS ). Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil."
+  },
+  {
+   "id": "erythromycin:drug_interactions:2",
+   "medicamento": "erythromycin",
+   "secao": "drug_interactions",
+   "texto": "Reduction of sildenafil dosage should be considered (See sildenafil prescribing information). Erythromycin has been reported to decrease the clearance of triazolam, midazolam and related benzodiazepines, and thus may increase the pharmacological effect of these benzodiazepines. Post-marketing reports indicate that co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity characterized by vasospasm and ischemia of the central nervous system, extremities and other tissues (See CONTRAINDICATIONS ). Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines, terfenadine and astemizole, when taken concomitantly. Rare cases of serious cardiovascular adverse events, including electrocardiographic QT/QTc interval prolongation, cardiac arrest, torsades de pointes, and other ventricular arrhythmias, have been observed (See CONTRAINDICATIONS ). In addition, deaths have been reported rarely with concomitant administration of terfenadine and erythromycin."
+  },
+  {
+   "id": "erythromycin:drug_interactions:3",
+   "medicamento": "erythromycin",
+   "secao": "drug_interactions",
+   "texto": "The use of erythromycin in patients concurrently taking drugs metabolized by the cytochrome P450 system may be associated with elevations in serum levels of these other drugs. There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole. Serum concentrations of drugs metabolized by the cytochrome P450 system should be monitored closely in patients concurrently receiving erythromycin. Hypotension, bradyarrhythmias and lactic acidosis have been observed in patients receiving concurrent verapamil, a calcium-channel blocker. Cimetidine may inhibit the metabolism of erythromycin, which may lead to an increased plasma concentration. Erythromycin has been reported to decrease the clearance of racemic zopiclone and, thus, may also decrease the clearance of eszopiclone, the S-enantiomer of racemic zopiclone. Accordingly, erythromycin may increase the pharmacodynamic effects of eszopiclone. Dose reduction of eszopiclone may be necessary (See eszopiclone prescribing information)."
+  },
+  {
+   "id": "erythromycin:contraindications:0",
+   "medicamento": "erythromycin",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Erythromycin is contraindicated in patients with known hypersensitivity to this antibiotic. Erythromycin is contraindicated in patients taking terfenadine or astemizole, cisapride, pimozide, ergotamine, or dihydroergotamine (See WARNINGS and PRECAUTIONS – Drug Interactions ). Do not use erythromycin concomitantly with 3-hydroxy-3-methylglutaryl-coenzyme A (HMG CoA) reductase inhibitors (statins) that are extensively metabolized by cytochrome P450 isoform 3A4 (lovastatin or simvastatin), due to the increased risk of myopathy, including rhabdomyolysis (See WARNINGS and PRECAUTIONS – Drug Interactions )."
+  },
+  {
+   "id": "erythromycin:clinical_pharmacology:0",
+   "medicamento": "erythromycin",
+   "secao": "clinical_pharmacology",
+   "texto": "M icrobiology Mechanism of Action Erythromycin acts by inhibition of protein synthesis by binding 50 S ribosomal subunits of susceptible organisms. At least 90 percent of the following bacteria exhibit an in vitro minimum inhibitory concentration (MIC) less than or equal to the susceptible breakpoint for erythromycin against isolates of similar genus or organism group."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "erythromycin:drug_interactions:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Do not administer erythromycin with lovastatin or simvastatin",
+   "efeito": "myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Do not administer erythromycin with lovastatin or simvastatin",
+   "efeito": "myopathy",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "theophylline",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin use in patients who are receiving high doses of theophylline may be associated with an increase of serum theophylline levels and potential theophylline toxicity.",
+   "efeito": "toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:1",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "carbamazepine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin administration in patients receiving carbamazepine has been reported to cause increased serum levels of carbamazepine with subsequent development of signs of carbamazepine toxicity.",
+   "efeito": "toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:1",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of erythromycin and digoxin has been reported to result in elevated serum digoxin levels.",
+   "efeito": "elevated serum digoxin",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:1",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of increased anticoagulant effects, which may be more pronounced in elderly when erythromycin and oral anticoagulants (e.g., warfarin) are used concomitantly.",
+   "efeito": "increased anticoagulant effects",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:1",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Erythromycin is considered a moderate inhibitor of CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:1",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colchicine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "A significant increase in colchicine plasma concentration is anticipated when co-administered with moderate CYP3A4 inhibitors such as erythromycin.",
+   "efeito": "increased plasma concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:1",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "sildenafil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin has been reported to increase the systemic exposure (AUC) of sildenafil.",
+   "efeito": "increased systemic exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "triazolam",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin has been reported to decrease the clearance of triazolam, midazolam and related benzodiazepines, and thus may increase the pharmacological effect of these benzodiazepines.",
+   "efeito": "increased pharmacological effect",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "midazolam",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin has been reported to decrease the clearance of triazolam, midazolam and related benzodiazepines, and thus may increase the pharmacological effect of these benzodiazepines.",
+   "efeito": "increased pharmacological effect",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ergotamine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity",
+   "efeito": "acute ergot toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dihydroergotamine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "co-administration of erythromycin with ergotamine or dihydroergotamine has been associated with acute ergot toxicity",
+   "efeito": "acute ergot toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "terfenadine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines, terfenadine and astemizole, when taken concomitantly.",
+   "efeito": "cardiovascular adverse events",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "astemizole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin has been reported to significantly alter the metabolism of the nonsedating antihistamines, terfenadine and astemizole, when taken concomitantly.",
+   "efeito": "cardiovascular adverse events",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.",
+   "efeito": "elevated serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "hexobarbital",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.",
+   "efeito": "elevated serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.",
+   "efeito": "elevated serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "alfentanil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.",
+   "efeito": "elevated serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.",
+   "efeito": "elevated serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "bromocriptine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.",
+   "efeito": "elevated serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "valproate",
+   "tipo_destino": "Medicamento",
+   "evidencia": "There have been reports of interactions of erythromycin with carbamazepine, cyclosporine, hexobarbital, phenytoin, alfentanil, disopyramide, bromocriptine, valproate, terfenadine, and astemizole.",
+   "efeito": "elevated serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "cimetidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "erythromycin",
+   "tipo_destino": "Enzima",
+   "evidencia": "Cimetidine may inhibit the metabolism of erythromycin, which may lead to an increased plasma concentration.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:drug_interactions:3",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "eszopiclone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin has been reported to decrease the clearance of racemic zopiclone and, thus, may also decrease the clearance of eszopiclone... may increase the pharmacodynamic effects of eszopiclone.",
+   "efeito": "increased pharmacodynamic effects",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:contraindications:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Erythromycin is contraindicated in patients with known hypersensitivity to this antibiotic.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:contraindications:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "terfenadine",
+   "tipo_destino": "Condicao",
+   "evidencia": "Erythromycin is contraindicated in patients taking terfenadine or astemizole, cisapride, pimozide, ergotamine, or dihydroergotamine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:contraindications:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "astemizole",
+   "tipo_destino": "Condicao",
+   "evidencia": "Erythromycin is contraindicated in patients taking terfenadine or astemizole, cisapride, pimozide, ergotamine, or dihydroergotamine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:contraindications:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cisapride",
+   "tipo_destino": "Condicao",
+   "evidencia": "Erythromycin is contraindicated in patients taking terfenadine or astemizole, cisapride, pimozide, ergotamine, or dihydroergotamine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:contraindications:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "pimozide",
+   "tipo_destino": "Condicao",
+   "evidencia": "Erythromycin is contraindicated in patients taking terfenadine or astemizole, cisapride, pimozide, ergotamine, or dihydroergotamine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:contraindications:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "ergotamine",
+   "tipo_destino": "Condicao",
+   "evidencia": "Erythromycin is contraindicated in patients taking terfenadine or astemizole, cisapride, pimozide, ergotamine, or dihydroergotamine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "erythromycin:contraindications:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "dihydroergotamine",
+   "tipo_destino": "Condicao",
+   "evidencia": "Erythromycin is contraindicated in patients taking terfenadine or astemizole, cisapride, pimozide, ergotamine, or dihydroergotamine",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

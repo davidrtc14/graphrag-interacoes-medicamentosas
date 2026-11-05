@@ -1,0 +1,264 @@
+{
+ "generico": "nebivolol",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "nebivolol:drug_interactions:0",
+   "medicamento": "nebivolol",
+   "secao": "drug_interactions",
+   "texto": "7. DRUG INTERACTIONS • CYP2D6 enzyme inhibitors may increase nebivolol levels. ( 7.1 ) • Reserpine or clonidine may produce excessive reduction of sympathetic activity. ( 7.2 ) • Both digitalis glycosides and β-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. ( 7.3 ) • Verapamil- or diltiazem-type calcium channel blockers may cause excessive reductions in heart rate, blood pressure, and cardiac contractility. ( 7.4 ) 7.1 CYP2D6 Inhibitors Use caution when nebivolol tablets are co-administered with CYP2D6 inhibitors (quinidine, propafenone, fluoxetine, paroxetine, etc.) [see Clinical Pharmacology ( 12.5 )] . 7.2 Hypotensive Agents Do not use nebivolol tablets with other β-blockers. Closely monitor patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, because the added β-blocking action of nebivolol tablets may produce excessive reduction of sympathetic activity."
+  },
+  {
+   "id": "nebivolol:drug_interactions:1",
+   "medicamento": "nebivolol",
+   "secao": "drug_interactions",
+   "texto": "In patients who are receiving nebivolol tablets and clonidine, discontinue nebivolol tablets for several days before the gradual tapering of clonidine. 7.3 Digitalis Glycosides Both digitalis glycosides and β-blockers slow atrioventricular conduction and decrease heart rate. Concomitant use can increase the risk of bradycardia. 7.4 Calcium Channel Blockers Nebivolol tablets can exacerbate the effects of myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists (particularly of the phenylalkylamine [verapamil] and benzothiazepine [diltiazem] classes), or antiarrhythmic agents, such as disopyramide."
+  },
+  {
+   "id": "nebivolol:contraindications:0",
+   "medicamento": "nebivolol",
+   "secao": "contraindications",
+   "texto": "4. CONTRAINDICATIONS Nebivolol tablets are contraindicated in the following conditions: • Severe bradycardia • Heart block greater than first degree • Patients with cardiogenic shock • Decompensated cardiac failure • Sick sinus syndrome (unless a permanent pacemaker is in place) • Patients with severe hepatic impairment (Child-Pugh >B) • Patients who are hypersensitive to any component of this product. • Severe bradycardia ( 4 ) • Heart block greater than first degree ( 4 ) • Patients with cardiogenic shock ( 4 ) • Decompensated cardiac failure ( 4 ) • Sick sinus syndrome (unless a permanent pacemaker is in place) ( 4 ) • Patients with severe hepatic impairment (Child-Pugh >B) ( 4 ) • Hypersensitive to any component of this product ( 4 )"
+  },
+  {
+   "id": "nebivolol:clinical_pharmacology:0",
+   "medicamento": "nebivolol",
+   "secao": "clinical_pharmacology",
+   "texto": "In extensive metabolizers (most of the population) and at doses less than or equal to 10 mg, nebivolol is preferentially β 1 selective. In poor metabolizers and at higher doses, nebivolol inhibits both β 1 -and β 2 -adrenergic receptors. Possible factors that may be involved include: (1) decreased heart rate, (2) decreased myocardial contractility, (3) diminution of tonic sympathetic outflow to the periphery from cerebral vasomotor centers, (4) suppression of renin activity and (5) vasodilation and decreased peripheral vascular resistance. 12.3 Pharmacokinetics Nebivolol is metabolized by a number of routes, including glucuronidation and hydroxylation by CYP2D6. The active isomer (d-nebivolol) has an effective half-life of about 12 hours in CYP2D6 extensive metabolizers (most people), and 19 hours in poor metabolizers and exposure to d-nebivolol is substantially increased in poor metabolizers. Metabolism Nebivolol is predominantly metabolized via direct glucuronidation of parent and to a lesser extent via N-dealkylation and oxidation via cytochrome P450 2D6."
+  },
+  {
+   "id": "nebivolol:clinical_pharmacology:1",
+   "medicamento": "nebivolol",
+   "secao": "clinical_pharmacology",
+   "texto": "No studies have been conducted in patients on dialysis [see Dosage and Administration ( 2.1 )]. 12.5 Drug-Drug Interactions Drugs that inhibit CYP2D6 can be expected to increase plasma levels of nebivolol. When nebivolol tablets are co-administered with an inhibitor or an inducer of this enzyme, monitor patients closely and adjust the nebivolol dose according to blood pressure response. In vitro studies have demonstrated that at therapeutically relevant concentrations, d-and l-nebivolol do not inhibit any cytochrome P450 pathways. Fluoxetine: Fluoxetine, a CYP2D6 inhibitor, administered at 20 mg per day for 21 days prior to a single 10 mg dose of nebivolol to 10 healthy adults, led to an 8-fold increase in the AUC and 3-fold increase in C max for d-nebivolol [see Drug Interactions ( 7 )]."
+  },
+  {
+   "id": "nebivolol:pharmacokinetics:0",
+   "medicamento": "nebivolol",
+   "secao": "pharmacokinetics",
+   "texto": "12.3 Pharmacokinetics Nebivolol is metabolized by a number of routes, including glucuronidation and hydroxylation by CYP2D6. The active isomer (d-nebivolol) has an effective half-life of about 12 hours in CYP2D6 extensive metabolizers (most people), and 19 hours in poor metabolizers and exposure to d-nebivolol is substantially increased in poor metabolizers. Metabolism Nebivolol is predominantly metabolized via direct glucuronidation of parent and to a lesser extent via N-dealkylation and oxidation via cytochrome P450 2D6."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2D6 inhibitors (quinidine, propafenone, fluoxetine, paroxetine, etc.)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "propafenone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2D6 inhibitors (quinidine, propafenone, fluoxetine, paroxetine, etc.)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "fluoxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2D6 inhibitors (quinidine, propafenone, fluoxetine, paroxetine, etc.)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "paroxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2D6 inhibitors (quinidine, propafenone, fluoxetine, paroxetine, etc.)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "reserpine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Reserpine or clonidine may produce excessive reduction of sympathetic activity.",
+   "efeito": "excessive reduction of sympathetic activity",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clonidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Reserpine or clonidine may produce excessive reduction of sympathetic activity.",
+   "efeito": "excessive reduction of sympathetic activity",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "verapamil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Verapamil- or diltiazem-type calcium channel blockers may cause excessive reductions in heart rate, blood pressure, and cardiac contractility.",
+   "efeito": "excessive reductions in heart rate, blood pressure, and cardiac contractility",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "diltiazem",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Verapamil- or diltiazem-type calcium channel blockers may cause excessive reductions in heart rate, blood pressure, and cardiac contractility.",
+   "efeito": "excessive reductions in heart rate, blood pressure, and cardiac contractility",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "guanethidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Closely monitor patients receiving catecholamine-depleting drugs, such as reserpine or guanethidine, because the added β-blocking action of nebivolol tablets may produce excessive reduction of sympathetic activity.",
+   "efeito": "excessive reduction of sympathetic activity",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:drug_interactions:1",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Nebivolol tablets can exacerbate the effects of myocardial depressants or inhibitors of AV conduction, such as certain calcium antagonists... or antiarrhythmic agents, such as disopyramide.",
+   "efeito": "exacerbation of myocardial depression or AV conduction inhibition",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:contraindications:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "bradycardia",
+   "tipo_destino": "Condicao",
+   "evidencia": "Nebivolol tablets are contraindicated in the following conditions: • Severe bradycardia",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:clinical_pharmacology:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Nebivolol is metabolized by a number of routes, including glucuronidation and hydroxylation by CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nebivolol:clinical_pharmacology:1",
+   "origem": "fluoxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Fluoxetine, a CYP2D6 inhibitor",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "nebivolol:contraindications:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "heart block",
+   "tipo_destino": "Condicao",
+   "evidencia": "Nebivolol tablets are contraindicated in the following conditions: • Heart block greater than first degree",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "nebivolol:contraindications:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Nebivolol tablets are contraindicated in the following conditions: • Patients with cardiogenic shock",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "nebivolol:contraindications:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiac failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "Nebivolol tablets are contraindicated in the following conditions: • Decompensated cardiac failure",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "nebivolol:contraindications:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sick sinus syndrome",
+   "tipo_destino": "Condicao",
+   "evidencia": "Nebivolol tablets are contraindicated in the following conditions: • Sick sinus syndrome",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "nebivolol:contraindications:0",
+   "origem": "nebivolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hepatic impairment",
+   "tipo_destino": "Condicao",
+   "evidencia": "Nebivolol tablets are contraindicated in the following conditions: • Patients with severe hepatic impairment (Child-Pugh >B)",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

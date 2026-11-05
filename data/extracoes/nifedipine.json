@@ -1,0 +1,215 @@
+{
+ "generico": "nifedipine",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "nifedipine:drug_interactions:0",
+   "medicamento": "nifedipine",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions: Beta-adrenergic blocking agents: (see and .) Experience in over 1400 patients with nifedipine capsules in a noncomparative clinical trial has shown that concomitant administration of nifedipine and beta-blocking agents is usually well tolerated, but there have been occasional literature reports suggesting that the combination may increase the likelihood of congestive heart failure, severe hypotension, or exacerbation of angina. Long-acting Nitrates: Nifedipine may be safely co-administered with nitrates, but there have been no controlled studies to evaluate the antianginal effectiveness of this combination. Digitalis: Administration of nifedipine with digoxin increased digoxin levels in nine of twelve normal volunteers. The average increase was 45%. Another investigator found no increase in digoxin levels in thirteen patients with coronary artery disease. In an uncontrolled study of over two hundred patients with congestive heart failure during which digoxin blood levels were not measured, digitalis toxicity was not observed."
+  },
+  {
+   "id": "nifedipine:drug_interactions:1",
+   "medicamento": "nifedipine",
+   "secao": "drug_interactions",
+   "texto": "Since there have been isolated reports of patients with elevated digoxin levels, it is recommended that digoxin levels be monitored when initiating, adjusting, and discontinuing nifedipine to avoid possible over- or under-digitalization. Coumarin Anticoagulants: There have been rare reports of increased prothrombin time in patients taking coumarin anticoagulants to whom nifedipine was administered. However, the relationship to nifedipine therapy is uncertain. Cimetidine: A study in six healthy volunteers has shown a significant increase in peak nifedipine plasma levels (80%) and area-under-the-curve (74%), after a one week course of cimetidine at 1000 mg per day and nifedipine at 40 mg per day. Ranitidine produced smaller, non-significant increases. The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450, the enzyme system probably responsible for the first-pass metabolism of nifedipine. If nifedipine therapy is initiated in a patient currently receiving cimetidine, cautious titration is advised. Nifedipine is metabolized by CYP3A4."
+  },
+  {
+   "id": "nifedipine:drug_interactions:2",
+   "medicamento": "nifedipine",
+   "secao": "drug_interactions",
+   "texto": "Co-administration of nifedipine with phenytoin, an inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%. Avoid co-administration of nifedipine with phenytoin or any known CYP3A4 inducer or consider an alternative antihypertensive therapy. CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine when co-administered. Careful monitoring and dose adjustment may be necessary; consider initiating nifedipine at the lowest dose available if given concomitantly with these medications."
+  },
+  {
+   "id": "nifedipine:contraindications:0",
+   "medicamento": "nifedipine",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Known hypersensitivity reaction to nifedipine."
+  },
+  {
+   "id": "nifedipine:clinical_pharmacology:0",
+   "medicamento": "nifedipine",
+   "secao": "clinical_pharmacology",
+   "texto": "CLINICAL PHARMACOLOGY Nifedipine is a calcium ion influx inhibitor (slow-channel blocker or calcium ion antagonist) and inhibits the transmembrane influx of calcium ions into cardiac muscle and smooth muscle. Nifedipine selectively inhibits calcium ion influx across the cell membrane of cardiac muscle and vascular smooth muscle without altering serum calcium concentrations. Mechanism of Action A) Angina The precise mechanisms by which inhibition of calcium influx relieves angina has not been fully determined, but includes at least the following two mechanisms: 1) Relaxation and Prevention of Coronary Artery Spasm Nifedipine dilates the main coronary arteries and coronary arterioles, both in normal and ischemic regions, and is a potent inhibitor of coronary artery spasm, whether spontaneous or ergonovine-induced. The binding of nifedipine to voltage-dependent and possibly receptor-operated channels in vascular smooth muscle results in an inhibition of calcium influx through these channels. Pharmacokinetics and Metabolism Nifedipine is completely absorbed after oral administration."
+  },
+  {
+   "id": "nifedipine:clinical_pharmacology:1",
+   "medicamento": "nifedipine",
+   "secao": "clinical_pharmacology",
+   "texto": "Nifedipine is extensively metabolized to highly water-soluble, inactive metabolites, accounting for 60 to 80% of the dose excreted in the urine. The remainder is excreted in the feces in metabolized form, most likely as a result of biliary excretion."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "nifedipine:drug_interactions:0",
+   "origem": "nifedipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Administration of nifedipine with digoxin increased digoxin levels in nine of twelve normal volunteers.",
+   "efeito": "increased digoxin levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:1",
+   "origem": "cimetidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "cytochrome P-450",
+   "tipo_destino": "Enzima",
+   "evidencia": "The effect may be mediated by the known inhibition of cimetidine on hepatic cytochrome P-450, the enzyme system probably responsible for the first-pass metabolism of nifedipine.",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:1",
+   "origem": "nifedipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Nifedipine is metabolized by CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Co-administration of nifedipine with phenytoin, an inducer of CYP3A4, lowers the systemic exposure to nifedipine by approximately 70%.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "fluconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "nefazodone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "fluoxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "saquinavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "indinavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:drug_interactions:2",
+   "origem": "nelfinavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A inhibitors such as fluconazole, itraconazole, clarithromycin, erythromycin, nefazodone, fluoxetine, saquinavir, indinavir, and nelfinavir may result in increased exposure to nifedipine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "nifedipine:contraindications:0",
+   "origem": "nifedipine",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "CONTRAINDICATIONS Known hypersensitivity reaction to nifedipine.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

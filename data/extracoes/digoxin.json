@@ -1,0 +1,217 @@
+{
+ "generico": "digoxin",
+ "modelos": [
+  "gemini-3-flash-preview",
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "digoxin:drug_interactions:0",
+   "medicamento": "digoxin",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Digoxin has a narrow therapeutic index, increased monitoring of serum digoxin concentrations and for potential signs and symptoms of clinical toxicity is necessary when initiating, adjusting, or discontinuing drugs that may interact with digoxin. Prescribers should consult the prescribing information of any drug which is co-prescribed with digoxin for potential drug interaction information. PGP Inducers/Inhibitors: Drugs that induce or inhibit PGP have the potential to alter digoxin pharmacokinetics. ( 7.1 ) The potential for drug-drug interactions must be considered prior to and during drug therapy. See full prescribing information. ( 7.2 , 7.3 , 12.3 ) 7.1 P-Glycoprotein (PGP) Inducers/Inhibitors Digoxin is a substrate of P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary–intestinal secretion."
+  },
+  {
+   "id": "digoxin:drug_interactions:1",
+   "medicamento": "digoxin",
+   "secao": "drug_interactions",
+   "texto": "Therefore, drugs that induce/inhibit P-glycoprotein have the potential to alter digoxin pharmacokinetics. 7.2 Pharmacokinetic Drug Interactions Digoxin concentrations increased greater than 50% Digoxin Serum Concentration Increase Digoxin AUC Increase Recommendations Amiodarone 70% NA Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50% or by modifying the dosing frequency and continue monitoring. Captopril 58% 39% Clarithromycin NA 70% Dronedarone NA 150% Gentamicin 129-212% NA Erythromycin 100% NA Itraconazole 80% NA Lapatinib NA 180% Propafenone NA 60-270% Quinidine 100% NA Ranolazine 50% NA Ritonavir NA 86% Telaprevir 50% 85% Tetracycline 100% NA Verapamil 50-75% NA Digoxin concentrations increased less than 50% Atorvastatin 22% 15% Carvedilol 16% 14% Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing the dose by approximately 15-30% or by modifying the dosing frequency and continue monitoring."
+  },
+  {
+   "id": "digoxin:drug_interactions:2",
+   "medicamento": "digoxin",
+   "secao": "drug_interactions",
+   "texto": "Conivaptan 33% 43% Diltiazem 20% NA Indomethacin 40% NA Mirabegron 29% 27% Nefazodone 27% 15% Nifedipine 45% NA Propantheline 24% 24% Quinine NA 33% Rabeprazole 29% 19% Saquinavir 27% 49% Spironolactone 25% NA Telmisartan 20 to 49% NA Tricagrelor 31% 28% Tolvaptan 30% 20% Trimethoprim 22 to 28% NA Digoxin concentrations increased, but magnitude is unclear Alprazolam, azithromycin, cyclosporine, diclofenac, diphenoxylate, epoprostenol, esomeprazole, ibuprofen, ketoconazole, lansoprazole, metformin, omeprazole Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and reduce digoxin dose as necessary. Digoxin concentrations decreased Acarbose, activated charcoal, albuterol, antacids, certain cancer chemotherapy or radiation therapy, cholestyramine, colestipol, extenatide, kaolin-pectin, meals high in bran, metoclopramide, miglitol, neomycin, penicillamine, phenytoin, rifampin, St. John's Wort, sucralfate, sulfasalazine Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose by approximately 20 to 40% as necessary."
+  },
+  {
+   "id": "digoxin:drug_interactions:3",
+   "medicamento": "digoxin",
+   "secao": "drug_interactions",
+   "texto": "NA - Not available/reported 7.3 Potentially Significant Pharmacodynamic Drug Interactions Because of considerable variability of pharmacodynamic interactions, the dosage of digoxin should be individualized when patients receive these medications concurrently. Drugs that Affect Renal Function A decline in GFR or tubular secretion, as from ACE inhibitors, angiotensin receptor blockers, nonsteroidal anti-inflammatory drugs [NSAIDS], COX-2 inhibitors may impair the excretion of digoxin. Antiarrthymics Dofetilide Concomitant administration with digoxin was associated with a higher rate of torsades de pointes Sotalol Proarrhythmic events were more common in patients receiving sotalol and digoxin than on either alone; it is not clear whether this represents an interaction or is related to the presence of CHF, a known risk factor for proarrhythmia, in patients receiving digoxin. Dronedarone Sudden death was more common in patients receiving digoxin with dronedarone than on either alone; it is not clear whether this represents an interaction or is related to the presence of advanced heart disease, a known risk factor for sudden death in patients receiving digoxin."
+  },
+  {
+   "id": "digoxin:drug_interactions:4",
+   "medicamento": "digoxin",
+   "secao": "drug_interactions",
+   "texto": "Parathyroid Hormone Analog Teriparatide Sporadic case reports have suggested that hypercalcemia may predispose patients to digitalis toxicity. Teriparatide transiently increases serum calcium. Thyroid supplement Thyroid Treatment of hypothyroidism in patients taking digoxin may increase the dose requirements of digoxin. Sympathomimetics Epinephrine Norepinephrine Dopamine Can increase the risk of cardiac arrhythmias Neuromuscular Blocking Agents Succinylcholine May cause sudden extrusion of potassium from muscle cells causing arrhythmias in patients taking digoxin. Supplements Calcium If administered rapidly by intravenous route, can produce serious arrhythmias in digitalized patients. Beta-adrenergic blockers and calcium channel blockers Additive effects on AV node conduction can result in bradycardia and advanced or complete heart block. Hyperpolarization-activated cyclic nucleotide-gated channel blocker Ivabradine Can increase the risk of bradycardia. 7.4 Drug/Laboratory Test Interactions Endogenous substances of unknown composition (digoxin-like immunoreactive substances [DLIS]) can interfere with standard radioimmunoassays for digoxin."
+  },
+  {
+   "id": "digoxin:drug_interactions:5",
+   "medicamento": "digoxin",
+   "secao": "drug_interactions",
+   "texto": "The interference most often causes results to be falsely positive or falsely elevated, but sometimes it causes results to be falsely reduced. Some assays are more subject to these failings than others. Several LC/MS/MS methods are available that may provide less susceptibility to DLIS interference. DLIS are present in up to half of all neonates and in varying percentages of pregnant women, patients with hypertrophic cardiomyopathy, patients with renal or hepatic dysfunction, and other patients who are volume-expanded for any reason. The measured levels of DLIS (as digoxin equivalents) are usually low (0.2-0.4 ng/mL), but sometimes they reach levels that would be considered therapeutic or even toxic. In some assays, spironolactone, canrenone, and potassium canrenoate may be falsely detected as digoxin, at levels up to 0.5 ng/mL. Some traditional Chinese and Ayurvedic medicine substances like Chan Su, Siberian Ginseng, Asian Ginseng, Ashwagandha or Dashen can cause similar interference. Spironolactone and DLIS are much more extensively protein-bound than digoxin."
+  },
+  {
+   "id": "digoxin:drug_interactions:6",
+   "medicamento": "digoxin",
+   "secao": "drug_interactions",
+   "texto": "As a result, assays of free digoxin levels in protein-free ultrafiltrate (which tend to be about 25% less than total levels, consistent with the usual extent of protein binding) are less affected by spironolactone or DLIS. It should be noted that ultrafiltration does not solve all interference problems with alternative medicines. The use of an LC/MS/MS method may be the better option according to the good results it provides, especially in terms of specificity and limit of quantization."
+  },
+  {
+   "id": "digoxin:contraindications:0",
+   "medicamento": "digoxin",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Digoxin is contraindicated in patients with: Ventricular fibrillation [see Warnings and Precautions (5.1)] Known hypersensitivity to digoxin (reactions seen include unexplained rash, swelling of the mouth, lips or throat or a difficulty in breathing). A hypersensitivity reaction to other digitalis preparations usually constitutes a contraindication to digoxin. Ventricular fibrillation. ( 4 ) Known hypersensitivity to digoxin or other forms of digitalis. ( 4 )"
+  },
+  {
+   "id": "digoxin:clinical_pharmacology:0",
+   "medicamento": "digoxin",
+   "secao": "clinical_pharmacology",
+   "texto": "By inhibiting Na-K ATPase, digoxin causes increased availability of intracellular calcium in the myocardium and conduction system, with consequent increased inotropy, increased automaticity, and reduced conduction velocity indirectly causes parasympathetic stimulation of the autonomic nervous system, with consequent effects on the sino-atrial (SA) and atrioventricular (AV) nodes reduces catecholamine reuptake at nerve terminals, rendering blood vessels more sensitive to endogenous or exogenous catecholamines increases baroreceptor sensitization, with consequent increased carotid sinus nerve activity and enhanced sympathetic withdrawal for any given increment in mean arterial pressure increases (at higher concentrations) sympathetic outflow from the central nervous system (CNS) to both cardiac and peripheral sympathetic nerves allows (at higher concentrations) progressive efflux of intracellular potassium, with consequent increase in serum potassium levels. Digoxin is a substrate for P-glycoprotein. As an efflux protein on the apical membrane of enterocytes, P-glycoprotein may limit the absorption of digoxin."
+  },
+  {
+   "id": "digoxin:clinical_pharmacology:1",
+   "medicamento": "digoxin",
+   "secao": "clinical_pharmacology",
+   "texto": "Metabolism: Only a small percentage (13%) of a dose of digoxin is metabolized in healthy volunteers. The metabolism of digoxin is not dependent upon the cytochrome P-450 system, and digoxin is not known to induce or inhibit the cytochrome P-450 system. Hepatic Impairment: Because only a small percentage (approximately 13%) of a dose of digoxin undergoes metabolism, hepatic impairment would not be expected to significantly alter the pharmacokinetics of digoxin."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "digoxin:drug_interactions:0",
+   "origem": "digoxin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Digoxin is a substrate of P-glycoprotein, at the level of intestinal absorption, renal tubular section and biliary–intestinal secretion.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:drug_interactions:1",
+   "origem": "amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Amiodarone 70% NA Measure serum digoxin concentrations before initiating concomitant drugs. Reduce digoxin concentrations by decreasing dose by approximately 30-50%",
+   "efeito": "Increase in serum digoxin concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:drug_interactions:2",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Digoxin concentrations decreased... rifampin... Measure serum digoxin concentrations before initiating concomitant drugs. Continue monitoring and increase digoxin dose",
+   "efeito": "Decrease in serum digoxin concentration",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:drug_interactions:3",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Sudden death was more common in patients receiving digoxin with dronedarone than on either alone",
+   "efeito": "Increased risk of sudden death",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:drug_interactions:4",
+   "origem": "epinephrine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Epinephrine Norepinephrine Dopamine Can increase the risk of cardiac arrhythmias",
+   "efeito": "Increased risk of cardiac arrhythmias",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:drug_interactions:4",
+   "origem": "ivabradine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Ivabradine Can increase the risk of bradycardia.",
+   "efeito": "Increased risk of bradycardia",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:contraindications:0",
+   "origem": "digoxin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "ventricular fibrillation",
+   "tipo_destino": "Condicao",
+   "evidencia": "Digoxin is contraindicated in patients with: Ventricular fibrillation",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:contraindications:0",
+   "origem": "digoxin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Known hypersensitivity to digoxin (reactions seen include unexplained rash, swelling of the mouth, lips or throat or a difficulty in breathing).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "digoxin:clinical_pharmacology:0",
+   "origem": "digoxin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "Na-K ATPase",
+   "tipo_destino": "Enzima",
+   "evidencia": "By inhibiting Na-K ATPase, digoxin causes increased availability of intracellular calcium",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "digoxin:clinical_pharmacology:0",
+   "origem": "digoxin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Digoxin is a substrate for P-glycoprotein.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "digoxin:drug_interactions:1",
+   "origem": "quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Quinidine 100% NA Measure serum digoxin concentrations before initiating concomitant drugs.",
+   "efeito": "Increase in serum digoxin concentration",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  },
+  {
+   "trecho_id": "digoxin:drug_interactions:1",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Verapamil 50-75% NA Measure serum digoxin concentrations before initiating concomitant drugs.",
+   "efeito": "Increase in serum digoxin concentration",
+   "confianca": 1.0,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

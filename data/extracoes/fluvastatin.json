@@ -1,0 +1,263 @@
+{
+ "generico": "fluvastatin",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "fluvastatin:drug_interactions:0",
+   "medicamento": "fluvastatin",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Cyclosporine: Combination increases fluvastatin exposure. Limit fluvastatin dose to 20 mg ( 2.4 , 7.1 ) Fluconazole: Combination increases fluvastatin exposure. Limit fluvastatin dose to 20 mg ( 2.5 , 7.2 ) Concomitant lipid-lowering therapies: Use with fibrates or lipid-modifying doses (≥ 1 g/day) of niacin increases the risk of adverse skeletal muscle effects. Caution should be used when prescribing with fluvastatin ( 5.1 , 7.3 , 7.4 ) Glyburide: Monitor blood glucose levels when fluvastatin dose is changed ( 7 ) Phenytoin: Monitor plasma phenytoin levels when fluvastatin treatment is initiated or when the dosage is changed ( 7 ) Warfarin and coumarin derivates: Monitor prothrombin times when fluvastatin coadministration is initiated, discontinued, or the dosage changed ( 7 ) 7.1 Cyclosporine Cyclosporine coadministration increases fluvastatin exposure."
+  },
+  {
+   "id": "fluvastatin:drug_interactions:1",
+   "medicamento": "fluvastatin",
+   "secao": "drug_interactions",
+   "texto": "Therefore, in patients taking cyclosporine, therapy should be limited to fluvastatin 20 mg twice daily [ see Warnings and Precautions ( 5.1 ) and Clinical Pharmacology ( 12.3 ) ]. 7.2 Fluconazole Administration of fluvastatin 40 mg single dose to healthy volunteers pre-treated with fluconazole for 4 days results in an increase of fluvastatin exposure."
+  },
+  {
+   "id": "fluvastatin:drug_interactions:2",
+   "medicamento": "fluvastatin",
+   "secao": "drug_interactions",
+   "texto": "Therefore, in patients taking fluconazole, therapy should be limited to fluvastatin 20 mg twice daily [ see Clinical Pharmacology ( 12.3 ) ] . 7.3 Gemfibrozil Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of fluvastatin sodium with gemfibrozil should be avoided. 7.4 Other Fibrates Because it is known that the risk of myopathy during treatment with HMG-CoA reductase inhibitors is increased with concurrent administration of other fibrates, fluvastatin sodium should be administered with caution when used concomitantly with other fibrates [ see Warnings and Precautions ( 5.1 ) and Clinical Pharmacology ( 12.3 ) ]. 7.5 Niacin The risk of skeletal muscle effects may be enhanced when fluvastatin sodium is used in combination with lipid-modifying doses (≥ 1 g/day) of niacin; a reduction in fluvastatin sodium dosage should be considered in this setting [ see Warnings and Precautions ( 5.1 ) ]. 7.6 Glyburide Concomitant administration of fluvastatin and glyburide increased glyburide exposures."
+  },
+  {
+   "id": "fluvastatin:drug_interactions:3",
+   "medicamento": "fluvastatin",
+   "secao": "drug_interactions",
+   "texto": "Patients on concomitant therapy of glyburide and fluvastatin should continue to be monitored appropriately [ see Clinical Pharmacology ( 12.3 ) ]. 7.7 Phenytoin Concomitant administration of fluvastatin and phenytoin increased phenytoin exposures. Patients should continue to be monitored appropriately when fluvastatin therapy is initiated or when fluvastatin dose is changed [ see Clinical Pharmacology ( 12.3 ) ]. 7.8 Warfarin Bleeding and/or increased prothrombin times have been reported in patients taking coumarin anticoagulants concomitantly with other HMG-CoA reductase inhibitors. Therefore, patients receiving warfarin-type anticoagulants should have their prothrombin times closely monitored when fluvastatin sodium is initiated or the dosage of fluvastatin sodium is changed. 7.9 Colchicine Cases of myopathy, including rhabdomyolysis, have been reported with fluvastatin coadministered with colchicine, and caution should be exercised when prescribing fluvastatin with colchicine."
+  },
+  {
+   "id": "fluvastatin:contraindications:0",
+   "medicamento": "fluvastatin",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Hypersensitivity to any component of this medication ( 4 ) Active liver disease or unexplained, persistent elevations in serum transaminases ( 4 , 5.3 ) Women who are pregnant or may become pregnant ( 4 , 8.1 ) Nursing mothers ( 4 , 8.3 ) 4.1 Hypersensitivity to any Component of This Medication Fluvastatin capsules are contraindicated in patients with hypersensitivity to any component of this medication. 4.2 Active Liver Disease Fluvastatin capsules are contraindicated in patients with active liver disease or unexplained, persistent elevations in serum transaminases [ see Warnings and Precautions ( 5.3 ) ]. 4.3 Pregnancy Fluvastatin capsules are contraindicated in women who are pregnant or may become pregnant. Serum cholesterol and triglycerides increase during normal pregnancy, and cholesterol or cholesterol derivatives are essential for fetal development. Fluvastatin capsules may cause fetal harm when administered to pregnant women. Atherosclerosis is a chronic process and the discontinuation of lipid-lowering drugs during pregnancy should have little impact on the outcome of long-term therapy of primary hypercholesterolemia."
+  },
+  {
+   "id": "fluvastatin:contraindications:1",
+   "medicamento": "fluvastatin",
+   "secao": "contraindications",
+   "texto": "Fluvastatin capsules should be administered to women of childbearing age only when such patients are highly unlikely to conceive and have been informed of the potential hazards. If the patient becomes pregnant while taking this drug, fluvastatin capsules should be discontinued and the patient should be apprised of the potential hazard to the fetus [ see Use in Specific Populations ( 8.1 ) ]. 4.4 Nursing Mothers Fluvastatin is secreted into the breast milk of animals and because HMG-CoA reductase inhibitors have the potential to cause serious adverse reactions in nursing infants, women who require treatment with fluvastatin capsules should be advised not to breastfeed their infants [ see Use in Specific Populations ( 8.3 ) ]."
+  },
+  {
+   "id": "fluvastatin:clinical_pharmacology:0",
+   "medicamento": "fluvastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Fluvastatin sodium is a competitive inhibitor of HMG-CoA reductase, the rate limiting enzyme that converts 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) to mevalonate, a precursor of sterols, including cholesterol. The inhibition of cholesterol biosynthesis reduces the cholesterol in hepatic cells, which stimulates the synthesis of LDL receptors and thereby increases the uptake of LDL particles. After single or multiple doses above 20 mg, fluvastatin exhibits saturable first-pass metabolism resulting in more than dose proportional plasma fluvastatin concentrations. Metabolism: Fluvastatin is metabolized in the liver, primarily via hydroxylation of the indole ring at the 5 and 6 positions. Both enantiomers of fluvastatin are metabolized in a similar manner. In vitro data indicate that fluvastatin metabolism involves multiple Cytochrome P450 (CYP) isozymes. CYP2C9 isoenzyme is primarily involved in the metabolism of fluvastatin (approximately 75%), while CYP2C8 and CYP3A4 isoenzymes are involved to a much less extent, i.e., approximately 5% and approximately 20%, respectively."
+  },
+  {
+   "id": "fluvastatin:pharmacokinetics:0",
+   "medicamento": "fluvastatin",
+   "secao": "pharmacokinetics",
+   "texto": "After single or multiple doses above 20 mg, fluvastatin exhibits saturable first-pass metabolism resulting in more than dose proportional plasma fluvastatin concentrations. Metabolism: Fluvastatin is metabolized in the liver, primarily via hydroxylation of the indole ring at the 5 and 6 positions. Both enantiomers of fluvastatin are metabolized in a similar manner. In vitro data indicate that fluvastatin metabolism involves multiple Cytochrome P450 (CYP) isozymes. CYP2C9 isoenzyme is primarily involved in the metabolism of fluvastatin (approximately 75%), while CYP2C8 and CYP3A4 isoenzymes are involved to a much less extent, i.e., approximately 5% and approximately 20%, respectively."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "fluvastatin:drug_interactions:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cyclosporine: Combination increases fluvastatin exposure.",
+   "efeito": "increased fluvastatin exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "fluconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Fluconazole: Combination increases fluvastatin exposure.",
+   "efeito": "increased fluvastatin exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "glyburide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Glyburide: Monitor blood glucose levels when fluvastatin dose is changed",
+   "efeito": "potential for altered blood glucose levels",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Phenytoin: Monitor plasma phenytoin levels when fluvastatin treatment is initiated or when the dosage is changed",
+   "efeito": "potential change in phenytoin levels",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Warfarin and coumarin derivates: Monitor prothrombin times when fluvastatin coadministration is initiated, discontinued, or the dosage changed",
+   "efeito": "increased prothrombin times",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:2",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "gemfibrozil",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Due to an increased risk of myopathy/rhabdomyolysis when HMG-CoA reductase inhibitors are coadministered with gemfibrozil, concomitant administration of fluvastatin sodium with gemfibrozil should be avoided.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:2",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "niacin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of skeletal muscle effects may be enhanced when fluvastatin sodium is used in combination with lipid-modifying doses (≥ 1 g/day) of niacin",
+   "efeito": "enhanced risk of skeletal muscle effects",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:2",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "glyburide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of fluvastatin and glyburide increased glyburide exposures.",
+   "efeito": "increased glyburide exposures",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:3",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of fluvastatin and phenytoin increased phenytoin exposures.",
+   "efeito": "increased phenytoin exposures",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:drug_interactions:3",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colchicine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cases of myopathy, including rhabdomyolysis, have been reported with fluvastatin coadministered with colchicine",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:contraindications:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "liver disease",
+   "tipo_destino": "Condicao",
+   "evidencia": "Fluvastatin capsules are contraindicated in patients with active liver disease or unexplained, persistent elevations in serum transaminases",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:contraindications:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "pregnancy",
+   "tipo_destino": "Condicao",
+   "evidencia": "Fluvastatin capsules are contraindicated in women who are pregnant or may become pregnant.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:contraindications:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "fetal harm",
+   "tipo_destino": "Efeito",
+   "evidencia": "Fluvastatin capsules may cause fetal harm when administered to pregnant women.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:clinical_pharmacology:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "HMG-CoA reductase",
+   "tipo_destino": "Enzima",
+   "evidencia": "Fluvastatin sodium is a competitive inhibitor of HMG-CoA reductase",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:clinical_pharmacology:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2C9 isoenzyme is primarily involved in the metabolism of fluvastatin (approximately 75%)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:clinical_pharmacology:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2C8 and CYP3A4 isoenzymes are involved to a much less extent, i.e., approximately 5% and approximately 20%, respectively.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "fluvastatin:clinical_pharmacology:0",
+   "origem": "fluvastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP2C8 and CYP3A4 isoenzymes are involved to a much less extent, i.e., approximately 5% and approximately 20%, respectively.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

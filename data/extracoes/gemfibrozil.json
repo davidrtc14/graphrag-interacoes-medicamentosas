@@ -1,0 +1,257 @@
+{
+ "generico": "gemfibrozil",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "gemfibrozil:drug_interactions:0",
+   "medicamento": "gemfibrozil",
+   "secao": "drug_interactions",
+   "texto": "3. Drug Interactions (A) HMG-CoA Reductase Inhibitors: The concomitant administration of gemfibrozil with simvastatin is contraindicated ( see CONTRAINDICATIONS and WARNINGS ). Avoid concomitant use of gemfibrozil with rosuvastatin. If concomitant use cannot be avoided, initiate rosuvastatin at 5 mg once daily. The dose of rosuvastatin should not exceed 10 mg once daily. The risk of myopathy and rhabdomyolysis is increased with combined gemfibrozil and HMG-CoA reductase inhibitor therapy. Myopathy or rhabdomyolysis with or without acute renal failure have been reported as early as three weeks after initiation of combined therapy or after several months (see WARNINGS ). There is no assurance that periodic monitoring of creatine kinase will prevent the occurrence of severe myopathy and kidney damage. (B) Anti-coagulants: CAUTION SHOULD BE EXERCISED WHEN WARFARIN IS GIVEN IN CONJUNCTION WITH GEMFIBROZIL. THE DOSAGE OF WARFARIN SHOULD BE REDUCED TO MAINTAIN THE PROTHROMBIN TIME AT THE DESIRED LEVEL TO PREVENT BLEEDING COMPLICATIONS. FREQUENT PROTHROMBIN DETERMINATIONS ARE ADVISABLE UNTIL IT HAS BEEN DEFINITELY DETERMINED THAT THE PROTHROMBIN LEVEL HAS STABILIZED."
+  },
+  {
+   "id": "gemfibrozil:drug_interactions:1",
+   "medicamento": "gemfibrozil",
+   "secao": "drug_interactions",
+   "texto": "(C) CYP2C8 Substrates: Gemfibrozil is a strong inhibitor of CYP2C8 and may increase exposure of drugs mainly metabolized by CYP2C8 (e.g., dabrafenib, enzalutamide, loperamide, montelukast, paclitaxel, pioglitazone, rosiglitazone). Therefore, dosing reduction of drugs that are mainly metabolized by CYP2C8 enzyme may be required when gemfibrozil is used concomitantly (see WARNINGS ). Repaglinide: In healthy volunteers, co-administration with gemfibrozil (600 mg twice daily for 3 days) resulted in an 8.1-fold (range 5.5- to 15.0- fold) higher repaglinide AUC and a 28.6-fold (range 18.5- to 80.1-fold) higher repaglinide plasma concentration 7 hours after the dose. In the same study, gemfibrozil (600 mg twice daily for 3 days) + itraconazole (200 mg in the morning and 100 mg in the evening at Day 1, then 100 mg twice daily at Day 2-3) resulted in a 19.4- (range 12.9- to 24.7-fold) higher repaglinide AUC and a 70.4-fold (range 42.9- to 119.2-fold) higher repaglinide plasma concentration 7 hours after the dose. In addition, gemfibrozil alone or gemfibrozil + itraconazole prolonged the hypoglycemic effects of repaglinide."
+  },
+  {
+   "id": "gemfibrozil:drug_interactions:2",
+   "medicamento": "gemfibrozil",
+   "secao": "drug_interactions",
+   "texto": "Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated (see CONTRAINDICATIONS ). Dasabuvir: Co-administration of gemfibrozil with dasabuvir increased dasabuvir AUC and C max (ratios: 11.3 and 2.01, respectively) due to CYP2C8 inhibition. Increased dasabuvir exposure may increase the risk of QT prolongation, therefore, coadministration of gemfibrozil with dasabuvir is contraindicated (see CONTRAINDICATIONS ). Selexipag: Co-administration of gemfibrozil with selexipag doubled exposure to selexipag and increased exposure to the active metabolite by approximately 11-fold. Concomitant administration of gemfibrozil with selexipag is contraindicated (see CONTRAINDICATIONS ). Enzalutamide: In healthy volunteers given a single 160 mg dose of enzalutamide after gemfibrozil 600 mg twice daily, the AUC of enzalutamide plus active metabolite (N-desmethyl enzalutamide) was increased by 2.2 fold and corresponding C max was decreased by 16%. Increased enzalutamide exposure may increase the risk of seizures. If co-administration is considered necessary, the dose of enzalutamide should be reduced (see WARNINGS )."
+  },
+  {
+   "id": "gemfibrozil:drug_interactions:3",
+   "medicamento": "gemfibrozil",
+   "secao": "drug_interactions",
+   "texto": "(D) OATP1B1 substrates: Gemfibrozil is an inhibitor of OATP1B1 transporter and may increase exposure of drugs that are substrates of OATP1B1 (e.g., atrasentan, atorvastatin, bosentan, ezetimibe, fluvastatin, glyburide, SN-38 [active metabolite of irinotecan], rosuvastatin, pitavastatin, pravastatin, rifampin, valsartan, olmesartan). Therefore, dosing reductions of drugs that are substrates of OATP1B1 may be required when gemfibrozil is used concomitantly (see WARNINGS ). Combination therapy of gemfibrozil with simvastatin or with repaglinide, which are OATP1B1 substrates, is contraindicated (see CONTRAINDICATIONS ). (E) In vitro studies of CYP enzymes, UGTA enzymes and OATP1B1 transporter: In vitro studies have shown that gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3 (see WARNINGS ). (F) Bile Acid-Binding Resins: Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol (5 g)."
+  },
+  {
+   "id": "gemfibrozil:drug_interactions:4",
+   "medicamento": "gemfibrozil",
+   "secao": "drug_interactions",
+   "texto": "Administration of the drugs two hours or more apart is recommended because gemfibrozil exposure was not significantly affected when it was administered two hours apart from colestipol. (G) Colchicine Myopathy, including rhabdomyolysis, has been reported with chronic administration of colchicine at therapeutic doses. Concomitant use of gemfibrozil may potentiate the development of myopathy. Patients with renal dysfunction and elderly patients are at increased risk. Caution should be excercised when prescribing gemfibrozil with colchicine, especially in elderly patients or patients with renal dysfunction."
+  },
+  {
+   "id": "gemfibrozil:contraindications:0",
+   "medicamento": "gemfibrozil",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Hepatic or severe renal dysfunction, including primary biliary cirrhosis. Preexisting gallbladder disease (see WARNINGS ). Hypersensitivity to gemfibrozil. Combination therapy of gemfibrozil with simvastatin (see WARNINGS and PRECAUTIONS ). Combination therapy of gemfibrozil with repaglinide (see PRECAUTIONS ). Combination therapy of gemfibrozil with dasabuvir (see PRECAUTIONS ). Combination therapy of gemfibrozil with selexipag (see PRECAUTIONS )."
+  },
+  {
+   "id": "gemfibrozil:clinical_pharmacology:0",
+   "medicamento": "gemfibrozil",
+   "secao": "clinical_pharmacology",
+   "texto": "In man, gemfibrozil has been shown to inhibit peripheral lipolysis and to decrease the hepatic extraction of free fatty acids, thus reducing hepatic triglyceride production. Gemfibrozil inhibits synthesis and increases clearance of VLDL carrier apolipoprotein B, leading to a decrease in VLDL production."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:0",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The concomitant administration of gemfibrozil with simvastatin is contraindicated",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:0",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rosuvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Avoid concomitant use of gemfibrozil with rosuvastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:0",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "CAUTION SHOULD BE EXERCISED WHEN WARFARIN IS GIVEN IN CONJUNCTION WITH GEMFIBROZIL.",
+   "efeito": "bleeding complications",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:1",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "Gemfibrozil is a strong inhibitor of CYP2C8",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:2",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "repaglinide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Co-administration of gemfibrozil and repaglinide increases the risk of severe hypoglycemia and is contraindicated",
+   "efeito": "severe hypoglycemia",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:2",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dasabuvir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration of gemfibrozil with dasabuvir is contraindicated",
+   "efeito": "increased risk of QT prolongation",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:2",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "selexipag",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of gemfibrozil with selexipag is contraindicated",
+   "efeito": "increased exposure to selexipag",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Gemfibrozil is an inhibitor of OATP1B1 transporter",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP1A2",
+   "tipo_destino": "Enzima",
+   "evidencia": "gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "UGT1A1",
+   "tipo_destino": "Enzima",
+   "evidencia": "gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "UGT1A3",
+   "tipo_destino": "Enzima",
+   "evidencia": "gemfibrozil is an inhibitor of CYP1A2, CYP2C8, CYP2C9, CYP2C19, OATP1B1, and UDP-glucuronosyltransferase (UGT) 1A1 and 1A3",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:3",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colestipol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Gemfibrozil AUC was reduced by 30% when gemfibrozil was given (600 mg) simultaneously with resin-granule drugs such as colestipol",
+   "efeito": "reduced gemfibrozil exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:drug_interactions:4",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colchicine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of gemfibrozil may potentiate the development of myopathy.",
+   "efeito": "myopathy and rhabdomyolysis",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:contraindications:0",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hepatic dysfunction",
+   "tipo_destino": "Condicao",
+   "evidencia": "CONTRAINDICATIONS Hepatic or severe renal dysfunction",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "gemfibrozil:contraindications:0",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "renal dysfunction",
+   "tipo_destino": "Condicao",
+   "evidencia": "CONTRAINDICATIONS Hepatic or severe renal dysfunction",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

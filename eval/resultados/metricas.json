@@ -1,0 +1,29 @@
+{
+ "llm_puro": {
+  "execucoes": 40,
+  "acerto_direta": 0.6,
+  "acerto_multi_hop": 0.867,
+  "abstencao_correta_sem_resposta": 0.5,
+  "abstencao_indevida": 0.0,
+  "respostas_com_citacao": 0.0,
+  "latencia_mediana_s": 1.06
+ },
+ "rag_vetorial": {
+  "execucoes": 40,
+  "acerto_direta": 0.267,
+  "acerto_multi_hop": 0.133,
+  "abstencao_correta_sem_resposta": 1.0,
+  "abstencao_indevida": 0.667,
+  "respostas_com_citacao": 1.0,
+  "latencia_mediana_s": 1.03
+ },
+ "graphrag": {
+  "execucoes": 40,
+  "acerto_direta": 1.0,
+  "acerto_multi_hop": 0.933,
+  "abstencao_correta_sem_resposta": 1.0,
+  "abstencao_indevida": 0.0,
+  "respostas_com_citacao": 1.0,
+  "latencia_mediana_s": 2.56
+ }
+}

@@ -1,0 +1,203 @@
+{
+ "generico": "ticagrelor",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "ticagrelor:drug_interactions:0",
+   "medicamento": "ticagrelor",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Avoid use with strong CYP3A inhibitors or CYP3A inducers. (7.1, 7.2) Opioids: Decreased exposure to ticagrelor. Consider use of parenteral anti-platelet agent. (7.3) Patients receiving more than 40 mg per day of simvastatin or lovastatin may be at increased risk of statin-related adverse effects. (7.4) Rosuvastatin plasma concentrations may increase. Monitor for statin-related adverse effects. (7.4) Monitor digoxin levels with initiation of or any change in ticagrelor. (7.5) 7.1 Strong CYP3A Inhibitors Strong CYP3A inhibitors substantially increase ticagrelor exposure and so increase the risk of dyspnea, bleeding, and other adverse events. Avoid use of strong inhibitors of CYP3A (e.g., ketoconazole, itraconazole, voriconazole, clarithromycin, nefazodone, ritonavir, saquinavir, nelfinavir, indinavir, atazanavir and telithromycin) [ see Clinical Pharmacology (12.3) ] . 7.2 Strong CYP3A Inducers Strong CYP3A inducers substantially reduce ticagrelor exposure and so decrease the efficacy of ticagrelor."
+  },
+  {
+   "id": "ticagrelor:drug_interactions:1",
+   "medicamento": "ticagrelor",
+   "secao": "drug_interactions",
+   "texto": "Avoid use with strong inducers of CYP3A (e.g., rifampin, phenytoin, carbamazepine and phenobarbital) [see Clinical Pharmacology (12.3)]. 7.3 Opioids As with other oral P2Y 12 inhibitors, co-administration of opioid agonists delay and reduce the absorption of ticagrelor and its active metabolite presumably because of slowed gastric emptying [see Clinical Pharmacology (12.3)] . Consider the use of a parenteral anti-platelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists. 7.4 Simvastatin, Lovastatin, Rosuvastatin Ticagrelor increases serum concentrations of simvastatin and lovastatin because these drugs are metabolized by CYP3A4. Avoid simvastatin and lovastatin doses greater than 40 mg [see Clinical Pharmacology (12.3)]. Ticagrelor increases serum concentration of rosuvastatin because rosuvastatin is a BCRP substrate [see Clinical Pharmacology (12.3)]. 7.5 Digoxin Ticagrelor inhibits the P-glycoprotein transporter; monitor digoxin levels with initiation of or change in ticagrelor therapy [see Clinical Pharmacology (12.3)]."
+  },
+  {
+   "id": "ticagrelor:contraindications:0",
+   "medicamento": "ticagrelor",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS History of intracranial hemorrhage. (4.1) Active pathological bleeding. (4.2) Hypersensitivity to ticagrelor or any component of the product. (4.3) 4.1 History of Intracranial Hemorrhage Ticagrelor tablet is contraindicated in patients with a history of intracranial hemorrhage (ICH) because of a high risk of recurrent ICH in this population [see Clinical Studies (14.1, 14.2)]. 4.2 Active Bleeding Ticagrelor tablet is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage [see Warnings and Precautions (5.1) and Adverse Reactions (6.1)]. 4.3 Hypersensitivity Ticagrelor tablet is contraindicated in patients with hypersensitivity (e.g., angioedema) to ticagrelor or any component of the product ."
+  },
+  {
+   "id": "ticagrelor:clinical_pharmacology:0",
+   "medicamento": "ticagrelor",
+   "secao": "clinical_pharmacology",
+   "texto": "Ticagrelor and its active metabolite are approximately equipotent. 12.2 Pharmacodynamics The inhibition of platelet aggregation (IPA) by ticagrelor and clopidogrel was compared in a 6-week study examining both acute and chronic platelet inhibition effects in response to 20 μM ADP as the platelet aggregation agonist. Figure 5 – Mean inhibition of platelet aggregation (±SE) following single oral doses of placebo, 180 mg ticagrelor or 600 mg clopidogrel Figure 6 – Mean inhibition of platelet aggregation (IPA) following 6 weeks on placebo, ticagrelor 90 mg twice daily, or clopidogrel 75 mg daily Transitioning from clopidogrel to ticagrelor resulted in an absolute IPA increase of 26.4% and from ticagrelor to clopidogrel resulted in an absolute IPA decrease of 24.5%. Metabolism CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of its major active metabolite. Ticagrelor and its major active metabolite are weak P-glycoprotein substrates and inhibitors. Ticagrelor is a BCRP inhibitor. Excretion The primary route of ticagrelor elimination is hepatic metabolism."
+  },
+  {
+   "id": "ticagrelor:clinical_pharmacology:1",
+   "medicamento": "ticagrelor",
+   "secao": "clinical_pharmacology",
+   "texto": "Figure 7 – Impact of intrinsic factors on the pharmacokinetics of ticagrelor Effects of Other Drugs on Ticagrelor CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of its major active metabolite. Strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, and clarithromycin) substantially increase ticagrelor exposure. Moderate CYP3A inhibitors have lesser effects (e.g., diltiazem). CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels. P-gp inhibitors (e.g., cyclosporine) increase ticagrelor exposure. Morphine co-administration did not delay or decrease platelet inhibition in healthy adults. Co-administration of intravenous fentanyl with 180 mg loading dose of ticagrelor in ACS patients undergoing PCI resulted in similar effects on ticagrelor exposure and platelet inhibition. Figure 8 – Effect of co-administered drugs on the pharmacokinetics of ticagrelor Effects of Ticagrelor on Other Drugs In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter."
+  },
+  {
+   "id": "ticagrelor:clinical_pharmacology:2",
+   "medicamento": "ticagrelor",
+   "secao": "clinical_pharmacology",
+   "texto": "In vitro metabolism studies demonstrate that ticagrelor is a BCRP inhibitor. Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity. Figure 9 – Impact of ticagrelor on the pharmacokinetics of co-administered drugs figure 7 figure 8 figure 9 12.5 Pharmacogenomics In a genetic substudy cohort of PLATO, the rate of thrombotic CV events in the ticagrelor arm did not depend on CYP2C19 loss of function status."
+  },
+  {
+   "id": "ticagrelor:pharmacokinetics:0",
+   "medicamento": "ticagrelor",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of its major active metabolite. Ticagrelor and its major active metabolite are weak P-glycoprotein substrates and inhibitors. Ticagrelor is a BCRP inhibitor. Excretion The primary route of ticagrelor elimination is hepatic metabolism. Figure 7 – Impact of intrinsic factors on the pharmacokinetics of ticagrelor Effects of Other Drugs on Ticagrelor CYP3A4 is the major enzyme responsible for ticagrelor metabolism and the formation of its major active metabolite. Strong CYP3A inhibitors (e.g., ketoconazole, itraconazole, and clarithromycin) substantially increase ticagrelor exposure. Moderate CYP3A inhibitors have lesser effects (e.g., diltiazem). CYP3A inducers (e.g., rifampin) substantially reduce ticagrelor blood levels. P-gp inhibitors (e.g., cyclosporine) increase ticagrelor exposure. Morphine co-administration did not delay or decrease platelet inhibition in healthy adults. Co-administration of intravenous fentanyl with 180 mg loading dose of ticagrelor in ACS patients undergoing PCI resulted in similar effects on ticagrelor exposure and platelet inhibition."
+  },
+  {
+   "id": "ticagrelor:pharmacokinetics:1",
+   "medicamento": "ticagrelor",
+   "secao": "pharmacokinetics",
+   "texto": "Figure 8 – Effect of co-administered drugs on the pharmacokinetics of ticagrelor Effects of Ticagrelor on Other Drugs In vitro metabolism studies demonstrate that ticagrelor and its major active metabolite are weak inhibitors of CYP3A4, potential activators of CYP3A5 and inhibitors of the P-gp transporter. In vitro metabolism studies demonstrate that ticagrelor is a BCRP inhibitor. Ticagrelor and AR-C124910XX were shown to have no inhibitory effect on human CYP1A2, CYP2C19, and CYP2E1 activity."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "ticagrelor:drug_interactions:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Patients receiving more than 40 mg per day of simvastatin or lovastatin may be at increased risk of statin-related adverse effects.",
+   "efeito": "increased risk of statin-related adverse effects",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:drug_interactions:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lovastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Patients receiving more than 40 mg per day of simvastatin or lovastatin may be at increased risk of statin-related adverse effects.",
+   "efeito": "increased risk of statin-related adverse effects",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:drug_interactions:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "rosuvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Rosuvastatin plasma concentrations may increase. Monitor for statin-related adverse effects.",
+   "efeito": "increased plasma concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:drug_interactions:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Monitor digoxin levels with initiation of or any change in ticagrelor.",
+   "efeito": "need for monitoring digoxin levels",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:drug_interactions:1",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ticagrelor inhibits the P-glycoprotein transporter",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:contraindications:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "intracranial hemorrhage",
+   "tipo_destino": "Condicao",
+   "evidencia": "Ticagrelor tablet is contraindicated in patients with a history of intracranial hemorrhage (ICH)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:contraindications:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "active pathological bleeding",
+   "tipo_destino": "Condicao",
+   "evidencia": "Ticagrelor tablet is contraindicated in patients with active pathological bleeding",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:contraindications:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Ticagrelor tablet is contraindicated in patients with hypersensitivity (e.g., angioedema) to ticagrelor or any component of the product .",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:clinical_pharmacology:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "CYP3A4 is the major enzyme responsible for ticagrelor metabolism",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:clinical_pharmacology:0",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "BCRP",
+   "tipo_destino": "Enzima",
+   "evidencia": "Ticagrelor is a BCRP inhibitor.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:clinical_pharmacology:1",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "ticagrelor and its major active metabolite are weak inhibitors of CYP3A4",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "ticagrelor:clinical_pharmacology:1",
+   "origem": "ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "inhibitors of the P-gp transporter",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

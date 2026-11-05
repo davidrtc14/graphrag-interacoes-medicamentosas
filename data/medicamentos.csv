@@ -1,0 +1,61 @@
+generico,nome_pt,classe
+simvastatin,sinvastatina,Estatina
+atorvastatin,atorvastatina,Estatina
+rosuvastatin,rosuvastatina,Estatina
+pravastatin,pravastatina,Estatina
+lovastatin,lovastatina,Estatina
+fluvastatin,fluvastatina,Estatina
+pitavastatin,pitavastatina,Estatina
+amlodipine,anlodipino,Bloqueador de canal de cálcio
+diltiazem,diltiazem,Bloqueador de canal de cálcio
+verapamil,verapamil,Bloqueador de canal de cálcio
+nifedipine,nifedipino,Bloqueador de canal de cálcio
+felodipine,felodipino,Bloqueador de canal de cálcio
+metoprolol,metoprolol,Betabloqueador
+carvedilol,carvedilol,Betabloqueador
+propranolol,propranolol,Betabloqueador
+atenolol,atenolol,Betabloqueador
+bisoprolol,bisoprolol,Betabloqueador
+nebivolol,nebivolol,Betabloqueador
+lisinopril,lisinopril,Inibidor da ECA
+enalapril,enalapril,Inibidor da ECA
+captopril,captopril,Inibidor da ECA
+ramipril,ramipril,Inibidor da ECA
+losartan,losartana,Bloqueador do receptor de angiotensina
+valsartan,valsartana,Bloqueador do receptor de angiotensina
+candesartan,candesartana,Bloqueador do receptor de angiotensina
+olmesartan,olmesartana,Bloqueador do receptor de angiotensina
+spironolactone,espironolactona,Diurético
+furosemide,furosemida,Diurético
+hydrochlorothiazide,hidroclorotiazida,Diurético
+chlorthalidone,clortalidona,Diurético
+digoxin,digoxina,Glicosídeo cardíaco
+amiodarone,amiodarona,Antiarrítmico
+dronedarone,dronedarona,Antiarrítmico
+flecainide,flecainida,Antiarrítmico
+propafenone,propafenona,Antiarrítmico
+sotalol,sotalol,Antiarrítmico
+quinidine,quinidina,Antiarrítmico
+ranolazine,ranolazina,Antianginoso
+warfarin,varfarina,Anticoagulante
+apixaban,apixabana,Anticoagulante
+rivaroxaban,rivaroxabana,Anticoagulante
+dabigatran,dabigatrana,Anticoagulante
+edoxaban,edoxabana,Anticoagulante
+clopidogrel,clopidogrel,Antiagregante plaquetário
+prasugrel,prasugrel,Antiagregante plaquetário
+ticagrelor,ticagrelor,Antiagregante plaquetário
+clarithromycin,claritromicina,Antibiótico macrolídeo
+erythromycin,eritromicina,Antibiótico macrolídeo
+ketoconazole,cetoconazol,Antifúngico azólico
+itraconazole,itraconazol,Antifúngico azólico
+fluconazole,fluconazol,Antifúngico azólico
+voriconazole,voriconazol,Antifúngico azólico
+ritonavir,ritonavir,Antirretroviral
+rifampin,rifampicina,Antibiótico rifamicina
+carbamazepine,carbamazepina,Anticonvulsivante
+phenytoin,fenitoína,Anticonvulsivante
+fluoxetine,fluoxetina,Antidepressivo ISRS
+paroxetine,paroxetina,Antidepressivo ISRS
+cyclosporine,ciclosporina,Imunossupressor
+gemfibrozil,genfibrozila,Fibrato

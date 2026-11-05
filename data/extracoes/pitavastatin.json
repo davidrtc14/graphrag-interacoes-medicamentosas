@@ -1,0 +1,186 @@
+{
+ "generico": "pitavastatin",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "pitavastatin:drug_interactions:0",
+   "medicamento": "pitavastatin",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Table 2 includes a list of drugs that increase the risk of myopathy and rhabdomyolysis when administered concomitantly with pitavastatin and instructions for preventing or managing drug interactions [see Warnings and Precautions (5.1) , Clinical Pharmacology (12.3) ] . Table 2. Drug Interactions that Increase the Risk of Myopathy and Rhabdomyolysis with Pitavastatin Tablets Cyclosporine Clinical Impact: Cyclosporine significantly increases pitavastatin exposure and increases the risk of myopathy and rhabdomyolysis . Intervention: Concomitant use of cyclosporine with pitavastatin is contraindicated [see Contraindications (4) ] . Gemfibrozil Clinical Impact: Gemfibrozil may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of gemfibrozil with statins, including pitavastatin. Intervention: Avoid concomitant use of gemfibrozil with pitavastatin. Erythromycin Clinical Impact: Erythromycin significantly increases pitavastatin exposure and increases the risk of myopathy and rhabdomyolysis ."
+  },
+  {
+   "id": "pitavastatin:drug_interactions:1",
+   "medicamento": "pitavastatin",
+   "secao": "drug_interactions",
+   "texto": "Intervention: In patients taking erythromycin, do not exceed pitavastatin tablets 1 mg once daily [see Dosage and Administration (2.4) ] . Rifampin Clinical Impact: Rifampin significantly increases peak pitavastatin exposure and increases the risk of myopathy and rhabdomyolysis . Intervention: In patients taking rifampin, do not exceed pitavastatin tablets 2 mg once daily [see Dosage and Administration (2.4) ] . Fibrates Clinical Impact: Fibrates may cause myopathy when given alone. The risk of myopathy and rhabdomyolysis is increased with concomitant use of fibrates with statins, including pitavastatin. Intervention: Consider if the benefit of using fibrates concomitantly with pitavastatin outweighs the increased risk of myopathy and rhabdomyolysis. Niacin Clinical Impact: The risk of myopathy and rhabdomyolysis may be increased with concomitant use of lipid-modifying doses (≥1 g/day) of niacin with pitavastatin. Intervention: Consider if the benefit of using lipid-modifying doses (>1 g/day) of niacin concomitantly with pitavastatin outweighs the increased risk of myopathy and rhabdomyolysis."
+  },
+  {
+   "id": "pitavastatin:drug_interactions:2",
+   "medicamento": "pitavastatin",
+   "secao": "drug_interactions",
+   "texto": "Colchicine Clinical Impact: Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with statins, including pitavastatin. Intervention: Consider the risk/benefit of concomitant use of colchicine with pitavastatin. See full prescribing information for details regarding concomitant use of pitavastatin tablets with other drugs that increase the risk of myopathy and rhabdomyolysis. ( 2.4 , 7 )"
+  },
+  {
+   "id": "pitavastatin:contraindications:0",
+   "medicamento": "pitavastatin",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Pitavastatin tablets is contraindicated in the following conditions: Concomitant use of cyclosporine [see Drug Interactions (7) ] . Acute liver failure or decompensated cirrhosis [see Warnings and Precautions (5.3) ] . Hypersensitivity to pitavastatin or any excipients in pitavastatin tablets. Hypersensitivity reactions including angioedema, rash, pruritus, and urticaria have been reported with pitavastatin tablets [see Adverse Reactions (6) ] . Cyclosporine ( 4 , 7 ) Active liver failure or decompensated cirrhosis ( 4 , 5.3 ) Hypersensitivity to pitavastatin or any excipients in pitavastatin tablets ( 4 )"
+  },
+  {
+   "id": "pitavastatin:clinical_pharmacology:0",
+   "medicamento": "pitavastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, the enzyme that catalyzes the conversion of HMG-CoA to mevalonate, a rate-limiting step in the biosynthetic pathway for cholesterol. Sustained inhibition of cholesterol synthesis in the liver also decreases levels of very low-density lipoproteins. 12.2 Pharmacodynamics Cardiac Electrophysiology In a randomized, double-blind, placebo-controlled, 4-way parallel, active-comparator study with moxifloxacin in 174 healthy participants, pitavastatin was not associated with clinically meaningful prolongation of the QTc interval or heart rate at daily doses up to 16 mg (4 times the recommended maximum dose of 4 mg daily). 12.3 Pharmacokinetics Absorption Pitavastatin peak plasma concentrations are achieved about 1 hour after oral administration. Elimination Metabolism The principal route of pitavastatin metabolism is glucuronidation via liver uridine 5'-diphosphate glucuronosyltransferase (UGT) with subsequent formation of pitavastatin lactone. There is only minimal metabolism by the cytochrome P450 system."
+  },
+  {
+   "id": "pitavastatin:clinical_pharmacology:1",
+   "medicamento": "pitavastatin",
+   "secao": "clinical_pharmacology",
+   "texto": "Pitavastatin is marginally metabolized by CYP2C9 and to a lesser extent by CYP2C8."
+  },
+  {
+   "id": "pitavastatin:pharmacokinetics:0",
+   "medicamento": "pitavastatin",
+   "secao": "pharmacokinetics",
+   "texto": "Elimination Metabolism The principal route of pitavastatin metabolism is glucuronidation via liver uridine 5'-diphosphate glucuronosyltransferase (UGT) with subsequent formation of pitavastatin lactone. There is only minimal metabolism by the cytochrome P450 system. Pitavastatin is marginally metabolized by CYP2C9 and to a lesser extent by CYP2C8."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "pitavastatin:drug_interactions:0",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pitavastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cyclosporine significantly increases pitavastatin exposure and increases the risk of myopathy and rhabdomyolysis . Intervention: Concomitant use of cyclosporine with pitavastatin is contraindicated",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:drug_interactions:0",
+   "origem": "gemfibrozil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pitavastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy and rhabdomyolysis is increased with concomitant use of gemfibrozil with statins, including pitavastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:drug_interactions:0",
+   "origem": "erythromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pitavastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Erythromycin significantly increases pitavastatin exposure and increases the risk of myopathy and rhabdomyolysis .",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:drug_interactions:1",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pitavastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Rifampin significantly increases peak pitavastatin exposure and increases the risk of myopathy and rhabdomyolysis .",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:drug_interactions:1",
+   "origem": "niacin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pitavastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The risk of myopathy and rhabdomyolysis may be increased with concomitant use of lipid-modifying doses (≥1 g/day) of niacin with pitavastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:drug_interactions:2",
+   "origem": "colchicine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "pitavastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cases of myopathy and rhabdomyolysis have been reported with concomitant use of colchicine with statins, including pitavastatin.",
+   "efeito": "increased risk of myopathy and rhabdomyolysis",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:contraindications:0",
+   "origem": "pitavastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "acute liver failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "Pitavastatin tablets is contraindicated in the following conditions: ... Acute liver failure or decompensated cirrhosis",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:clinical_pharmacology:0",
+   "origem": "pitavastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "HMG-CoA reductase",
+   "tipo_destino": "Enzima",
+   "evidencia": "Pitavastatin is an inhibitor of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:clinical_pharmacology:1",
+   "origem": "pitavastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Pitavastatin is marginally metabolized by CYP2C9",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "pitavastatin:clinical_pharmacology:1",
+   "origem": "pitavastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C8",
+   "tipo_destino": "Enzima",
+   "evidencia": "and to a lesser extent by CYP2C8.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "pitavastatin:contraindications:0",
+   "origem": "pitavastatin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Pitavastatin tablets is contraindicated in the following conditions: Concomitant use of cyclosporine",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  }
+ ]
+}

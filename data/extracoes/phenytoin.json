@@ -1,0 +1,270 @@
+{
+ "generico": "phenytoin",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "phenytoin:drug_interactions:0",
+   "medicamento": "phenytoin",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Phenytoin is extensively bound to plasma proteins and is prone to competitive displacement. Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9 and to a lesser extent by CYP2C19, and is particularly susceptible to inhibitory drug interactions because it is subject to saturable metabolism. Inhibition of metabolism may produce significant increases in circulating phenytoin concentrations and enhance the risk of drug toxicity. Monitoring of phenytoin serum levels is recommended when a drug interaction is suspected. Phenytoin is a potent inducer of hepatic drug-metabolizing enzymes. Multiple drug interactions because of extensive plasma protein binding, saturable metabolism and potent induction of hepatic enzymes. ( 7.1 , 7.2 ) 7.1 Drugs that Affect Phenytoin Concentrations Table 2 includes commonly occurring drug interactions that affect phenytoin concentrations. However, this list is not intended to be inclusive or comprehensive. Individual prescribing information from relevant drugs should be consulted."
+  },
+  {
+   "id": "phenytoin:drug_interactions:1",
+   "medicamento": "phenytoin",
+   "secao": "drug_interactions",
+   "texto": "The addition or withdrawal of these agents in patients on phenytoin therapy may require an adjustment of the phenytoin dose to achieve optimal clinical outcome. Table 2: Drugs That Affect Phenytoin Concentrations Interacting Agent Examples Drugs that may increase phenytoin serum levels Antiepileptic drugs Ethosuximide, felbamate, oxcarbazepine, methsuximide, topiramate Azoles Fluconazole, ketoconazole, itraconazole, miconazole, voriconazole Antineoplastic agents Capecitabine, fluorouracil Antidepressants Fluoxetine, fluvoxamine, sertraline Gastric acid reducing agents H 2 antagonists (cimetidine), omeprazole Sulfonamides Sulfamethizole, sulfaphenazole, sulfadiazine, sulfamethoxazole-trimethoprim Other Acute alcohol intake, amiodarone, chloramphenicol, chlordiazepoxide, disulfiram, estrogen, fluvastatin, isoniazid, methylphenidate, phenothiazines, salicylates, ticlopidine, tolbutamide, trazodone, warfarin Drugs that may decrease phenytoin serum levels Antacids Antacids may affect absorption of phenytoin."
+  },
+  {
+   "id": "phenytoin:drug_interactions:2",
+   "medicamento": "phenytoin",
+   "secao": "drug_interactions",
+   "texto": "Calcium carbonate, aluminum hydroxide, magnesium hydroxide Prevention or Management : Phenytoin and antacids should not be taken at the same time of day Antineoplastic agents usually in combination Bleomycin, carboplatin, cisplatin, doxorubicin, methotrexate Antiviral agents Fosamprenavir, nelfinavir, ritonavir Antiepileptic drugs Carbamazepine, vigabatrin Other Chronic alcohol abuse, diazepam, diazoxide, folic acid, reserpine, rifampin, St. John's wort The induction potency of St. John's wort may vary widely based on preparation. , sucralfate, theophylline Drugs that may either increase or decrease phenytoin serum levels Antiepileptic drugs Phenobarbital, valproate sodium Valproate sodium and valproic acid are similar medications. The term valproate has been used to represent these medications. , valproic acid 7.2 Drugs Affected by Phenytoin Table 3 includes commonly occurring drug interactions affected by phenytoin. However, this list is not intended to be inclusive or comprehensive. Individual drug package inserts should be consulted."
+  },
+  {
+   "id": "phenytoin:drug_interactions:3",
+   "medicamento": "phenytoin",
+   "secao": "drug_interactions",
+   "texto": "The addition or withdrawal of phenytoin during concomitant therapy with these agents may require adjustment of the dose of these agents to achieve optimal clinical outcome. Table 3: Drugs Affected by Phenytoin Interacting Agent Examples Drugs whose efficacy is impaired by phenytoin Azoles Fluconazole, ketoconazole, itraconazole, posaconazole, voriconazole Antineoplastic agents Irinotecan, paclitaxel, teniposide Delavirdine Phenytoin can substantially reduce the concentrations of delavirdine. This can lead to loss of virologic response and possible resistance [see Contraindications (4) ]. Neuromuscular blocking agents Cisatracurium, pancuronium, rocuronium and vecuronium: resistance to the neuromuscular blocking action of the nondepolarizing neuromuscular blocking agents has occurred in patients chronically administered phenytoin. Whether or not phenytoin has the same effect on other non-depolarizing agents is unknown. Prevention or Management: Patients should be monitored closely for more rapid recovery from neuromuscular blockade than expected, and infusion rate requirements may be higher."
+  },
+  {
+   "id": "phenytoin:drug_interactions:4",
+   "medicamento": "phenytoin",
+   "secao": "drug_interactions",
+   "texto": "Warfarin Increased and decreased PT/INR responses have been reported when phenytoin is coadministered with warfarin Other Corticosteroids, doxycycline, estrogens, furosemide, oral contraceptives, paroxetine, quinidine, rifampin, sertraline, theophylline, and vitamin D Drugs whose level is decreased by phenytoin Anticoagulants Apixaban, dabigatran, edoxaban, rivaroxaban Antiepileptic drugs The effect of phenytoin on phenobarbital, valproic acid and sodium valproate serum levels is unpredictable Carbamazepine, felbamate, lamotrigine, topiramate, oxcarbazepine, lacosamide Antilipidemic agents Atorvastatin, fluvastatin, simvastatin Antiplatelets Ticagrelor Antiviral agents Efavirenz, lopinavir/ritonavir, indinavir, nelfinavir, ritonavir, saquinavir Fosamprenavir: phenytoin when given with fosamprenavir alone may decrease the concentration of amprenavir, the active metabolite."
+  },
+  {
+   "id": "phenytoin:drug_interactions:5",
+   "medicamento": "phenytoin",
+   "secao": "drug_interactions",
+   "texto": "Phenytoin when given with the combination of fosamprenavir and ritonavir may increase the concentration of amprenavir Calcium channel blockers Nifedipine, nimodipine, nisoldipine, verapamil Other Albendazole (decreases active metabolite), chlorpropamide, clozapine, cyclosporine, digoxin, disopyramide, folic acid, methadone, mexiletine, praziquantel, quetiapine 7.3 Hyperammonemia with Concomitant Use of Valproate Concomitant administration of phenytoin and valproate has been associated with an increased risk of valproate-associated hyperammonemia. Patients treated concomitantly with these two drugs should be monitored for signs and symptoms of hyperammonemia. 7.4 Drug Enteral Feeding/Nutritional Preparations Interaction Literature reports suggest that patients who have received enteral feeding preparations and/or related nutritional supplements have lower than expected phenytoin serum levels. It is therefore suggested that phenytoin not be administered concomitantly with an enteral feeding preparation."
+  },
+  {
+   "id": "phenytoin:drug_interactions:6",
+   "medicamento": "phenytoin",
+   "secao": "drug_interactions",
+   "texto": "More frequent serum phenytoin level monitoring may be necessary in these patients. 7.5 Drug/Laboratory Test Interactions Care should be taken when using immunoanalytical methods to measure serum phenytoin concentrations."
+  },
+  {
+   "id": "phenytoin:contraindications:0",
+   "medicamento": "phenytoin",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Extended phenytoin sodium capsules are contraindicated in patients with: • A history of hypersensitivity to phenytoin, its inactive ingredients, or other hydantoins [see Warnings and Precautions (5.5) ] . Reactions have included angioedema. • A history of prior acute hepatotoxicity attributable to phenytoin [see Warnings and Precautions (5.8) ]. • Coadministration with delavirdine because of the potential for loss of virologic response and possible resistance to delavirdine or to the class of non-nucleoside reverse transcriptase inhibitors. • Hypersensitivity to phenytoin, its ingredients, or other hydantoins ( 4 , 5.5 ) • A history of prior acute hepatotoxicity attributable to phenytoin ( 4 , 5.8 ) • Coadministration with delavirdine ( 4 )"
+  },
+  {
+   "id": "phenytoin:clinical_pharmacology:0",
+   "medicamento": "phenytoin",
+   "secao": "clinical_pharmacology",
+   "texto": "Metabolism Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9 and to a lesser extent by CYP2C19. Patients with unusually low levels may be noncompliant or hypermetabolizers of phenytoin. Unusually high levels result from liver disease, variant CYP2C9 and CYP2C19 alleles, or drug interactions which result in metabolic interference. Drug Interaction Studies Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9 and to a lesser extent by CYP2C19. Phenytoin is a potent inducer of hepatic drug-metabolizing enzymes [see Drug Interactions (7.1 , 7.2) ] . 12.5 Pharmacogenomics CYP2C9 activity is decreased in individuals with genetic variants such as the CYP2C9*2 and CYP2C9*3 alleles. Carriers of variant alleles, resulting in intermediate (e.g., *1/*3, *2/*2) or poor metabolism (e.g., *2/*3, *3/*3) have decreased clearance of phenytoin. Other decreased or nonfunctional CYP2C9 alleles may also result in decreased clearance of phenytoin (e.g., *5, *6, *8, *11)."
+  },
+  {
+   "id": "phenytoin:clinical_pharmacology:1",
+   "medicamento": "phenytoin",
+   "secao": "clinical_pharmacology",
+   "texto": "The prevalence of the CYP2C9 poor metabolizer phenotype is approximately 2 to 3% in the White population, 0.5 to 4% in the Asian population, and <1% in the African American population. The CYP2C9 intermediate phenotype prevalence is approximately 35% in the White population, 24% in the African American population, and 15 to 36% in the Asian population [see Warnings and Precautions (5.3) and Use in Specific Populations (8.7) ] ."
+  },
+  {
+   "id": "phenytoin:pharmacokinetics:0",
+   "medicamento": "phenytoin",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9 and to a lesser extent by CYP2C19. Patients with unusually low levels may be noncompliant or hypermetabolizers of phenytoin. Unusually high levels result from liver disease, variant CYP2C9 and CYP2C19 alleles, or drug interactions which result in metabolic interference. Drug Interaction Studies Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9 and to a lesser extent by CYP2C19. Phenytoin is a potent inducer of hepatic drug-metabolizing enzymes [see Drug Interactions (7.1 , 7.2) ] ."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "phenytoin:drug_interactions:0",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:0",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "and to a lesser extent by CYP2C19",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:1",
+   "origem": "fluconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs that may increase phenytoin serum levels... Azoles Fluconazole",
+   "efeito": "increase phenytoin serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:1",
+   "origem": "ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs that may increase phenytoin serum levels... Azoles... ketoconazole",
+   "efeito": "increase phenytoin serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:1",
+   "origem": "fluoxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs that may increase phenytoin serum levels... Antidepressants Fluoxetine",
+   "efeito": "increase phenytoin serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:1",
+   "origem": "cimetidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs that may increase phenytoin serum levels... H 2 antagonists (cimetidine)",
+   "efeito": "increase phenytoin serum levels",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:3",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "delavirdine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Phenytoin can substantially reduce the concentrations of delavirdine. This can lead to loss of virologic response and possible resistance",
+   "efeito": "reduce delavirdine concentrations",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:4",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Increased and decreased PT/INR responses have been reported when phenytoin is coadministered with warfarin",
+   "efeito": "increase and decrease PT/INR response",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:4",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "apixaban",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs whose level is decreased by phenytoin... Apixaban",
+   "efeito": "decrease drug level",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:drug_interactions:5",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "valproate",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant administration of phenytoin and valproate has been associated with an increased risk of valproate-associated hyperammonemia.",
+   "efeito": "increase risk of hyperammonemia",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:contraindications:0",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "delavirdine",
+   "tipo_destino": "Condicao",
+   "evidencia": "Coadministration with delavirdine because of the potential for loss of virologic response",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:clinical_pharmacology:0",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:clinical_pharmacology:0",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "to a lesser extent by CYP2C19",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:pharmacokinetics:0",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "Phenytoin is primarily metabolized by the hepatic cytochrome P450 enzyme CYP2C9",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "phenytoin:pharmacokinetics:0",
+   "origem": "phenytoin",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "to a lesser extent by CYP2C19",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "phenytoin:drug_interactions:2",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "phenytoin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Drugs that may decrease phenytoin serum levels... rifampin",
+   "efeito": "decrease phenytoin serum levels",
+   "confianca": 0.9,
+   "motivo": "evidência não encontrada nos trechos"
+  }
+ ]
+}

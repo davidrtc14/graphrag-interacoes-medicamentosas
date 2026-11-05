@@ -1,0 +1,197 @@
+{
+ "generico": "valsartan",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "valsartan:drug_interactions:0",
+   "medicamento": "valsartan",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS • Potassium-sparing diuretics, potassium supplements or salt substitutes may lead to increases in serum potassium, and in heart failure patients, increases in serum creatinine ( 7.1 ) • Non-Steroidal Anti-Inflammatory Drug (NSAID) use may lead to increased risk of renal impairment and loss of antihypertensive effect ( 7.2 ) • Dual inhibition of the Renin-Angiotensin System (RAS): Increased risk of renal impairment, hypotension, and hyperkalemia ( 7.3 ) • Lithium: Increases in serum lithium level and lithium toxicity ( 7.4 ) 7.1 Agents Increasing Serum Potassium Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride), potassium supplements, salt substitutes containing potassium or other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium and in heart failure patients to increases in serum creatinine."
+  },
+  {
+   "id": "valsartan:drug_interactions:1",
+   "medicamento": "valsartan",
+   "secao": "drug_interactions",
+   "texto": "If co-medication is considered necessary, monitoring of serum potassium is advisable. 7.2 Non-Steroidal Anti-Inflammatory Agents Including Selective Cyclooxygenase-2 Inhibitors (COX-2 Inhibitors) In patients who are elderly, volume-depleted (including those on diuretic therapy), or with compromised renal function, coadministration of NSAIDs, including selective COX-2 inhibitors, with angiotensin II receptor antagonists, including valsartan, may result in deterioration of renal function, including possible acute renal failure. These effects are usually reversible. Monitor renal function periodically in patients receiving valsartan and NSAID therapy. The antihypertensive effect of angiotensin II receptor antagonists, including valsartan, may be attenuated by NSAIDs, including selective COX-2 inhibitors. 7.3 Dual Blockade of the Renin-Angiotensin System (RAS) Dual blockade of the RAS with angiotensin receptor blockers, ACE inhibitors, or aliskiren is associated with increased risks of hypotension, hyperkalemia, and changes in renal function (including acute renal failure) compared to monotherapy."
+  },
+  {
+   "id": "valsartan:drug_interactions:2",
+   "medicamento": "valsartan",
+   "secao": "drug_interactions",
+   "texto": "Most patients receiving the combination of two RAS inhibitors do not obtain any additional benefit compared to monotherapy [see Clinical Studies ( 14.3 )]. In general, avoid combined use of RAS inhibitors. Closely monitor blood pressure, renal function and electrolytes in patients on valsartan and other agents that affect the RAS. Do not coadminister aliskiren with valsartan in patients with diabetes. Avoid use of aliskiren with valsartan in patients with renal impairment (GFR < 60 mL/min). 7.4 Lithium Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists. Monitor serum lithium levels during concomitant use."
+  },
+  {
+   "id": "valsartan:contraindications:0",
+   "medicamento": "valsartan",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Do not use in patients with known hypersensitivity to any component. Do not coadminister aliskiren with valsartan in patients with diabetes [see Drug Interactions ( 7.3 )]. Known hypersensitivity to any component. Do not coadminister aliskiren with valsartan tablets in patients with diabetes ( 4 )"
+  },
+  {
+   "id": "valsartan:clinical_pharmacology:0",
+   "medicamento": "valsartan",
+   "secao": "clinical_pharmacology",
+   "texto": "Blockade of the renin-angiotensin system with ACE inhibitors, which inhibit the biosynthesis of angiotensin II from angiotensin I, is widely used in the treatment of hypertension. ACE inhibitors also inhibit the degradation of bradykinin, a reaction also catalyzed by ACE. Because valsartan does not inhibit ACE (kininase II), it does not affect the response to bradykinin. Blockade of the angiotensin II receptor inhibits the negative regulatory feedback of angiotensin II on renin secretion, but the resulting increased plasma renin activity and angiotensin II circulating levels do not overcome the effect of valsartan on blood pressure. 12.2 Pharmacodynamics Valsartan inhibits the pressor effect of angiotensin II infusions. An oral dose of 80 mg inhibits the pressor effect by about 80% at peak with approximately 30% inhibition persisting for 24 hours. Metabolism: The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan. In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan."
+  },
+  {
+   "id": "valsartan:clinical_pharmacology:1",
+   "medicamento": "valsartan",
+   "secao": "clinical_pharmacology",
+   "texto": "Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations. CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism. Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2. Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan."
+  },
+  {
+   "id": "valsartan:pharmacokinetics:0",
+   "medicamento": "valsartan",
+   "secao": "pharmacokinetics",
+   "texto": "Metabolism: The primary metabolite, accounting for about 9% of dose, is valeryl 4-hydroxy valsartan. In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan. Valsartan does not inhibit CYP 450 isozymes at clinically relevant concentrations. CYP 450 mediated drug interaction between valsartan and coadministered drugs are unlikely because of the low extent of metabolism. Transporters: The results from an in vitro study with human liver tissue indicate that valsartan is a substrate of the hepatic uptake transporter OATP1B1 and the hepatic efflux transporter MRP2. Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine) or efflux transporter (ritonavir) may increase the systemic exposure to valsartan."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "valsartan:drug_interactions:0",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "spironolactone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride)",
+   "efeito": "increased serum potassium",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:drug_interactions:0",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "triamterene",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride)",
+   "efeito": "increased serum potassium",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:drug_interactions:0",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "amiloride",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of valsartan with other agents that block the renin-angiotensin system, potassium-sparing diuretics (e.g., spironolactone, triamterene, amiloride)",
+   "efeito": "increased serum potassium",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:drug_interactions:0",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "heparin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "other drugs that may increase potassium levels (e.g., heparin) may lead to increases in serum potassium",
+   "efeito": "increased serum potassium",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:drug_interactions:2",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lithium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Increases in serum lithium concentrations and lithium toxicity have been reported during concomitant administration of lithium with angiotensin II receptor antagonists.",
+   "efeito": "increased lithium concentration and toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:contraindications:0",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "diabetes",
+   "tipo_destino": "Condicao",
+   "evidencia": "Do not coadminister aliskiren with valsartan in patients with diabetes",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:clinical_pharmacology:0",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "In vitro metabolism studies involving recombinant CYP 450 enzymes indicated that the CYP 2C9 isoenzyme is responsible for the formation of valeryl-4-hydroxy valsartan.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:clinical_pharmacology:1",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "valsartan is a substrate of the hepatic uptake transporter OATP1B1",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:clinical_pharmacology:1",
+   "origem": "valsartan",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "MRP2",
+   "tipo_destino": "Enzima",
+   "evidencia": "valsartan is a substrate of... the hepatic efflux transporter MRP2",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:clinical_pharmacology:1",
+   "origem": "rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:clinical_pharmacology:1",
+   "origem": "cyclosporine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "Coadministration of inhibitors of the uptake transporter (rifampin, cyclosporine)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "valsartan:clinical_pharmacology:1",
+   "origem": "ritonavir",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "MRP2",
+   "tipo_destino": "Enzima",
+   "evidencia": "inhibitors of... efflux transporter (ritonavir)",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

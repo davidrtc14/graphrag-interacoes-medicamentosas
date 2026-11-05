@@ -1,0 +1,155 @@
+{
+ "generico": "verapamil",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "verapamil:drug_interactions:0",
+   "medicamento": "verapamil",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions: (See Warnings: Concomitant Antiarrhythmic Therapy.) Intravenous verapamil HCl has been used concomitantly with other cardioactive drugs (especially digitalis) without evidence of serious negative drug interactions. In rare instances, including when patients with severe cardiomyopathy, congestive heart failure, or recent myocardial infarction were given intravenous beta-adrenergic blocking agents or disopyramide concomitantly with intravenous verapamil, serious adverse effects have occurred. Concomitant use of verapamil hydrochloride with β-adrenergic blockers may result in an exaggerated hypotensive response. Such an effect was observed in one study, following the concomitant administration of verapamil and prazosin. It may be necessary to decrease the dose of verapamil and/or dose of the neuromuscular blocking agent when the drugs are used concomitantly. As verapamil is highly bound to plasma proteins, it should be administered with caution to patients receiving other highly protein-bound drugs."
+  },
+  {
+   "id": "verapamil:contraindications:0",
+   "medicamento": "verapamil",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Verapamil hydrochloride injection (intravenous) is contraindicated in: Severe hypotension or cardiogenic shock. Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker). Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker). Severe congestive heart failure (unless secondary to a supraventricular tachycardia amenable to verapamil therapy). Patients receiving intravenous beta-adrenergic blocking drugs (e.g., propranolol). Intravenous verapamil and intravenous beta-adrenergic blocking drugs should not be administered in close proximity to each other (within a few hours), since both may have a depressant effect on myocardial contractility and AV conduction. Patients with atrial flutter or atrial fibrillation and an accessory bypass tract (e.g., Wolff- Parkinson-White, Lown-Ganong-Levine syndromes) are at risk to develop ventricular tachyarrhythmia including ventricular fibrillation if verapamil is administered. Therefore, the use of verapamil in these patients is contraindicated."
+  },
+  {
+   "id": "verapamil:contraindications:1",
+   "medicamento": "verapamil",
+   "secao": "contraindications",
+   "texto": "Ventricular Tachycardia: Administration of intravenous verapamil to patients with wide-complex ventricular tachycardia (QRS ≥ 0.12 sec) can result in marked hemodynamic deterioration and ventricular fibrillation. Proper pre-therapy diagnosis and differentiation from wide-complex supraventricular tachycardia is imperative in the emergency room setting. Known hypersensitivity to verapamil hydrochloride."
+  },
+  {
+   "id": "verapamil:clinical_pharmacology:0",
+   "medicamento": "verapamil",
+   "secao": "clinical_pharmacology",
+   "texto": "CLINICAL PHARMACOLOGY Mechanism of Action: Verapamil inhibits the calcium ion (and possibly sodium ion) influx through slow channels into conductile and contractile myocardial cells and vascular smooth muscle cells. By inhibiting this influx, verapamil slows AV conduction and prolongs the effective refractory period within the AV node in a rate-related manner. Verapamil does not induce peripheral arterial spasm. Pharmacokinetics: Intravenously administered verapamil hydrochloride has been shown to be rapidly metabolized. In healthy men, orally administered verapamil hydrochloride undergoes extensive metabolism in the liver, with 12 metabolites having been identified, most in only trace amounts."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "verapamil:drug_interactions:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "In rare instances, including when patients with severe cardiomyopathy, congestive heart failure, or recent myocardial infarction were given intravenous beta-adrenergic blocking agents or disopyramide",
+   "efeito": "serious adverse effects",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:drug_interactions:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "prazosin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Such an effect was observed in one study, following the concomitant administration of verapamil and prazosin.",
+   "efeito": "exaggerated hypotensive response",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypotension",
+   "tipo_destino": "Condicao",
+   "evidencia": "Verapamil hydrochloride injection (intravenous) is contraindicated in: Severe hypotension or cardiogenic shock.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Verapamil hydrochloride injection (intravenous) is contraindicated in: Severe hypotension or cardiogenic shock.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "AV block",
+   "tipo_destino": "Condicao",
+   "evidencia": "Second- or third-degree AV block (except in patients with a functioning artificial ventricular pacemaker).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "sick sinus syndrome",
+   "tipo_destino": "Condicao",
+   "evidencia": "Sick sinus syndrome (except in patients with a functioning artificial ventricular pacemaker).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "congestive heart failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "Severe congestive heart failure (unless secondary to a supraventricular tachycardia amenable to verapamil therapy).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:0",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Patients receiving intravenous beta-adrenergic blocking drugs (e.g., propranolol). Intravenous verapamil and intravenous beta-adrenergic blocking drugs should not be administered",
+   "efeito": "depressant effect on myocardial contractility and AV conduction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:1",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "hemodynamic deterioration",
+   "tipo_destino": "Efeito",
+   "evidencia": "Administration of intravenous verapamil to patients with wide-complex ventricular tachycardia (QRS ≥ 0.12 sec) can result in marked hemodynamic deterioration and ventricular fibrillation.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "verapamil:contraindications:1",
+   "origem": "verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "PODE_CAUSAR",
+   "destino": "ventricular fibrillation",
+   "tipo_destino": "Efeito",
+   "evidencia": "Administration of intravenous verapamil to patients with wide-complex ventricular tachycardia (QRS ≥ 0.12 sec) can result in marked hemodynamic deterioration and ventricular fibrillation.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

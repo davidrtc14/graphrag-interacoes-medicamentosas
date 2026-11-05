@@ -1,0 +1,221 @@
+{
+ "generico": "itraconazole",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "itraconazole:drug_interactions:0",
+   "medicamento": "itraconazole",
+   "secao": "drug_interactions",
+   "texto": "Drug Interactions: Effect of Itraconazole Capsules on Other Drugs Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors. Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP). Consequently, itraconazole has the potential to interact with many concomitant drugs resulting in either increased or sometimes decreased concentrations of the concomitant drugs. Increased concentrations may increase the risk of adverse reactions associated with the concomitant drug which can be severe or life-threatening in some cases (e.g., QT prolongation, Torsade de Pointes , respiratory depression, hepatic adverse reactions, hypersensitivity reactions, myelosuppression, hypotension, seizures, angioedema, atrial fibrillation, bradycardia, priapism). Reduced concentrations of concomitant drugs may reduce their efficacy. Table 1 lists examples of drugs that may have their concentrations affected by itraconazole, but it is not a comprehensive list."
+  },
+  {
+   "id": "itraconazole:drug_interactions:1",
+   "medicamento": "itraconazole",
+   "secao": "drug_interactions",
+   "texto": "Refer to the approved product labeling to become familiar with the interaction pathways, risk potential, and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with itraconazole. Although many of the clinical drug interactions in Table 1 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole. Table 1: Drug Interactions with Itraconazole that Affect Concomitant Drug Concentrations * CYP3A4 inhibitors (including itraconazole) may increase systemic contraceptive hormone concentrations. a Based on clinical drug interaction information with itraconazole. b Based on 400 mg bedaquiline once daily for 2 weeks. c EMs: extensive metabolizers; IMs: intermediate metabolizers, PMs: poor metabolizers Effect of Other Drugs on Itraconazole Itraconazole is mainly metabolized through CYP3A4. Other substances that either share this metabolic pathway or modify CYP3A4 activity may influence the pharmacokinetics of itraconazole. Some concomitant drugs have the potential to interact with itraconazole resulting in either increased or sometimes decreased concentrations of itraconazole."
+  },
+  {
+   "id": "itraconazole:drug_interactions:2",
+   "medicamento": "itraconazole",
+   "secao": "drug_interactions",
+   "texto": "Increased concentrations may increase the risk of adverse reactions associated with itraconazole. Decreased concentrations may reduce itraconazole efficacy. Table 2 lists examples of drugs that may affect itraconazole concentrations, but is not a comprehensive list. Refer to the approved product labeling to become familiar with the interaction pathways, risk potential and specific actions to be taken with regards to each concomitant drug prior to initiating therapy with itraconazole. Although many of the clinical drug interactions in Table 2 are based on information with a similar azole antifungal, ketoconazole, these interactions are expected to occur with itraconazole. Table 2: Drug Interactions with Other Drugs that Affect Itraconazole Concentrations a Based on clinical drug interaction information with itraconazole. Pediatric Population Interaction studies have only been performed in adults. table-1.jpg table-2.jpg"
+  },
+  {
+   "id": "itraconazole:contraindications:0",
+   "medicamento": "itraconazole",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Congestive Heart Failure: Itraconazole capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF. (See BOXED WARNING, WARNINGS, PRECAUTIONS: Drug Interactions-Calcium Channel Blockers, ADVERSE REACTIONS: Postmarketing Experience, and CLINICAL PHARMACOLOGY: Special Populations.) Drug Interactions: Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole. Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide, dofetilide, dronedarone, quinidine, isavuconazole, ergot alkaloids (such as dihydroergotamine, ergometrine (ergonovine), ergotamine, methylergometrine (methylergonovine)), irinotecan, lurasidone, oral midazolam, pimozide, triazolam, felodipine, nisoldipine, ivabradine, ranolazine, eplerenone, cisapride, naloxegol, lomitapide, lovastatin, simvastatin, avanafil, ticagrelor, finerenone, voclosporin."
+  },
+  {
+   "id": "itraconazole:contraindications:1",
+   "medicamento": "itraconazole",
+   "secao": "contraindications",
+   "texto": "In addition, coadministration with colchicine, fesoterodine and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment, and coadministration with eliglustat is contraindicated in subjects that are poor or intermediate metabolizers of CYP2D6 and in subjects taking strong or moderate CYP2D6 inhibitors. (See PRECAUTIONS: Drug Interactions Section for specific examples.) This increase in drug concentrations caused by coadministration with itraconazole may increase or prolong both the pharmacologic effects and/or adverse reactions to these drugs. For example, increased plasma concentrations of some of these drugs can lead to QT prolongation and ventricular tachyarrhythmias including occurrences of torsade de pointes , a potentially fatal arrhythmia. Some specific examples are listed in PRECAUTIONS: Drug Interactions. Coadministration with venetoclax is contraindicated in patients with CLL/SLL during the dose initiation and ramp-up phase of venetoclax due to the potential for an increased risk of tumor lysis syndrome. Itraconazole should not be administered for the treatment of onychomycosis to pregnant patients or to women contemplating pregnancy."
+  },
+  {
+   "id": "itraconazole:contraindications:2",
+   "medicamento": "itraconazole",
+   "secao": "contraindications",
+   "texto": "Itraconazole is contraindicated for patients who have shown hypersensitivity to itraconazole. There is limited information regarding cross-hypersensitivity between itraconazole and other azole antifungal agents. Caution should be used when prescribing itraconazole to patients with hypersensitivity to other azoles."
+  },
+  {
+   "id": "itraconazole:clinical_pharmacology:0",
+   "medicamento": "itraconazole",
+   "secao": "clinical_pharmacology",
+   "texto": "CLINICAL PHARMACOLOGY Pharmacokinetics and Metabolism: General Pharmacokinetic Characteristics Peak plasma concentrations of itraconazole are reached within 2 to 5 hours following oral administration. Itraconazole clearance decreases at higher doses due to saturable hepatic metabolism. Absorption of itraconazole capsules is reduced in subjects with reduced gastric acidity, such as subjects taking medications known as gastric acid secretion suppressors (e.g., H 2 -receptor antagonists, proton pump inhibitors) or subjects with achlorhydria caused by certain diseases. Metabolism Itraconazole is extensively metabolized by the liver into a large number of metabolites. In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole. (See PRECAUTIONS and DOSAGE AND ADMINISTRATION.) Hepatic Impairment: Itraconazole is predominantly metabolized in the liver."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "itraconazole:drug_interactions:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Itraconazole and its major metabolite, hydroxy-itraconazole, are potent CYP3A4 inhibitors.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:drug_interactions:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-glycoprotein",
+   "tipo_destino": "Enzima",
+   "evidencia": "Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:drug_interactions:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "BCRP",
+   "tipo_destino": "Enzima",
+   "evidencia": "Itraconazole is an inhibitor of the drug transporters P-glycoprotein and breast cancer resistance protein (BCRP).",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:drug_interactions:1",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "Itraconazole is mainly metabolized through CYP3A4.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "congestive heart failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "Itraconazole capsules should not be administered for the treatment of onychomycosis in patients with evidence of ventricular dysfunction such as congestive heart failure (CHF) or a history of CHF.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "methadone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole. Some examples of drugs for which plasma concentrations increase are: methadone",
+   "efeito": "increased plasma concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "disopyramide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole. Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide",
+   "efeito": "increased plasma concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dofetilide",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole. Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide, dofetilide",
+   "efeito": "increased plasma concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dronedarone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole. Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide, dofetilide, dronedarone",
+   "efeito": "increased plasma concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "quinidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of a number of CYP3A4 substrates are contraindicated with itraconazole. Some examples of drugs for which plasma concentrations increase are: methadone, disopyramide, dofetilide, dronedarone, quinidine",
+   "efeito": "increased plasma concentrations",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:1",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colchicine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "In addition, coadministration with colchicine, fesoterodine and solifenacin is contraindicated in subjects with varying degrees of renal or hepatic impairment",
+   "efeito": "contraindicated",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:1",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "venetoclax",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration with venetoclax is contraindicated in patients with CLL/SLL during the dose initiation and ramp-up phase",
+   "efeito": "increased risk of tumor lysis syndrome",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:contraindications:2",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Itraconazole is contraindicated for patients who have shown hypersensitivity to itraconazole.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "itraconazole:clinical_pharmacology:0",
+   "origem": "itraconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "In vitro studies have shown that CYP3A4 is the major enzyme involved in the metabolism of itraconazole.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

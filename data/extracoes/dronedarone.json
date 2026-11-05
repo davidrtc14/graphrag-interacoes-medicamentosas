@@ -1,0 +1,432 @@
+{
+ "generico": "dronedarone",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "dronedarone:drug_interactions:0",
+   "medicamento": "dronedarone",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Dronedarone is metabolized by CYP3A and is a moderate inhibitor of CYP3A and CYP2D6 and has potentially important pharmacodynamic interactions ( 7 ) • Class I or III antiarrhythmics: Contraindicated. ( 4 , 7.1 ) • Digoxin: Consider discontinuation or halve dose of digoxin before treatment and monitor digoxin levels. ( 7.1 , 7.3 ) • Calcium channel blockers (CCB): Initiate CCB with low dose and increase after ECG verification of tolerability. ( 7.1 , 7.2 , 7.3 ) • Beta-blockers: May provoke excessive bradycardia. Initiate with low dose and increase after ECG verification of tolerability. ( 7.1 , 7.3 ) • CYP3A inducers: Avoid concomitant use. ( 7.2 ) • Grapefruit juice: Avoid concomitant use. ( 7.2 ) • Statins: Avoid simvastatin doses greater than 10 mg daily. Follow label recommendations for concomitant use of other statins with a CYP3A and P-gp inhibitor like dronedarone. ( 7.3 ) • CYP3A substrates with a narrow therapeutic index (e.g., sirolimus and tacrolimus): Monitor and adjust dosage of concomitant drug as needed when used with MULTAQ. ( 7.3 ) • Warfarin: Monitor INR after initiating dronedarone in patients taking warfarin."
+  },
+  {
+   "id": "dronedarone:drug_interactions:1",
+   "medicamento": "dronedarone",
+   "secao": "drug_interactions",
+   "texto": "( 7.3 ) 7.1 Pharmacodynamic Interactions Drugs Prolonging the QT Interval (Inducing Torsade de Pointes) Coadministration of drugs prolonging the QT interval (such as certain phenothiazines, tricyclic antidepressants, certain macrolide antibiotics, and Class I and III antiarrhythmics) is contraindicated because of the potential risk of torsade de pointes–type ventricular tachycardia [see Contraindications (4) , Clinical Pharmacology (12.3) ] . Digoxin In the ANDROMEDA (patients with recently decompensated heart failure) and PALLAS (patients with permanent AF) trials baseline use of digoxin was associated with an increased risk of arrhythmic or sudden death in dronedarone-treated patients compared to placebo. In patients not taking digoxin, no difference in risk of sudden death was observed in the dronedarone versus placebo groups [see Clinical Studies (14.3) ] . Digoxin can potentiate the electrophysiologic effects of dronedarone (such as decreased AV-node conduction). Dronedarone increases exposure to digoxin [see Drug Interactions (7.3) , Clinical Pharmacology (12.3) ] . Consider discontinuing digoxin."
+  },
+  {
+   "id": "dronedarone:drug_interactions:2",
+   "medicamento": "dronedarone",
+   "secao": "drug_interactions",
+   "texto": "If digoxin treatment is continued, halve the dose of digoxin, monitor serum levels closely, and observe for toxicity . Calcium Channel Blockers Calcium channel blockers with depressant effects on the sinus and AV nodes could potentiate dronedarone's effects on conduction. Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.3) , Clinical Pharmacology (12.3) ] . Beta-Blockers In clinical trials, bradycardia was more frequently observed when dronedarone was given in combination with beta-blockers. Give a low dose of beta-blockers initially, and increase only after ECG verification of good tolerability [see Drug Interactions (7.3) , Clinical Pharmacology (12.3) ] . 7.2 Effects of Other Drugs on Dronedarone Ketoconazole and Other Potent CYP3A Inhibitors Concomitant use of ketoconazole as well as other potent CYP3A inhibitors such as itraconazole, voriconazole, ritonavir, clarithromycin, and nefazodone is contraindicated because exposure to dronedarone is significantly increased [see Contraindications (4) , Clinical Pharmacology (12.3) ] ."
+  },
+  {
+   "id": "dronedarone:drug_interactions:3",
+   "medicamento": "dronedarone",
+   "secao": "drug_interactions",
+   "texto": "Grapefruit Juice Patients should avoid grapefruit juice beverages while taking MULTAQ because exposure to dronedarone is significantly increased [see Clinical Pharmacology (12.3) ] . Rifampin and Other CYP3A Inducers Avoid rifampin or other CYP3A inducers such as phenobarbital, carbamazepine, phenytoin, and St. John's wort because they decrease exposure to dronedarone significantly [see Clinical Pharmacology (12.3) ] . Calcium Channel Blockers Verapamil and diltiazem are moderate CYP3A inhibitors and increase dronedarone exposure. Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.3) , Clinical Pharmacology (12.3) ] . 7.3 Effects of Dronedarone on Other Drugs Simvastatin Dronedarone increased simvastatin/simvastatin acid exposure. Avoid doses greater than 10 mg once daily of simvastatin [see Clinical Pharmacology (12.3) ] . Other Statins Because of multiple mechanisms of interaction with statins (CYPs and transporters), follow statin label recommendations for use with CYP3A and P-gp inhibitors such as dronedarone."
+  },
+  {
+   "id": "dronedarone:drug_interactions:4",
+   "medicamento": "dronedarone",
+   "secao": "drug_interactions",
+   "texto": "Calcium Channel Blockers Dronedarone increased the exposure of calcium channel blockers (verapamil, diltiazem or nifedipine). Give a low dose of calcium channel blockers initially and increase only after ECG verification of good tolerability [see Drug Interactions (7.1) , Clinical Pharmacology (12.3) ] . Sirolimus, Tacrolimus, and Other CYP3A Substrates with Narrow Therapeutic Range Dronedarone can increase plasma concentrations of tacrolimus, sirolimus, and other CYP3A substrates with a narrow therapeutic range when given orally. Monitor plasma concentrations and adjust dosage appropriately. Beta-Blockers and Other CYP2D6 Substrates Dronedarone increased the exposure of propranolol and metoprolol. Give low doses of beta-blockers initially, and increase only after ECG verification of good tolerability. Other CYP2D6 substrates, including other beta-blockers, tricyclic antidepressants, and selective serotonin reuptake inhibitors (SSRIs) may have increased exposure upon coadministration with dronedarone [see Drug Interactions (7.1) , Clinical Pharmacology (12.3) ] . P-glycoprotein Substrates Digoxin Dronedarone increased digoxin exposure by inhibiting the P-gp transporter."
+  },
+  {
+   "id": "dronedarone:drug_interactions:5",
+   "medicamento": "dronedarone",
+   "secao": "drug_interactions",
+   "texto": "Consider discontinuing digoxin. If digoxin treatment is continued, halve the dose of digoxin, monitor serum levels closely, and observe for toxicity [see Drug Interactions (7.1) , Clinical Pharmacology (12.3) ] . Dabigatran Dronedarone increases dabigatran plasma exposures by inhibiting the P-gp transporter [see Clinical Pharmacology (12.3) ] . In patients with moderate renal impairment (CrCL 30–50 mL/min), reduce the dose of dabigatran to 75 mg twice daily when concomitantly administered with dronedarone. In patients with severe renal impairment (CrCL 15–30 mL/min), concomitant use of dronedarone with dabigatran should be avoided. Warfarin When coadministered with dronedarone exposure to S-warfarin was slightly higher than when warfarin was administered alone. There were no clinically significant increases in INR [see Clinical Pharmacology (12.3) ] . More patients experienced clinically significant INR elevations (≥5) usually within 1 week after starting dronedarone versus placebo in patients taking oral anticoagulants in ATHENA. However, no excess risk of bleeding was observed in the dronedarone group."
+  },
+  {
+   "id": "dronedarone:drug_interactions:6",
+   "medicamento": "dronedarone",
+   "secao": "drug_interactions",
+   "texto": "Postmarketing cases of increased INR with or without bleeding events have been reported in warfarin-treated patients initiated on dronedarone. Monitor INR after initiating dronedarone in patients taking warfarin."
+  },
+  {
+   "id": "dronedarone:contraindications:0",
+   "medicamento": "dronedarone",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS MULTAQ is contraindicated in patients with: • Permanent atrial fibrillation (patients in whom normal sinus rhythm will not or cannot be restored) [see Boxed Warning , Warnings and Precautions (5.2) ] • Symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV symptoms [see Boxed Warning , Warnings and Precautions (5.1) ] • Second or third-degree atrioventricular (AV) block, or sick sinus syndrome (except when used in conjunction with a functioning pacemaker) • Bradycardia <50 bpm • Concomitant use of strong CYP3A inhibitors, such as ketoconazole, itraconazole, voriconazole, cyclosporine, telithromycin, clarithromycin, nefazodone, and ritonavir [see Drug Interactions (7.2) ] • Concomitant use of erythromycin [see Clinical Pharmacology (12.3) ] • Concomitant use of drugs or herbal products that prolong the QT interval and might increase the risk of torsade de pointes, such as phenothiazine antipsychotics, tricyclic antidepressants, certain oral macrolide antibiotics, and Class I and III antiarrhythmics • Liver or lung toxicity related to the previous use of amiodarone • QTc interval >500 ms or PR interval >280 ms • Severe hepatic impairment • Hypersensitivity to the active substance or to any of the excipients • Permanent AF (patients in whom normal sinus rhythm will not or cannot be restored) ( Boxed Warning , 4 ) • Recently decompensated heart failure requiring hospitalization or Class IV heart failure ( Boxed Warning , 4 ) • Second or third-degree atrioventricular (AV) block or sick sinus syndrome (except when used in conjunction with a functioning pacemaker) ( 4 ) • Bradycardia <50 bpm ( 4 ) • Concomitant use of a strong CYP3A inhibitor ( 4 ) • Concomitant use of erythromycin ( 4 ) • Concomitant use of drugs or herbal products that prolong the QT interval and may induce torsade de pointes ( 4 ) • Liver or lung toxicity related to the previous use of amiodarone ( 4 ) • QTc interval >500 ms or PR interval >280 ms ( 4 ) • Severe hepatic impairment ( 4 ) • Hypersensitivity to the active substance or to any of the excipients ( 4 )"
+  },
+  {
+   "id": "dronedarone:clinical_pharmacology:0",
+   "medicamento": "dronedarone",
+   "secao": "clinical_pharmacology",
+   "texto": "In this small study, doses above 400 mg were not more effective and were less well tolerated. 12.3 Pharmacokinetics Dronedarone is extensively metabolized and has low systemic bioavailability; its bioavailability is increased by meals. Absorption Because of presystemic first pass metabolism the absolute bioavailability of dronedarone without food is low, about 4%. Metabolism Dronedarone is extensively metabolized, mainly by CYP3A. The metabolites undergo further metabolism to yield over 30 uncharacterized metabolites. Monoamine oxidases contribute partially to the metabolism of the active metabolite of dronedarone. Drug Interactions Dronedarone is metabolized primarily by CYP3A and is a moderate inhibitor of CYP3A and CYP2D6. Dronedarone has no significant potential to inhibit CYP1A2, CYP2C9, CYP2C19, CYP2C8 and CYP2B6. It has the potential to inhibit P-glycoprotein (P-gp) transport. Dronedarone inhibits in vivo the tubular secretion of creatinine a substrate of the organic cation transporter (OCT2) [see Warnings and Precautions (5.9) ] ."
+  },
+  {
+   "id": "dronedarone:clinical_pharmacology:1",
+   "medicamento": "dronedarone",
+   "secao": "clinical_pharmacology",
+   "texto": "In vitro dronedarone and the metabolites SR35021 and SR90154 show no significant potential to inhibit the organic anion transporters OAT1 and OAT3 or the organic cation transporter OCT1. However, in vitro data indicate that SR90154 is likely to inhibit the organic anion transporting polypeptides (OATP1B1, OATP1B3) in vivo ."
+  },
+  {
+   "id": "dronedarone:pharmacokinetics:0",
+   "medicamento": "dronedarone",
+   "secao": "pharmacokinetics",
+   "texto": "12.3 Pharmacokinetics Dronedarone is extensively metabolized and has low systemic bioavailability; its bioavailability is increased by meals. Absorption Because of presystemic first pass metabolism the absolute bioavailability of dronedarone without food is low, about 4%. Metabolism Dronedarone is extensively metabolized, mainly by CYP3A. The metabolites undergo further metabolism to yield over 30 uncharacterized metabolites. Monoamine oxidases contribute partially to the metabolism of the active metabolite of dronedarone. Drug Interactions Dronedarone is metabolized primarily by CYP3A and is a moderate inhibitor of CYP3A and CYP2D6. Dronedarone has no significant potential to inhibit CYP1A2, CYP2C9, CYP2C19, CYP2C8 and CYP2B6. It has the potential to inhibit P-glycoprotein (P-gp) transport. Dronedarone inhibits in vivo the tubular secretion of creatinine a substrate of the organic cation transporter (OCT2) [see Warnings and Precautions (5.9) ] . In vitro dronedarone and the metabolites SR35021 and SR90154 show no significant potential to inhibit the organic anion transporters OAT1 and OAT3 or the organic cation transporter OCT1."
+  },
+  {
+   "id": "dronedarone:pharmacokinetics:1",
+   "medicamento": "dronedarone",
+   "secao": "pharmacokinetics",
+   "texto": "However, in vitro data indicate that SR90154 is likely to inhibit the organic anion transporting polypeptides (OATP1B1, OATP1B3) in vivo ."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "dronedarone:drug_interactions:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone is metabolized by CYP3A",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone is ... a moderate inhibitor of CYP3A and CYP2D6",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone is ... a moderate inhibitor of CYP3A and CYP2D6",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "digoxin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Digoxin: Consider discontinuation or halve dose of digoxin before treatment and monitor digoxin levels.",
+   "efeito": "increased exposure",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Warfarin: Monitor INR after initiating dronedarone in patients taking warfarin.",
+   "efeito": "increased INR",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:3",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "simvastatin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Dronedarone increased simvastatin/simvastatin acid exposure. Avoid doses greater than 10 mg once daily of simvastatin",
+   "efeito": "increased simvastatin exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:4",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone increased digoxin exposure by inhibiting the P-gp transporter.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:5",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "dabigatran",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Dronedarone increases dabigatran plasma exposures by inhibiting the P-gp transporter",
+   "efeito": "increased dabigatran exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:4",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "propranolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Dronedarone increased the exposure of propranolol and metoprolol.",
+   "efeito": "increased exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:drug_interactions:4",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "metoprolol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Dronedarone increased the exposure of propranolol and metoprolol.",
+   "efeito": "increased exposure",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "permanent atrial fibrillation",
+   "tipo_destino": "Condicao",
+   "evidencia": "MULTAQ is contraindicated in patients with: • Permanent atrial fibrillation",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "heart failure",
+   "tipo_destino": "Condicao",
+   "evidencia": "Symptomatic heart failure with recent decompensation requiring hospitalization or NYHA Class IV symptoms",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ketoconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ketoconazole",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "itraconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ... itraconazole",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "voriconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ... voriconazole",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cyclosporine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ... cyclosporine",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "telithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ... telithromycin",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clarithromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ... clarithromycin",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "nefazodone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ... nefazodone",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ritonavir",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of strong CYP3A inhibitors, such as ... ritonavir",
+   "efeito": "strong CYP3A inhibitor interaction",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:contraindications:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "erythromycin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of erythromycin",
+   "efeito": "contraindicated",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:clinical_pharmacology:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone is extensively metabolized, mainly by CYP3A.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:clinical_pharmacology:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP3A",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone is metabolized primarily by CYP3A and is a moderate inhibitor of CYP3A and CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:clinical_pharmacology:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone is metabolized primarily by CYP3A and is a moderate inhibitor of CYP3A and CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:clinical_pharmacology:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "It has the potential to inhibit P-glycoprotein (P-gp) transport.",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:clinical_pharmacology:0",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OCT2",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dronedarone inhibits in vivo the tubular secretion of creatinine a substrate of the organic cation transporter (OCT2)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:clinical_pharmacology:1",
+   "origem": "SR90154",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OATP1B1",
+   "tipo_destino": "Enzima",
+   "evidencia": "in vitro data indicate that SR90154 is likely to inhibit the organic anion transporting polypeptides (OATP1B1, OATP1B3) in vivo",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "dronedarone:clinical_pharmacology:1",
+   "origem": "SR90154",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "OATP1B3",
+   "tipo_destino": "Enzima",
+   "evidencia": "in vitro data indicate that SR90154 is likely to inhibit the organic anion transporting polypeptides (OATP1B1, OATP1B3) in vivo",
+   "efeito": "",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": [
+  {
+   "trecho_id": "dronedarone:drug_interactions:2",
+   "origem": "dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "ketoconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Concomitant use of ketoconazole as well as other potent CYP3A inhibitors such as itraconazole, voriconazole, ritonavir, clarithromycin, and nefazodone is contraindicated",
+   "efeito": "",
+   "confianca": 1.0,
+   "motivo": "combinação de tipos"
+  }
+ ]
+}

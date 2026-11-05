@@ -1,0 +1,269 @@
+{
+ "generico": "dabigatran",
+ "modelos": [
+  "gemini-3-flash-preview"
+ ],
+ "trechos": [
+  {
+   "id": "dabigatran:drug_interactions:0",
+   "medicamento": "dabigatran",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS P-gp inducers: Avoid coadministration with Dabigatran Etexilate Capsules ( 5.5 ) P-gp inhibitors in adult patients with CrCl 30 to 50 mL/min: Reduce dosage or avoid ( 7 ) P-gp inhibitors in adult patients with CrCl <30 mL/min: Not recommended ( 7 ) 7.1 Reduction of Risk of Stroke and Systemic Embolism in Non-valvular Atrial Fibrillation in Adult Patients The concomitant use of Dabigatran Etexilate Capsules with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran and should generally be avoided [see Clinical Pharmacology (12.3)] . P-gp inhibition and impaired renal function are the major independent factors that result in increased exposure to dabigatran [see Clinical Pharmacology (12.3)] . Concomitant use of P-gp inhibitors in patients with renal impairment is expected to produce increased exposure of dabigatran compared to that seen with either factor alone. In patients with moderate renal impairment (CrCl 30 to 50 mL/min), reduce the dosage of Dabigatran Etexilate Capsules to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole."
+  },
+  {
+   "id": "dabigatran:drug_interactions:1",
+   "medicamento": "dabigatran",
+   "secao": "drug_interactions",
+   "texto": "The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor does not require a dosage adjustment of Dabigatran Etexilate Capsules. These results should not be extrapolated to other P-gp inhibitors [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)] ."
+  },
+  {
+   "id": "dabigatran:drug_interactions:2",
+   "medicamento": "dabigatran",
+   "secao": "drug_interactions",
+   "texto": "The concomitant use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with severe renal impairment (CrCl 15 to 30 mL/min) should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)] . 7.2 Treatment and Reduction in the Risk of Recurrence of Deep Venous Thrombosis and Pulmonary Embolism in Adult Patients Avoid use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with CrCl <50 mL/min [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.3)] . 7.3 Prophylaxis of Deep Vein Thrombosis and Pulmonary Embolism in Adult Patients Following Hip Replacement Surgery In patients with CrCl ≥50 mL/min who have concomitant administration of P-gp inhibitors such as dronedarone or systemic ketoconazole, it may be helpful to separate the timing of administration of Dabigatran Etexilate Capsules and the P-gp inhibitor by several hours."
+  },
+  {
+   "id": "dabigatran:drug_interactions:3",
+   "medicamento": "dabigatran",
+   "secao": "drug_interactions",
+   "texto": "The concomitant use of Dabigatran Etexilate Capsules and P-gp inhibitors in patients with CrCl <50 mL/min should be avoided [see Warnings and Precautions (5.5), Use in Specific Populations (8.6), and Clinical Pharmacology (12.2, 12.3)] . 7.4 Treatment and Reduction in Risk of Recurrence of VTE in Pediatric Patients The concomitant use of Dabigatran Etexilate Capsules with P-gp inhibitors has not been studied in pediatric patients but may increase exposure to dabigatran [see Warnings and Precautions ( 5.5 )]."
+  },
+  {
+   "id": "dabigatran:contraindications:0",
+   "medicamento": "dabigatran",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Dabigatran Etexilate Capsules is contraindicated in patients with: • Active pathological bleeding [see Warnings and Precautions ( 5.2 ) and Adverse Reactions ( 6.1 )] • History of a serious hypersensitivity reaction to dabigatran, dabigatran etexilate, or to one of the excipients of the product (e.g., anaphylactic reaction or anaphylactic shock) [see Adverse Reactions ( 6.1 )] • Mechanical prosthetic heart valve [see Warnings and Precautions ( 5.4 )] • Active pathological bleeding ( 4) • History of serious hypersensitivity reaction to Dabigatran Etexilate Capsules ( 4 ) • Mechanical prosthetic heart valve ( 4 )"
+  },
+  {
+   "id": "dabigatran:clinical_pharmacology:0",
+   "medicamento": "dabigatran",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Dabigatran and its acyl glucuronides are competitive, direct thrombin inhibitors. Because thrombin (serine protease) enables the conversion of fibrinogen into fibrin during the coagulation cascade, its inhibition prevents the development of a thrombus. Both free and clot-bound thrombin, and thrombin-induced platelet aggregation are inhibited by the active moieties. 12.2 Pharmacodynamics At recommended therapeutic doses, dabigatran etexilate prolongs the coagulation markers such as aPTT, ECT, TT, and dTT. Dabigatran is metabolized to four different acyl glucuronides and both the glucuronides and dabigatran have similar pharmacological activity. Dabigatran etexilate is a substrate of the efflux transporter P-gp. Metabolism After oral administration, dabigatran etexilate is converted to dabigatran. Dabigatran is not a substrate, inhibitor, or inducer of CYP450 enzymes. In the orthopedic hip surgery patients, limited clinical data with P-gp inhibitors is available. Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC)."
+  },
+  {
+   "id": "dabigatran:clinical_pharmacology:1",
+   "medicamento": "dabigatran",
+   "secao": "clinical_pharmacology",
+   "texto": "The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference) Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC). The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran. Impact of Dabigatran on Other Drugs In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine. dab-igatran-graph4-2 dab-igatran-fi-3-2"
+  },
+  {
+   "id": "dabigatran:pharmacokinetics:0",
+   "medicamento": "dabigatran",
+   "secao": "pharmacokinetics",
+   "texto": "Dabigatran is metabolized to four different acyl glucuronides and both the glucuronides and dabigatran have similar pharmacological activity. Dabigatran etexilate is a substrate of the efflux transporter P-gp. Metabolism After oral administration, dabigatran etexilate is converted to dabigatran. Dabigatran is not a substrate, inhibitor, or inducer of CYP450 enzymes. In the orthopedic hip surgery patients, limited clinical data with P-gp inhibitors is available. Figure 3.1 Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs on Peak and Total Exposure to Dabigatran (Cmax and AUC). The Perpetrator and Dabigatran Etexilate Dosage and Dosage Frequency are given as well as the Time of Perpetrator Dosage in Relation to Dabigatran Etexilate Dosage (Time Difference) Figure 3.2 Effect of Non-P-gp Inhibitor or Inducer, Other Drugs, on Peak and Total Exposure to Dabigatran (Cmax and AUC). The concomitant use of proton pump inhibitors, H2 antagonists, and digoxin did not appreciably change the trough concentration of dabigatran."
+  },
+  {
+   "id": "dabigatran:pharmacokinetics:1",
+   "medicamento": "dabigatran",
+   "secao": "pharmacokinetics",
+   "texto": "Impact of Dabigatran on Other Drugs In clinical studies exploring CYP3A4, CYP2C9, P-gp and other pathways, dabigatran did not meaningfully alter the pharmacokinetics of amiodarone, atorvastatin, clarithromycin, diclofenac, clopidogrel, digoxin, pantoprazole, or ranitidine. dab-igatran-graph4-2 dab-igatran-fi-3-2"
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "dabigatran:drug_interactions:0",
+   "origem": "Rifampin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "P-gp inducers (e.g., rifampin)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Rifampin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "The concomitant use of Dabigatran Etexilate Capsules with P-gp inducers (e.g., rifampin) reduces exposure to dabigatran",
+   "efeito": "reduced exposure to dabigatran",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:0",
+   "origem": "Dronedarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "administered concomitantly with the P-gp inhibitors dronedarone",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:0",
+   "origem": "Ketoconazole",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Dronedarone",
+   "tipo_destino": "Medicamento",
+   "evidencia": "reduce the dosage of Dabigatran Etexilate Capsules to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone",
+   "efeito": "increased exposure of dabigatran",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "Ketoconazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "reduce the dosage of Dabigatran Etexilate Capsules to 75 mg twice daily when administered concomitantly with the P-gp inhibitors dronedarone or systemic ketoconazole",
+   "efeito": "increased exposure of dabigatran",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:1",
+   "origem": "Verapamil",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "The use of the P-gp inhibitors verapamil",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:1",
+   "origem": "Amiodarone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "The use of the P-gp inhibitors verapamil, amiodarone",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:1",
+   "origem": "Quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "The use of the P-gp inhibitors verapamil, amiodarone, quinidine",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:1",
+   "origem": "Clarithromycin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:drug_interactions:1",
+   "origem": "Ticagrelor",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "The use of the P-gp inhibitors verapamil, amiodarone, quinidine, clarithromycin, and ticagrelor",
+   "efeito": "",
+   "confianca": 0.9,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:contraindications:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Active pathological bleeding",
+   "tipo_destino": "Condicao",
+   "evidencia": "Dabigatran Etexilate Capsules is contraindicated in patients with: • Active pathological bleeding",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:contraindications:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "History of a serious hypersensitivity reaction to dabigatran",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:contraindications:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "Mechanical prosthetic heart valve",
+   "tipo_destino": "Condicao",
+   "evidencia": "Mechanical prosthetic heart valve",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:clinical_pharmacology:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "Thrombin",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dabigatran and its acyl glucuronides are competitive, direct thrombin inhibitors.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:clinical_pharmacology:0",
+   "origem": "Dabigatran",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Dabigatran etexilate is a substrate of the efflux transporter P-gp.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  },
+  {
+   "trecho_id": "dabigatran:clinical_pharmacology:0",
+   "origem": "Rifampicin",
+   "tipo_origem": "Medicamento",
+   "tipo": "INDUZ",
+   "destino": "P-gp",
+   "tipo_destino": "Enzima",
+   "evidencia": "Effect of P-gp Inhibitor or Inducer (rifampicin) Drugs",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3-flash-preview"
+  }
+ ],
+ "rejeitadas": []
+}

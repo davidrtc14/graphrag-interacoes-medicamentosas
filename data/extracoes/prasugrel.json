@@ -1,0 +1,347 @@
+{
+ "generico": "prasugrel",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "prasugrel:drug_interactions:0",
+   "medicamento": "prasugrel",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Opioids: Decreased exposure to prasugrel. Consider use of parenteral anti-platelet agent ( 7.3 ). 7.1 Warfarin Coadministration of prasugrel tablets and warfarin increases the risk of bleeding [see Warnings and Precautions ( 5.1 ) and Clinical Pharmacology ( 12.3 )]. 7.2 Nonsteroidal Anti-Inflammatory Drugs Coadministration of prasugrel tablets and NSAIDs (used chronically) may increase the risk of bleeding [see Warnings and Precautions ( 5.1 )]. 7.3 Opioids As with other oral P2Y 12 inhibitors, coadministration of opioid agonists delay and reduce the absorption of prasugrel's active metabolite presumably because of slowed gastric emptying [see Clinical Pharmacology ( 12.3 )] . Consider the use of a parenteral anti-platelet agent in acute coronary syndrome patients requiring co-administration of morphine or other opioid agonists 7.4 Other Concomitant Medications Prasugrel tablets can be administered with drugs that are inducers or inhibitors of cytochrome P450 enzymes [see Clinical Pharmacology ( 12.3 )]."
+  },
+  {
+   "id": "prasugrel:drug_interactions:1",
+   "medicamento": "prasugrel",
+   "secao": "drug_interactions",
+   "texto": "Prasugrel tablets can be administered with aspirin (75 mg to 325 mg per day), heparin, GPIIb/IIIa inhibitors, statins, digoxin, and drugs that elevate gastric pH, including proton pump inhibitors and H 2 blockers [see Clinical Pharmacology ( 12.3 )]."
+  },
+  {
+   "id": "prasugrel:contraindications:0",
+   "medicamento": "prasugrel",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Active pathological bleeding ( 4.1 ) Active pathological bleeding ( 4.1 ) Prior transient ischemic attack or stroke ( 4.2 ) Hypersensitivity to prasugrel or any component of the product ( 4.3 ) 4.1 Active Bleeding Prasugrel tablet is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage (ICH) [see Warnings and Precautions ( 5.1 ) and Adverse Reactions ( 6.1 )] . 4.2 Prior Transient Ischemic Attack or Stroke Prasugrel tablet is contraindicated in patients with a history of prior transient ischemic attack (TIA) or stroke. In TRITON-TIMI 38 ( TR ial to Assess I mprovement in T herapeutic Outcomes by O ptimizing Platelet Inhibitio N with prasugrel), patients with a history of TIA or ischemic stroke (>3 months prior to enrollment) had a higher rate of stroke on prasugrel tablets (6.5%; of which 4.2% were thrombotic stroke and 2.3% were intracranial hemorrhage [ICH]) than on clopidogrel (1.2%; all thrombotic). In patients without such a history, the incidence of stroke was 0.9% (0.2% ICH) and 1.0% (0.3% ICH) with Prasugrel tablets and clopidogrel, respectively."
+  },
+  {
+   "id": "prasugrel:contraindications:1",
+   "medicamento": "prasugrel",
+   "secao": "contraindications",
+   "texto": "Patients with a history of ischemic stroke within 3 months of screening and patients with a history of hemorrhagic stroke at any time were excluded from TRITON-TIMI 38. Patients who experience a stroke or TIA while on Prasugrel tablets generally should have therapy discontinued [see Adverse Reactions ( 6.1 ) and Clinical Studies ( 14 )]. 4.3 Hypersensitivity Prasugrel tablet is contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to prasugrel or any component of the product [see Adverse Reactions ( 6.2 )] ."
+  },
+  {
+   "id": "prasugrel:clinical_pharmacology:0",
+   "medicamento": "prasugrel",
+   "secao": "clinical_pharmacology",
+   "texto": "12 CLINICAL PHARMACOLOGY 12.1 Mechanism of Action Prasugrel is an inhibitor of platelet activation and aggregation through the irreversible binding of its active metabolite to the P2Y 12 class of ADP receptors on platelets. 12.2 Pharmacodynamics Prasugrel produces inhibition of platelet aggregation to 20 μM or 5 μM ADP, as measured by light transmission aggregometry. Following a 60-mg loading dose of Prasugrel tablets, approximately 90% of patients had at least 50% inhibition of platelet aggregation by 1 hour. Maximum platelet inhibition was about 80% (see Figure 2). Mean steady-state inhibition of platelet aggregation was about 70% following 3 to 5 days of dosing at 10 mg daily after a 60 mg loading dose of Prasugrel tablets. Figure 2: Inhibition (Mean±SD) of 20 μM ADP-induced Platelet Aggregation (IPA) Measured by Light Transmission Aggregometry after Prasugrel 60 mg."
+  },
+  {
+   "id": "prasugrel:clinical_pharmacology:1",
+   "medicamento": "prasugrel",
+   "secao": "clinical_pharmacology",
+   "texto": "The relationship between inhibition of platelet aggregation and clinical activity has not been established. 5 mg in Low Body Weight Patients - In patients with stable coronary artery disease, mean platelet inhibition in subjects <60 kg taking 5 mg prasugrel was similar to that of subjects ≥60 kg taking 10 mg prasugrel. The relationship between inhibition of platelet aggregation and clinical activity has not been established. Image 12.3 Pharmacokinetics Prasugrel is a prodrug and is rapidly metabolized to a pharmacologically active metabolite and inactive metabolites. The absorption and metabolism are rapid, with peak plasma concentrations (C max ) of the active metabolite occurring approximately 30 minutes after dosing. Metabolism and Elimination - Prasugrel is not detected in plasma following oral administration. It is rapidly hydrolyzed in the intestine to a thiolactone, which is then converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. The active metabolite is metabolized to two inactive compounds by S-methylation or conjugation with cysteine."
+  },
+  {
+   "id": "prasugrel:clinical_pharmacology:2",
+   "medicamento": "prasugrel",
+   "secao": "clinical_pharmacology",
+   "texto": "Specific Populations Geriatric Patients - In a study of 32 healthy subjects between the ages of 20 and 80 years, age had no significant effect on pharmacokinetics of prasugrel's active metabolite or its inhibition of platelet aggregation. Patients with Renal Impairment - Pharmacokinetics of prasugrel's active metabolite and its inhibition of platelet aggregation are similar in patients with moderate renal impairment (CrCL=30 to 50 mL/min) and healthy subjects. Patients with Hepatic Impairment - Pharmacokinetics of prasugrel's active metabolite and inhibition of platelet aggregation was similar in patients with mild to moderate hepatic impairment compared to healthy subjects. Drug Interaction Studies Potential for Other Drugs to Affect Prasugrel Inhibitors of CYP3A - Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4 and CYP3A5, did not affect prasugrel-mediated inhibition of platelet aggregation or the active metabolite's AUC and T max , but decreased the C max by 34% to 46%."
+  },
+  {
+   "id": "prasugrel:clinical_pharmacology:3",
+   "medicamento": "prasugrel",
+   "secao": "clinical_pharmacology",
+   "texto": "Therefore, CYP3A inhibitors such as verapamil, diltiazem, indinavir, ciprofloxacin, clarithromycin, and grapefruit juice are not expected to have a significant effect on the pharmacokinetics of the active metabolite of prasugrel [see Drug Interactions ( 7.4 )] . Inducers of Cytochromes P450 - Rifampicin (600 mg daily), a potent inducer of CYP3A and CYP2B6 and an inducer of CYP2C9, CYP2C19, and CYP2C8, did not significantly change the pharmacokinetics of prasugrel's active metabolite or its inhibition of platelet aggregation. Therefore, known CYP3A inducers such as rifampicin, carbamazepine, and other inducers of cytochromes P450 are not expected to have significant effect on the pharmacokinetics of the active metabolite of prasugrel [see Drug Interactions ( 7.4 )] . Drugs that Elevate Gastric pH - Daily coadministration of ranitidine (an H 2 blocker) or lansoprazole (a proton pump inhibitor) decreased the C max of the prasugrel active metabolite by 14% and 29%, respectively, but did not change the active metabolite's AUC and T max ."
+  },
+  {
+   "id": "prasugrel:clinical_pharmacology:4",
+   "medicamento": "prasugrel",
+   "secao": "clinical_pharmacology",
+   "texto": "In TRITON-TIMI 38, Prasugrel tablet was administered without regard to coadministration of a proton pump inhibitor or H 2 blocker [see Drug Interactions ( 7.4 )] . Statins - Atorvastatin (80 mg daily), a drug metabolized by CYP450 3A4, did not alter the pharmacokinetics of prasugrel's active metabolite or its inhibition of platelet aggregation [see Drug Interactions ( 7.4 )] . Heparin - A single intravenous dose of unfractionated heparin (100 units/kg) did not significantly alter coagulation or the prasugrel-mediated inhibition of platelet aggregation; however, bleeding time was increased compared with either drug alone [see Drug Interactions ( 7.4 )] . Aspirin - Aspirin 150 mg daily did not alter prasugrel-mediated inhibition of platelet aggregation; however, bleeding time was increased compared with either drug alone [see Drug Interactions ( 7.4 )]. Potential for Prasugrel to Affect Other Drugs In vitro metabolism studies demonstrate that prasugrel's main circulating metabolites are not likely to cause clinically significant inhibition of CYP1A2, CYP2C9, CYP2C19, CYP2D6, or CYP3A, or induction of CYP1A2 or CYP3A."
+  },
+  {
+   "id": "prasugrel:clinical_pharmacology:5",
+   "medicamento": "prasugrel",
+   "secao": "clinical_pharmacology",
+   "texto": "Drugs Metabolized by CYP2B6 - Prasugrel is a weak inhibitor of CYP2B6. In healthy subjects, prasugrel decreased exposure to hydroxybupropion, a CYP2B6-mediated metabolite of bupropion, by 23%, an amount not considered clinically significant. Prasugrel is not anticipated to have significant effect on the pharmacokinetics of drugs that are primarily metabolized by CYP2B6, such as halothane, cyclophosphamide, propofol, and nevirapine. Effect on Digoxin - The potential role of prasugrel as a Pgp substrate was not evaluated. Prasugrel is not an inhibitor of Pgp, as digoxin clearance was not affected by prasugrel coadministration [see Drug Interactions ( 7.4 )] . Morphine -Co-administration of 5 mg intravenous morphine with 60 mg loading dose of prasugrel in healthy adults decreased the C max of prasugrel's active metabolite by 31% with no change in AUC, T max , or inhibition of ADP-induced platelet aggregation. ADP induced platelet aggregation was higher up to 2 hours following 60 mg loading dose of prasugrel in stable patients more than 1 year after an ACS who were co-administered morphine."
+  },
+  {
+   "id": "prasugrel:clinical_pharmacology:6",
+   "medicamento": "prasugrel",
+   "secao": "clinical_pharmacology",
+   "texto": "In the patients with a 2-hour delay in the onset of platelet aggregation (5 of 11), T max was delayed and prasugrel active metabolite levels were significantly lower at 30 min (5 vs 120 ng/mL) following co-administration with morphine. 12.5 Pharmacogenomics There is no relevant effect of genetic variation in CYP2B6, CYP2C9, CYP2C19, or CYP3A5 on the pharmacokinetics of prasugrel's active metabolite or its inhibition of platelet aggregation."
+  },
+  {
+   "id": "prasugrel:pharmacokinetics:0",
+   "medicamento": "prasugrel",
+   "secao": "pharmacokinetics",
+   "texto": "12.3 Pharmacokinetics Prasugrel is a prodrug and is rapidly metabolized to a pharmacologically active metabolite and inactive metabolites. The absorption and metabolism are rapid, with peak plasma concentrations (C max ) of the active metabolite occurring approximately 30 minutes after dosing. Metabolism and Elimination - Prasugrel is not detected in plasma following oral administration. It is rapidly hydrolyzed in the intestine to a thiolactone, which is then converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19. The active metabolite is metabolized to two inactive compounds by S-methylation or conjugation with cysteine. Specific Populations Geriatric Patients - In a study of 32 healthy subjects between the ages of 20 and 80 years, age had no significant effect on pharmacokinetics of prasugrel's active metabolite or its inhibition of platelet aggregation. Patients with Renal Impairment - Pharmacokinetics of prasugrel's active metabolite and its inhibition of platelet aggregation are similar in patients with moderate renal impairment (CrCL=30 to 50 mL/min) and healthy subjects."
+  },
+  {
+   "id": "prasugrel:pharmacokinetics:1",
+   "medicamento": "prasugrel",
+   "secao": "pharmacokinetics",
+   "texto": "Patients with Hepatic Impairment - Pharmacokinetics of prasugrel's active metabolite and inhibition of platelet aggregation was similar in patients with mild to moderate hepatic impairment compared to healthy subjects. Drug Interaction Studies Potential for Other Drugs to Affect Prasugrel Inhibitors of CYP3A - Ketoconazole (400 mg daily), a selective and potent inhibitor of CYP3A4 and CYP3A5, did not affect prasugrel-mediated inhibition of platelet aggregation or the active metabolite's AUC and T max , but decreased the C max by 34% to 46%. Therefore, CYP3A inhibitors such as verapamil, diltiazem, indinavir, ciprofloxacin, clarithromycin, and grapefruit juice are not expected to have a significant effect on the pharmacokinetics of the active metabolite of prasugrel [see Drug Interactions ( 7.4 )] . Inducers of Cytochromes P450 - Rifampicin (600 mg daily), a potent inducer of CYP3A and CYP2B6 and an inducer of CYP2C9, CYP2C19, and CYP2C8, did not significantly change the pharmacokinetics of prasugrel's active metabolite or its inhibition of platelet aggregation."
+  },
+  {
+   "id": "prasugrel:pharmacokinetics:2",
+   "medicamento": "prasugrel",
+   "secao": "pharmacokinetics",
+   "texto": "Therefore, known CYP3A inducers such as rifampicin, carbamazepine, and other inducers of cytochromes P450 are not expected to have significant effect on the pharmacokinetics of the active metabolite of prasugrel [see Drug Interactions ( 7.4 )] . Drugs that Elevate Gastric pH - Daily coadministration of ranitidine (an H 2 blocker) or lansoprazole (a proton pump inhibitor) decreased the C max of the prasugrel active metabolite by 14% and 29%, respectively, but did not change the active metabolite's AUC and T max . In TRITON-TIMI 38, Prasugrel tablet was administered without regard to coadministration of a proton pump inhibitor or H 2 blocker [see Drug Interactions ( 7.4 )] . Statins - Atorvastatin (80 mg daily), a drug metabolized by CYP450 3A4, did not alter the pharmacokinetics of prasugrel's active metabolite or its inhibition of platelet aggregation [see Drug Interactions ( 7.4 )] . Heparin - A single intravenous dose of unfractionated heparin (100 units/kg) did not significantly alter coagulation or the prasugrel-mediated inhibition of platelet aggregation; however, bleeding time was increased compared with either drug alone [see Drug Interactions ( 7.4 )] ."
+  },
+  {
+   "id": "prasugrel:pharmacokinetics:3",
+   "medicamento": "prasugrel",
+   "secao": "pharmacokinetics",
+   "texto": "Aspirin - Aspirin 150 mg daily did not alter prasugrel-mediated inhibition of platelet aggregation; however, bleeding time was increased compared with either drug alone [see Drug Interactions ( 7.4 )]. Potential for Prasugrel to Affect Other Drugs In vitro metabolism studies demonstrate that prasugrel's main circulating metabolites are not likely to cause clinically significant inhibition of CYP1A2, CYP2C9, CYP2C19, CYP2D6, or CYP3A, or induction of CYP1A2 or CYP3A. Drugs Metabolized by CYP2B6 - Prasugrel is a weak inhibitor of CYP2B6. In healthy subjects, prasugrel decreased exposure to hydroxybupropion, a CYP2B6-mediated metabolite of bupropion, by 23%, an amount not considered clinically significant. Prasugrel is not anticipated to have significant effect on the pharmacokinetics of drugs that are primarily metabolized by CYP2B6, such as halothane, cyclophosphamide, propofol, and nevirapine. Effect on Digoxin - The potential role of prasugrel as a Pgp substrate was not evaluated. Prasugrel is not an inhibitor of Pgp, as digoxin clearance was not affected by prasugrel coadministration [see Drug Interactions ( 7.4 )] ."
+  },
+  {
+   "id": "prasugrel:pharmacokinetics:4",
+   "medicamento": "prasugrel",
+   "secao": "pharmacokinetics",
+   "texto": "Morphine -Co-administration of 5 mg intravenous morphine with 60 mg loading dose of prasugrel in healthy adults decreased the C max of prasugrel's active metabolite by 31% with no change in AUC, T max , or inhibition of ADP-induced platelet aggregation. ADP induced platelet aggregation was higher up to 2 hours following 60 mg loading dose of prasugrel in stable patients more than 1 year after an ACS who were co-administered morphine."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "prasugrel:drug_interactions:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "warfarin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Coadministration of prasugrel tablets and warfarin increases the risk of bleeding",
+   "efeito": "increased risk of bleeding",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:drug_interactions:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "opioid agonist",
+   "tipo_destino": "Medicamento",
+   "evidencia": "coadministration of opioid agonists delay and reduce the absorption of prasugrel's active metabolite presumably because of slowed gastric emptying",
+   "efeito": "delay and reduce absorption of active metabolite",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:contraindications:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "active pathological bleeding",
+   "tipo_destino": "Condicao",
+   "evidencia": "Prasugrel tablet is contraindicated in patients with active pathological bleeding such as peptic ulcer or intracranial hemorrhage (ICH)",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:contraindications:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "transient ischemic attack",
+   "tipo_destino": "Condicao",
+   "evidencia": "Prasugrel tablet is contraindicated in patients with a history of prior transient ischemic attack (TIA) or stroke.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:contraindications:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "stroke",
+   "tipo_destino": "Condicao",
+   "evidencia": "Prasugrel tablet is contraindicated in patients with a history of prior transient ischemic attack (TIA) or stroke.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:contraindications:1",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "hypersensitivity",
+   "tipo_destino": "Condicao",
+   "evidencia": "Prasugrel tablet is contraindicated in patients with hypersensitivity (e.g., anaphylaxis) to prasugrel or any component of the product",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:1",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:1",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2B6",
+   "tipo_destino": "Enzima",
+   "evidencia": "converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:1",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:1",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6 and to a lesser extent by CYP2C9 and CYP2C19",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:4",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "heparin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Heparin - A single intravenous dose of unfractionated heparin (100 units/kg) did not significantly alter coagulation or the prasugrel-mediated inhibition of platelet aggregation; however, bleeding time was increased compared with either drug alone",
+   "efeito": "increased bleeding time",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:4",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "aspirin",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Aspirin - Aspirin 150 mg daily did not alter prasugrel-mediated inhibition of platelet aggregation; however, bleeding time was increased compared with either drug alone",
+   "efeito": "increased bleeding time",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:5",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2B6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Prasugrel is a weak inhibitor of CYP2B6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:clinical_pharmacology:5",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "morphine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Co-administration of 5 mg intravenous morphine with 60 mg loading dose of prasugrel in healthy adults decreased the C max of prasugrel's active metabolite by 31%",
+   "efeito": "decreased Cmax of prasugrel active metabolite",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:pharmacokinetics:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP3A4",
+   "tipo_destino": "Enzima",
+   "evidencia": "It is rapidly hydrolyzed in the intestine to a thiolactone, which is then converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:pharmacokinetics:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2B6",
+   "tipo_destino": "Enzima",
+   "evidencia": "It is rapidly hydrolyzed in the intestine to a thiolactone, which is then converted to the active metabolite by a single step, primarily by CYP3A4 and CYP2B6",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:pharmacokinetics:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C9",
+   "tipo_destino": "Enzima",
+   "evidencia": "and to a lesser extent by CYP2C9 and CYP2C19.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:pharmacokinetics:0",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2C19",
+   "tipo_destino": "Enzima",
+   "evidencia": "and to a lesser extent by CYP2C9 and CYP2C19.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:pharmacokinetics:2",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "ranitidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Daily coadministration of ranitidine (an H 2 blocker) or lansoprazole (a proton pump inhibitor) decreased the C max of the prasugrel active metabolite by 14% and 29%, respectively",
+   "efeito": "decreased Cmax of prasugrel active metabolite",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "prasugrel:pharmacokinetics:2",
+   "origem": "prasugrel",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lansoprazole",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Daily coadministration of ranitidine (an H 2 blocker) or lansoprazole (a proton pump inhibitor) decreased the C max of the prasugrel active metabolite by 14% and 29%, respectively",
+   "efeito": "decreased Cmax of prasugrel active metabolite",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

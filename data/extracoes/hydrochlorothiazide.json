@@ -1,0 +1,119 @@
+{
+ "generico": "hydrochlorothiazide",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "hydrochlorothiazide:drug_interactions:0",
+   "medicamento": "hydrochlorothiazide",
+   "secao": "drug_interactions",
+   "texto": "Alcohol, barbiturates, or narcotics: potentiation of orthostatic hypotension may occur. Antidiabetic drugs: (oral agents and insulin) dosage adjustment of the antidiabetic drug may be required. Other antihypertensive drugs: additive effect or potentiation. Cholestyramine and colestipol resins: Cholestyramine and colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively. Corticosteroid, ACTH: intensified electrolyte depletion, particularly hypokalemia. Pressor amines (e.g., norepinephrine): possible decreased response to pressor amines but not sufficient to preclude their use. Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): possible increased responsiveness to the muscle relaxant. Lithium: generally should not be given with diuretics. Diuretic agents reduce the renal clearance of lithium and greatly increase the risk of lithium toxicity. Refer to the package insert for lithium preparations before use of such preparations with hydrochlorothiazide capsules."
+  },
+  {
+   "id": "hydrochlorothiazide:drug_interactions:1",
+   "medicamento": "hydrochlorothiazide",
+   "secao": "drug_interactions",
+   "texto": "Non-steroidal anti-inflammatory drugs: In some patients, the administration of a non-steroidal anti-inflammatory agent can reduce the diuretic, natriuretic, and antihypertensive effects of loop, potassium-sparing and thiazide diuretics. When hydrochlorothiazide capsules and non-steroidal anti-inflammatory agents are used concomitantly, the patients should be observed closely to determine if the desired effect of the diuretic is obtained. Drug/Laboratory Test Interactions: Thiazides should be discontinued before carrying out tests for parathyroid function (see PRECAUTIONS , General )."
+  },
+  {
+   "id": "hydrochlorothiazide:contraindications:0",
+   "medicamento": "hydrochlorothiazide",
+   "secao": "contraindications",
+   "texto": "CONTRAINDICATIONS Hydrochlorothiazide is contraindicated in patients with anuria. Hypersensitivity to this product or other sulfonamide derived drugs is also contraindicated."
+  },
+  {
+   "id": "hydrochlorothiazide:clinical_pharmacology:0",
+   "medicamento": "hydrochlorothiazide",
+   "secao": "clinical_pharmacology",
+   "texto": "Pharmacokinetics and Metabolism: Hydrochlorothiazide is well absorbed (65% to 75%) following oral administration."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "hydrochlorothiazide:drug_interactions:0",
+   "origem": "hydrochlorothiazide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "alcohol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Alcohol, barbiturates, or narcotics: potentiation of orthostatic hypotension may occur.",
+   "efeito": "potentiation of orthostatic hypotension",
+   "confianca": 0.9,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "hydrochlorothiazide:drug_interactions:0",
+   "origem": "hydrochlorothiazide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "cholestyramine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cholestyramine and colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.",
+   "efeito": "reduce absorption",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "hydrochlorothiazide:drug_interactions:0",
+   "origem": "hydrochlorothiazide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "colestipol",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Cholestyramine and colestipol resins bind the hydrochlorothiazide and reduce its absorption from the gastrointestinal tract by up to 85 and 43 percent, respectively.",
+   "efeito": "reduce absorption",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "hydrochlorothiazide:drug_interactions:0",
+   "origem": "hydrochlorothiazide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "norepinephrine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Pressor amines (e.g., norepinephrine): possible decreased response to pressor amines but not sufficient to preclude their use.",
+   "efeito": "decreased response",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "hydrochlorothiazide:drug_interactions:0",
+   "origem": "hydrochlorothiazide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "tubocurarine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Skeletal muscle relaxants, nondepolarizing (e.g., tubocurarine): possible increased responsiveness to the muscle relaxant.",
+   "efeito": "increased responsiveness",
+   "confianca": 0.8,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "hydrochlorothiazide:drug_interactions:0",
+   "origem": "hydrochlorothiazide",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "lithium",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Diuretic agents reduce the renal clearance of lithium and greatly increase the risk of lithium toxicity.",
+   "efeito": "reduce renal clearance and increase risk of toxicity",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "hydrochlorothiazide:contraindications:0",
+   "origem": "hydrochlorothiazide",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "anuria",
+   "tipo_destino": "Condicao",
+   "evidencia": "Hydrochlorothiazide is contraindicated in patients with anuria.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}

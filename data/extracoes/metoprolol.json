@@ -1,0 +1,155 @@
+{
+ "generico": "metoprolol",
+ "modelos": [
+  "gemini-3.1-flash-lite"
+ ],
+ "trechos": [
+  {
+   "id": "metoprolol:drug_interactions:0",
+   "medicamento": "metoprolol",
+   "secao": "drug_interactions",
+   "texto": "7 DRUG INTERACTIONS Catecholamine-depleting drugs may have an additive effect when given with beta-blocking agents. ( 7.1 ) Patients may be unresponsive to the usual doses of epinephrine used to treat allergic reaction. ( 7.2 ) CYP2D6 Inhibitors are likely to increase metoprolol concentration. ( 7.3 ) Concomitant use of glycosides, clonidine, and diltiazem and verapamil with beta-blockers can increase the risk of bradycardia. ( 7.4 ) Beta-blockers including metoprolol, may exacerbate the rebound hypertension that can follow the withdrawal of clonidine. ( 7.4 ) 7.1 Catecholamine Depleting Drugs Catecholamine depleting drugs (e.g., reserpine, monoamine oxidase (MAO) inhibitors) may have an additive effect when given with beta-blocking agents."
+  },
+  {
+   "id": "metoprolol:drug_interactions:1",
+   "medicamento": "metoprolol",
+   "secao": "drug_interactions",
+   "texto": "Observe patients treated with Metoprolol tartrate plus a catecholamine depletor for evidence of hypotension or marked bradycardia, which may produce vertigo, syncope, or postural hypotension. 7.2 Epinephrine While taking beta-blockers, patients with a history of severe anaphylactic reactions to a variety of allergens may be more reactive to repeated challenge and may be unresponsive to the usual doses of epinephrine used to treat an allergic reaction. 7.3 CYP2D6 Inhibitors Drugs that are strong inhibitors of CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone were shown to double metoprolol concentrations. While there is no information about moderate or weak inhibitors, these too are likely to increase metoprolol concentration. Increases in plasma concentration decrease the cardioselectivity of metoprolol [see Clinical Pharmacology (12.3) ] . Monitor patients closely, when the combination cannot be avoided. 7.4 Negative Chronotropes Digitalis glycosides, clonidine, diltiazem and verapamil slow atrioventricular conduction and decrease heart rate. Concomitant use with beta blockers can increase the risk of bradycardia."
+  },
+  {
+   "id": "metoprolol:drug_interactions:2",
+   "medicamento": "metoprolol",
+   "secao": "drug_interactions",
+   "texto": "If clonidine and a beta blocker, such as metoprolol are coadministered, withdraw the beta-blocker several days before the gradual withdrawal of clonidine because beta-blockers may exacerbate the rebound hypertension that can follow the withdrawal of clonidine. If replacing clonidine by beta-blocker therapy, delay the introduction of beta-blockers for several days after clonidine administration has stopped."
+  },
+  {
+   "id": "metoprolol:contraindications:0",
+   "medicamento": "metoprolol",
+   "secao": "contraindications",
+   "texto": "4 CONTRAINDICATIONS Metoprolol tartrate is contraindicated in severe bradycardia, second or third degree heart block, cardiogenic shock, systolic blood pressure <100, decompensated heart failure, sick sinus syndrome (unless a permanent pacemaker is in place), and in patients who are hypersensitive to any component of this product. Known hypersensitivity to product components. ( 4 ) Severe bradycardia: Greater than first degree heart block, or sick sinus syndrome without a pacemaker. ( 4 ) Cardiogenic shock or decompensated heart failure. ( 4 )"
+  },
+  {
+   "id": "metoprolol:clinical_pharmacology:0",
+   "medicamento": "metoprolol",
+   "secao": "clinical_pharmacology",
+   "texto": "This preferential effect is not absolute, however, and at higher plasma concentrations, metoprolol also inhibits beta 2 -adrenoreceptors, chiefly located in the bronchial and vascular musculature. Angina Pectoris: By blocking catecholamine-induced increases in heart rate, in velocity and extent of myocardial contraction, and in blood pressure, metoprolol reduces the oxygen requirements of the heart at any given level of effort, thus making it useful in the long-term management of angina pectoris. Heart Failure: The precise mechanism for the beneficial effects of beta-blockers in heart failure has not been elucidated. 12.2 Pharmacodynamics Clinical pharmacology studies have confirmed the beta-blocking activity of metoprolol in man, as shown by (1) reduction in heart rate and cardiac output at rest and upon exercise, (2) reduction of systolic blood pressure upon exercise, (3) inhibition of isoproterenol-induced tachycardia, and (4) reduction of reflex orthostatic tachycardia."
+  },
+  {
+   "id": "metoprolol:clinical_pharmacology:1",
+   "medicamento": "metoprolol",
+   "secao": "clinical_pharmacology",
+   "texto": "Stroke volume, diastolic blood pressure and pulmonary artery end diastolic pressure remained unchanged. 12.3 Pharmacokinetics Absorption: The estimated oral bioavailability of immediate release metoprolol is about 50% because of pre- systemic metabolism which is saturable leading to non-proportionate increase in the exposure with increased dose. Metoprolol is not a significant P- glycoprotein substrate. The mean elimination half-life of metoprolol is 3 to 4 hours; in poor CYP2D6 metabolizers the half-life may be 7 to 9 hours. Metabolism: Metoprolol tartrate is primarily metabolized by CYP2D6. Metoprolol is a racemic mixture of R- and S- enantiomers, and when administered orally, it exhibits stereoselective metabolism that is dependent on oxidation phenotype. CYP2D6 is absent (poor metabolizers) in about 8% of Caucasians and about 2% of most other populations. Poor CYP2D6 metabolizers exhibit several-fold higher plasma concentrations of Metoprolol tartrate than extensive metabolizers with normal CYP2D6 activity thereby decreasing Metoprolol tartrate’s cardioselectivity."
+  },
+  {
+   "id": "metoprolol:clinical_pharmacology:2",
+   "medicamento": "metoprolol",
+   "secao": "clinical_pharmacology",
+   "texto": "In most subjects (extensive metabolizers), less than 5% of an oral dose and less than 10% of an intravenous dose are excreted as unchanged drug in the urine. In poor metabolizers, up to 30% or 40% of oral or intravenous doses, respectively, may be excreted unchanged; the rest is excreted by the kidneys as metabolites that appear to have no beta-blocking activity. Specific populations Geriatric patients : The geriatric population may show slightly higher plasma concentrations of metoprolol as a combined result of a decreased metabolism of the drug in elderly population and a decreased hepatic blood flow. Hepatic Impairment : Since the drug is primarily eliminated by hepatic metabolism, hepatic impairment may impact the pharmacokinetics of metoprolol Drug Interactions Metoprolol is metabolized predominantly by CYP2D6. In healthy subjects with CYP2D6 extensive metabolizer phenotype, coadministration of quinidine 100 mg, a potent CYP2D6 inhibitor, and immediate-release metoprolol 200 mg tripled the concentration of S-metoprolol and doubled the metoprolol elimination half-life."
+  },
+  {
+   "id": "metoprolol:clinical_pharmacology:3",
+   "medicamento": "metoprolol",
+   "secao": "clinical_pharmacology",
+   "texto": "Extensive metabolizers who concomitantly use CYP2D6 inhibiting drugs will have increased (several-fold) metoprolol blood levels, decreasing metoprolol's cardioselectivity [see Drug Interactions (7.2) ]. 12.5 Pharmacogenomics CYP2D6 is absent in about 8% of Caucasians (poor metabolizers) and about 2% of most other populations. CYP2D6 can be inhibited by several drugs. Poor metabolizers of CYP2D6 will have increased (several-fold) metoprolol blood levels, decreasing metoprolol's cardioselectivity."
+  }
+ ],
+ "relacoes": [
+  {
+   "trecho_id": "metoprolol:drug_interactions:0",
+   "origem": "metoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "INTERAGE_COM",
+   "destino": "clonidine",
+   "tipo_destino": "Medicamento",
+   "evidencia": "Beta-blockers including metoprolol, may exacerbate the rebound hypertension that can follow the withdrawal of clonidine.",
+   "efeito": "exacerbate rebound hypertension",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "metoprolol:clinical_pharmacology:1",
+   "origem": "metoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "E_METABOLIZADO_POR",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Metoprolol tartrate is primarily metabolized by CYP2D6.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "metoprolol:contraindications:0",
+   "origem": "metoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "severe bradycardia",
+   "tipo_destino": "Condicao",
+   "evidencia": "Metoprolol tartrate is contraindicated in severe bradycardia",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "metoprolol:contraindications:0",
+   "origem": "metoprolol",
+   "tipo_origem": "Medicamento",
+   "tipo": "CONTRAINDICADO_EM",
+   "destino": "cardiogenic shock",
+   "tipo_destino": "Condicao",
+   "evidencia": "Metoprolol tartrate is contraindicated in ... cardiogenic shock",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "metoprolol:drug_interactions:1",
+   "origem": "quinidine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drugs that are strong inhibitors of CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone were shown to double metoprolol concentrations.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "metoprolol:drug_interactions:1",
+   "origem": "fluoxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drugs that are strong inhibitors of CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone were shown to double metoprolol concentrations.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "metoprolol:drug_interactions:1",
+   "origem": "paroxetine",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drugs that are strong inhibitors of CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone were shown to double metoprolol concentrations.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  },
+  {
+   "trecho_id": "metoprolol:drug_interactions:1",
+   "origem": "propafenone",
+   "tipo_origem": "Medicamento",
+   "tipo": "INIBE",
+   "destino": "CYP2D6",
+   "tipo_destino": "Enzima",
+   "evidencia": "Drugs that are strong inhibitors of CYP2D6 such as quinidine, fluoxetine, paroxetine, and propafenone were shown to double metoprolol concentrations.",
+   "efeito": "",
+   "confianca": 1.0,
+   "modelo": "gemini-3.1-flash-lite"
+  }
+ ],
+ "rejeitadas": []
+}
